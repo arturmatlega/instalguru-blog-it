@@ -10,28 +10,28 @@ fields:
   label: pagename
 - type: text
   name: seo_title
-  label: Tytuł (Meta)
+  label: Tytuł (SEO)
 - type: text
   name: seo_description
-  label: Opis (Meta)
+  label: Opis (SEO)
 - type: boolean
   name: menu
-  label: menu
+  label: Widoczność w menu
 - type: text
   name: menu_title
-  label: menu_title
+  label: Nazwa w menu
 - type: text
   name: page_header
-  label: page_header
+  label: Tytuł strony
 - type: textarea
   name: page_intro
-  label: page_intro
+  label: Opis strony
 - type: textarea
   name: blog_intro
-  label: blog_intro
+  label: Sekcja najnowsze artykuły
 - type: field_group_list
   name: hreflangs
-  label: hreflangs
+  label: Wersje językowe
   fields:
   - type: text
     name: lang

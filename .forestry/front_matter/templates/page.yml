@@ -17,7 +17,7 @@ fields:
   label: Opis (SEO)
 - type: boolean
   name: menu
-  label: Wyświetlić w menu
+  label: Widoczność w menu
   hidden: false
   default: true
 - type: text
