@@ -6,7 +6,7 @@ seo_description: Szukasz najlepszego dystrybutora wyposażenia instalacyjnego? S
   ofertę InstalGuru. Proponujemy artykuły systemów wodnych, wentylacyjnych i montażowych.
 menu: true
 menu_title: O nas
-page_header: PAGE O nas
+page_header: O nas
 hreflangs:
 - lang: pl
   link: https://instalguru.pl/
