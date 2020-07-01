@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: _data/translations.yml
-  label: Tłumaczenia
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
@@ -19,6 +15,10 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  path: _data/translations.yml
+  label: Tłumaczenia
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
