@@ -14,6 +14,9 @@ fields:
 - type: textarea
   name: seo_description
   label: Opis (SEO)
+  config:
+    max: 160
+    required: false
 - type: boolean
   name: menu
   label: Widoczność w menu
