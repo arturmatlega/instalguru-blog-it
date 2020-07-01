@@ -1,8 +1,9 @@
 ---
 layout: page
 pagename: aboutus
-seo_title: SEO O nas
-seo_description: MEAT O nas
+seo_title: InstalGuru - Najlepszy dystrybutor wyposażenia instalacyjnego
+seo_description: Szukasz najlepszego dystrybutora wyposażenia instalacyjnego? Sprawdź
+  ofertę InstalGuru. Proponujemy artykuły systemów wodnych, wentylacyjnych i montażowych.
 menu: true
 menu_title: O nas
 page_header: PAGE O nas
