@@ -4,59 +4,59 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
 - type: text
   name: seo_title
-  label: seo_title
+  label: Meta Title
 - type: text
   name: seo_description
-  label: seo_description
+  label: Meta Description
 - type: datetime
   name: date
-  label: date
+  label: Data publikacji
 - type: datetime
   name: update_date
-  label: update_date
+  label: Data aktualizacji
 - type: text
   name: title
-  label: title
+  label: Tytuł
 - type: text
   name: small-intro
-  label: small-intro
+  label: Wstęp (listing)
 - type: textarea
   name: intro
-  label: intro
+  label: Wstęp (wpis)
 - type: file
   name: photo
-  label: photo
+  label: Zdjęcie główne
 - type: text
   name: photo_desc
-  label: photo_desc
+  label: Zdjęcie główne opis
 - type: field_group_list
   name: faq
-  label: faq
+  label: FAQ
   fields:
   - type: text
     name: question
-    label: question
+    label: Pytanie
   - type: text
     name: answer
-    label: answer
+    label: Odpowiedź
 - type: text
   name: author_name
-  label: author_name
+  label: Autor
 - type: text
   name: author_desc
-  label: author_desc
+  label: Autor - Stanowisko
 - type: file
   name: author_photo
-  label: author_photo
+  label: Auto - Zdjęcie
 - type: boolean
   name: toc
-  label: toc
+  label: Spis treści
 - type: field_group_list
   name: hreflangs
-  label: hreflangs
+  label: Wersje językowe
   fields:
   - type: text
     name: lang
