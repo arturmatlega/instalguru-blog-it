@@ -5,7 +5,7 @@ seo_description: "Jak wykonać  poprawnie działającą instalację gazową? ✔
   do gazu będą lepsze - przewody miedziane \U0001F19A rurki stalowe? Postaw na jakość
   i trwałość."
 date: 2019-10-28T16:02:04.000+00:00
-update_date: 2019-10-28 16:02:04 +0000
+update_date: 2019-10-28T16:02:04.000+00:00
 title: |-
   Jakie rury do gazu wybrać - przewody miedziane czy stalowe? Instalacja gazowa
   bez tajemnic
@@ -23,14 +23,12 @@ photo: "/uploads/195e87ad8a354ffb801e5efc82cd9ffe.jpg"
 photo_desc: 'Nie każda instalacja gazowa jest jednak taka sama, co jest zależne od
   wykorzystanych do jej stworzenia materiałów. '
 faq:
-- question: |-
-    Ile kosztuje instalacja gazowa?
+- question: Ile kosztuje instalacja gazowa?
   answer: |-
     Koszt instalacji gazowej to wydatek rzędu 1700 - 3000 złotych w zależności
     od wymagań, charakteru projektu i wykorzystanych materiałów. Wycena zależna jest
     także od kosztu robocizny - ten może być różny w zależności np. od miejsca zamieszkania.
-- question: |-
-    Instalacja gazowa w domu - jakie rury wybrać?
+- question: Instalacja gazowa w domu - jakie rury wybrać?
   answer: |-
     Według niektórych osób przewody miedziane są idealnym wyborem do instalacji
     gazowych. Zaletą tego rozwiązania jest fakt, że rury miedziane do gazu są plastyczne
@@ -38,9 +36,9 @@ faq:
     instalacjach gazowych, których główną zaletą jest przede wszystkim sztywność.
     Dzięki tej właściwości nie ma konieczności stosowania dodatkowych mocowań do powierzchni
     ściany.
-author_name: Maksymilian Ignacyk
-author_desc: Specjalista ds. sprzedaży i marketingu w sklepie Instalguru
-author_photo: "/uploads/maks.jpg"
+author_name: Mateusz Knapik
+author_desc: Specjalista ds. sprzedaży i obsługi klienta w sklepie Instalguru
+author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
 - lang: pl
@@ -57,46 +55,42 @@ hreflangs:
   link: https://instalguru.es/
 
 ---
-## Czym jest zawór termostatyczny?
+## Rury miedziane do gazu? Jakie zalety ma tak stworzona instalacja gazowa?
 
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+Rury miedziane do gazu to wybór polecany tak naprawdę przez wielu specjalistów. **Co wpływa na ten fakt?** Przede wszystkim przewody miedziane są plastyczne, a jednocześnie odporne na rozciąganie. Jest to bardzo ważna kwestia, którą należy uwzględnić podczas pracy przy wysokich temperaturach, jakie osiąga instalacja gazowa.
 
-{:.distinction.distinction-quotation}
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+To, na co warto zwrócić uwagę, wybierając rury miedziane do gazu, to wygospodarowanie dostatecznej ilości miejsca na instalację, które może delikatnie zwiększać swój rozmiar. Z drugiej strony jednak **przewody miedziane do instalacji gazowej** są mniejsze ze względu na cieńsze ścianki i wykorzystanie mniejszej ilości materiału do ich produkcji porównując z nimi, chociażby rurki stalowe.
 
-{:.distinction.distinction-info.distinction-positive}
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+{:.distinction.distinction-quotation.distinction-positive}
 
-{:.distinction.distinction-question.distinction-negative}
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+_Przewody miedziane sprawiają, że instalacja gazowa w domu jest szczelna i odporna na różne czynniki np. duże promieniowanie UV. Jednak największą zaletą jest fakt, że rury miedziane do gazu charakteryzuje wysoka odporność na korozję._
 
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+### Jak łączyć ze sobą przewody miedziane?
 
-{:.list}
+Instalacja gazowa, w której zastosowane zostały przewody miedziane, daje wiele możliwości w zakresie ich łączenia. Rury miedziane do gazu są twarde, a ich grubość przekracza 1mm. W związku z tymi właściwościami najczęściej stosowana metoda to lutowanie. Przed wykonaniem łączenia warto oczyścić powierzchnię za pomocą specjalnej [szczotki do miedzi](https://instalguru.com/pl/products/szczotka-do-miedzi), dzięki czemu będzie ono trwalsze. Specjaliści zalecają także wykorzystanie [pasty do lutu](https://instalguru.com/pl/products/pasta-do-lutu-degufit-3000), która przeznaczona jest do rur i złączek wykonanych z miedzi.
 
-* Trwałość - w wielu krajach Europy zakłada się, że instalacja kanalizacyjna powinna działać bez zarzutu przez co najmniej 200 lat. Wydaje się to długo, jednak biorąc pod uwagę przykładowo kanały rzymskie, które są sprawne od 2000 lat, można zmienić swoje podejście do sprawy. Im wyższej jakości materiał, tym dłużej system kanalizacyjny będzie działał.
-* Szczelność - rury nie mogą przepuszczać ani wód gruntowych z zewnątrz, ani ścieków na zewnątrz. Oprócz tworzywa, z którego wykonano połączenia, materiał stosowany do uszczelnień również musi być bardzo trwały.
+Innym sposobem jest także wykorzystanie [kształtek zaprasowywanych](https://instalguru.com/pl/systemy-instalacyjne/ksztaltki/zaprasowywane). W tym przypadku sprawdzi się zwykła [złączka PEX](https://instalguru.com/pl/products/zlaczka-pex-zaprasowywana). Jeżeli jednak będziesz chciał zmienić kierunek biegu instalacji gazowej - dopasowują go tym samym do konstrukcji budynku, wykorzystaj [trójniki PEX](https://instalguru.com/pl/products/trojnik-pex-zaprasowywany) lub [kolanka zaprasowywane](https://instalguru.com/pl/products/kolanko-pex-zaprasowywane). Sam montaż tych elementów jest natomiast obecnie jednym z najłatwiejszych, dzięki temu poradzi sobie z nim każdy specjalista. To przekłada się także na zdecydowanie niższy koszt instalacji gazowej.
 
-Teścick nagłowka dla listy
+![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
 
-{:.list.list-positive}
+## Rurki stalowe - instalacja gazowa bardziej narażona na szkodliwe czynniki?
 
-* Odporność na korozję - substancje płynące w ściekach mogą być żrące, dlatego ściany wewnętrzne kanału nie mogą wchodzić z nimi w reakcje i powinny być odporne na ich szkodliwe działanie.
-* Ścieralność - w miarę używania dno kanału przeciera się, co może zmniejszać nośność. Dlatego należy dokładnie wyliczyć ubytek grubości dla wybranego okresu eksploatacji.
+Rurki stalowe, które wykorzystuje instalacja gazowa, mają średnice większe niż w przypadku odpowiedników wykonanych z miedzi. Wynika to z faktu, że ich ścianki są grubsze. Dzięki temu są one sztywne i nie ma konieczności wykorzystywania dodatkowych elementów mocowania do ściany. **Niestety w ten sposób wykonana instalacja gazowa w domu jest także zdecydowanie cięższa.** Rurki stalowe podobnie, jak i przewody miedziane mają właściwość nazywaną rozszerzalnością cieplną. Dzięki temu doskonale sprawdzają się w przypadku wysokich temperatur.
 
-{:.list.list-negative}
+{:.distinction.distinction-quotation.distinction-negative}
 
-* Chropowatość ścian - zależy od niej stopień odkładania się osadów, szczególnie w przypadku przewodów o małych spadkach. Należy uwzględnić zarówno chropowatość początkową, jak i jej szacowaną wartość po pewnym czasie użytkowania. Przykładowo w rurach żeliwnych zjawisko inkrustacji zwiększa ten współczynnik. Ulega on zmianie również w rurach betonowych.
-* Szczelność - rury nie mogą przepuszczać ani wód gruntowych z zewnątrz, ani ścieków na zewnątrz. Oprócz tworzywa, z którego wykonano połączenia, materiał stosowany do uszczelnień również musi być bardzo trwały.
+_Montaż tych elementów jest możliwy dzięki ich spawaniu lub łączeniu na gwincie. W porównaniu do instalacji wykonanej z miedzi czas jego wykonania jest jednak znacznie dłuższy. Minusem może być również o wiele niższa odporność na korozję i powstawanie kamienia w przewodach. Właśnie z tego względu rurki stalowe są rzadziej wybierane niż przewody miedziane._
 
-### Czym jest zawór termostatyczny?
+## Jaka instalacja gazowa będzie lepsza - z wykorzystaniem rur miedzianych czy stalowych?
 
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+Zarówno rurki stalowe, jak i przewody miedziane mają swoje wady i zalety. Na korzyść miedzi oprócz funkcjonalności przemawia także estetyka wykonania. Tego typu instalacja gazowa może być wykorzystana jako element wystroju wnętrza. Nie jest ona jednak wskazana dla systemu podtynkowego. Równie wytrzymałe są rurki stalowe, które idealnie sprawdzają się w zabudowie. Nie powinny one natomiast być montowane w tych miejscach, gdzie panuje duża wilgoć.
 
-#### Czym jest zawór termostatyczny?
+Instalacja gazowa w domu powinna być zatem dopasowana do warunków, jakie panują w konkretnym budynku.
 
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+## Instalacja gazowa w domu - dodatkowe wyposażenie, w które warto zainwestować
 
-![test](/uploads/64db9a64c63644e1bdc1c8f88bbe95e8.jpg "test")
+Jeżeli wybierzesz odpowiednie rury do gazu, pamiętaj, aby skompletować także pozostałe wyposażenie, które będzie odpowiadać za prawidłową pracę całego systemu w budynku. Same **rury gazowe** są oczywiście podstawą, ale nie powinny być stosowane bez dodatkowych części.
 
-Zawór termostatyczny to podstawowy element wyposażenia, które znajduje zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej dla użytkownika temperatury.
+Wśród najważniejszych elementów wymienia się przede wszystkim zawory kulowe. Wykorzystanie tego komponentu jest bardzo ważne - zwłaszcza w sytuacji, kiedy dopływ gazu musi być szybko zamknięty. Doskonałym przykładem jest awaria, która może zdarzyć się zawsze. Wykorzystując [zawór kulowy do gazu](https://instalguru.com/pl/products/zawor-kulowy-do-gazu), masz pewność, że zawsze, kiedy będzie taka potrzeba - będziesz mógł samodzielnie zamknąć jego dopływ do domu. To ogromny komfort, kiedy nie trzeba wzywać specjalisty do tak błahego zadania.
+
+Dobrze działająca instalacja gazowa w domu jest także zależna od takich akcesoriów jak [filtr skośny do gazu](https://instalguru.com/pl/products/filtr-skosny-do-gazu). Dzięki niemu możesz pozbyć się wszelkich zanieczyszczeń znajdujących się w systemie instalacyjnym. Ten mały, aczkolwiek bardzo funkcjonalny produkt jest w stanie zapobiegać awariom, które mogłyby się skończyć poważnymi skutkami, a przede wszystkim generowałyby wysokie koszty naprawy.
