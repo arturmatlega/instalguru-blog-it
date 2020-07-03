@@ -38,10 +38,10 @@ fields:
   name: faq
   label: FAQ
   fields:
-  - type: text
+  - type: textarea
     name: question
     label: Pytanie
-  - type: text
+  - type: textarea
     name: answer
     label: Odpowiedź
 - type: text
