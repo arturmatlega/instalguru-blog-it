@@ -1,7 +1,7 @@
 title: "Instalguru"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://instalguru.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
-lang: "en"
+url: "https://instalguru.it" # the base hostname & protocol for your site, e.g. http://example.com
+lang: "it"
 photo: "/assets/img/default.jpg"
 
 markdown: kramdown
