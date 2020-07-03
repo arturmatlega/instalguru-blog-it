@@ -4,8 +4,8 @@ seo_title: Jakie Rury do Gazu Wybrać? Które Przewody Będą Trwałe?
 seo_description: "Jak wykonać  poprawnie działającą instalację gazową? ✔️ Które rury
   do gazu będą lepsze - przewody miedziane \U0001F19A rurki stalowe? Postaw na jakość
   i trwałość."
-date: 2019-07-28 15:02:04 +0000
-update_date: 2019-07-28 15:02:04 +0000
+date: 2019-07-17 15:02:04 +0000
+update_date: 2019-07-17 15:02:04 +0000
 title: |-
   Jakie rury do gazu wybrać - przewody miedziane czy stalowe? Instalacja gazowa
   bez tajemnic
