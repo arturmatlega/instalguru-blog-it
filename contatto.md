@@ -1,8 +1,9 @@
 ---
 layout: page
 pagename: contact
-seo_title: SEO Kontakt
-seo_description: META Kontakt
+seo_title: Instalguru | Contatto e servizio clienti
+seo_description: Siete interessati alla nostra offerta? Contattate i nostri esperti.
+  Ottieni informazioni accurate sui prodotti o sul tuo ordine.
 menu: true
 menu_title: Contatto
 page_header: Contatto
@@ -23,4 +24,6 @@ hreflangs:
   link: https://instalguru.cz/kontakt.html
 
 ---
-Content strony kontakt
+Avete domande sulle nostre offerte o sul vostro ordine? Avete bisogno di aiuto per scegliere i prodotti? Potete contattarci per telefono (+48 731 345 841) o per e-mail (contact@instalguru.com).
+
+Vi risponderemo il prima possibile.
