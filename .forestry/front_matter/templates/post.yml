@@ -66,3 +66,5 @@ fields:
   - type: text
     name: link
     label: link
+pages:
+- _posts/2019-07-22-raccord-per-tubi-i-raccordi-filettati-e-i-raccordi-a-pressare-sono-diversi.md
