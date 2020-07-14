@@ -3,8 +3,8 @@ layout: post
 seo_title: Pipe cover, pipe boxing? How to conceal exposed pipes?
 seo_description: If your pipes have been left exposed, you might want to conceal them.
   Are you wondering what is the best pipe cover? Check, how to hide pipes effectively.
-date: 2020-02-10 11:00:00 +0000
-update_date: 2020-02-10 11:00:00 +0000
+date: 2020-02-10T11:00:00.000+00:00
+update_date: 2020-02-10T11:00:00.000+00:00
 title: Pipe cover - how to hide exposed pipes?
 small-intro: 'A perfect interior design is one that matches your individual taste
   and sense of style. '
