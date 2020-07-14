@@ -4,8 +4,8 @@ seo_title: Bathroom accessories. How to install bathroom furniture?
 seo_description: Bath, shower, basin and toilet are the most important elements of
   every bathroom. How to properly install bathroom accessories? Learn in the article
   below.
-date: 2020-01-21 11:00:00 +0000
-update_date: 2020-01-21 11:00:00 +0000
+date: 2020-01-21T11:00:00.000+00:00
+update_date: 2020-01-21T11:00:00.000+00:00
 title: Bathroom accessories installation
 small-intro: The most important, and the most difficult stage of furnishing your bathroom
   is finding the right bathroom accessories
