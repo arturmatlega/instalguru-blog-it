@@ -4,8 +4,8 @@ seo_title: How to remove odour from bathroom or kitchen sink?
 seo_description: If you’re wondering what’s the smell coming from your kitchen sink,
   don’t worry. It’s a common problem. Fortunately there are methods to remove the
   odour.
-date: 2020-01-03 11:00:00 +0000
-update_date: 2020-01-03 11:00:00 +0000
+date: 2020-01-03T11:00:00.000+00:00
+update_date: 2020-01-03T11:00:00.000+00:00
 title: How to get rid of a bad smell from your sink?
 small-intro: Learn how to remove the unpleasant smell from your sink and how to prevent
   it in the future.
