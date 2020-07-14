@@ -4,8 +4,8 @@ seo_title: Choosing toilet seat cover. The most important matters
 seo_description: Choosing the right toilet seat might not be as simple as it seems.
   There are various parameters that you should pay attention to, such as toilet seat
   sizes.
-date: 2020-01-09 11:00:00 +0000
-update_date: 2020-01-09 11:00:00 +0000
+date: 2020-01-09T11:00:00.000+00:00
+update_date: 2020-01-09T11:00:00.000+00:00
 title: How to choose the right toilet seat cover?
 small-intro: 'Toilet seat is one of the most important elements of any toilet. '
 intro: Toilet seat is one of the most important elements of any toilet. This part
