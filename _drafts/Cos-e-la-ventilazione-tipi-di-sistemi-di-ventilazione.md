@@ -3,8 +3,8 @@ layout: post
 seo_title: Ventilation - what are the types of ventilation systems?
 seo_description: Ventilation is one of the most important elements of every apartment
   and office. How to build a good ventilation system that will make your home fresh?
-date: 2019-12-23 11:00:00 +0000
-update_date: 2019-12-23 11:00:00 +0000
+date: 2019-12-23T11:00:00.000+00:00
+update_date: 2019-12-23T11:00:00.000+00:00
 title: What is ventilation? Types of ventilation systems
 small-intro: Home ventilation system might be hidden from sight, but it plays one
   of the most important roles in every apartment.
