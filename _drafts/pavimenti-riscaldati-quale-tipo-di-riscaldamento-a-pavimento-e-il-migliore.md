@@ -3,8 +3,8 @@ layout: post
 seo_title: Heated floors - which type of underfloor heating is the best?
 seo_description: Floor heating might be quite an advantageous system. It is invisible,
   quiet and efficient. Unsurprisingly, heated floors are becoming more and more popular.
-date: 2019-12-30 11:00:00 +0000
-update_date: 2019-12-30 11:00:00 +0000
+date: 2019-12-30T11:00:00.000+00:00
+update_date: 2019-12-30T11:00:00.000+00:00
 title: Heated floors - which type of underfloor heating is the best?
 small-intro: Heating systems are one of the most important installations in a building.
 intro: Heating systems are one of the most important installations in a building.
