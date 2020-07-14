@@ -1,87 +1,87 @@
 ---
 layout: post
-seo_title: Bathroom accessories. How to install bathroom furniture?
-seo_description: Bath, shower, basin and toilet are the most important elements of
-  every bathroom. How to properly install bathroom accessories? Learn in the article
-  below.
+seo_title: Accessori per il bagno. Come installare i mobili da bagno?
+seo_description: Bagno, doccia, lavabo e toilette sono gli elementi più importanti
+  di ogni bagno. Come installare correttamente gli accessori per il bagno?
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
-title: Bathroom accessories installation
-small-intro: The most important, and the most difficult stage of furnishing your bathroom
-  is finding the right bathroom accessories
-intro: The most important, and the most difficult stage of furnishing your bathroom
-  is finding the right bathroom accessories. Installation of bathroom furniture such
-  as toilet, basin, shower or bath might be problematic. How to quickly install the
-  sanitary fittings and connect them to water supply and sewage system? Learn what
-  you should know about it. A proper installation of bathroom accessories is a highly
-  important matter - correct functioning of the fittings depends on it. If the appliances
-  are plumbed improperly, they might leak and, in consequence, flood the bathroom.
-  It might cause improper circulation of water in the installation. That is why correct
-  installation of all fittings is so crucial for bathroom t function properly.
+title: Installazione degli accessori per il bagno
+small-intro: La fase più importante, e la più difficile, per arredare il vostro bagno
+  è trovare i giusti accessori per il bagno
+intro: La fase più importante, e la più difficile, dell'arredamento del bagno è quella
+  di trovare i giusti accessori per il bagno. L'installazione di mobili da bagno come
+  toilette, lavabo, doccia o vasca da bagno potrebbe essere problematica. Come installare
+  rapidamente i sanitari e collegarli alla rete idrica e fognaria? Imparate quello
+  che dovreste sapere. Una corretta installazione degli accessori per il bagno è una
+  questione molto importante - il corretto funzionamento dei sanitari dipende da questo.
+  Se gli elettrodomestici non vengono installati correttamente, potrebbero perdere
+  e, di conseguenza, allagare il bagno. Ciò potrebbe causare una cattiva circolazione
+  dell'acqua nell'impianto. Ecco perché la corretta installazione di tutti gli accessori
+  è così cruciale per il corretto funzionamento del bagno.
 photo: "/uploads/96ef8ac978b9458887607b6d09e23b84.png"
-photo_desc: Bathroom accessories installation is only seemingly difficult.
+photo_desc: L'installazione degli accessori per il bagno è solo apparentemente difficile.
 faq:
-- question: Where to buy bathroom accessories?
-  answer: The best place to buy bathroom accessories is a hardware shop. You might
-    also search the Internet auctions. In both cases, make sure to measure everything
-    in advance.
+- question: Dove acquistare gli accessori per il bagno?
+  answer: Il posto migliore per acquistare accessori per il bagno è un negozio di
+    ferramenta. Si può anche cercare nelle aste su Internet. In entrambi i casi, assicuratevi
+    di misurare tutto in anticipo.
 author_name: Emilia Konieczny
-author_desc: Product Specialist at Instalguru
+author_desc: Specialista di prodotto presso Instalguru
 author_photo: "/uploads/f0defcc2aa5447b4a5398b8f6eff9596.jpg"
 toc: true
 hreflangs: []
 
 ---
-## How to plumb a basin?
+## Come si fa a sondare un bacino?
 
-There are several methods for **basin installation**. A wall-hung bowl is attached to the wall with bolts and brackets. There are also standing sinks combined with cupboards - vanity units.
+Ci sono diversi metodi per l'installazione del bacino. Una bacinella appesa al muro viene fissata alla parete con bulloni e staffe. Ci sono anche lavelli in piedi combinati con armadi - vanity units.
 
 {:.distinction.distinction-info.distinction-negative}
 
-Depending on a particular model, the installation process is going to be different.
+A seconda di un particolare modello, il processo di installazione sarà diverso.
 
-### Wall hung basin
+### Bacinella appesa al muro
 
-This type of bathroom furniture usually have round or square shapes. How difficult a sink is to attach to a wall depends on its form. Keep in mind that in this type of appliance a sink trap remains visible. For this reason it is a good idea to choose an appliance that matches the rest of the whole bathroom design. A **chrome element might be the best solution** in this case.
+Questo tipo di mobili da bagno di solito hanno forme rotonde o quadrate. Quanto sia difficile fissare un lavandino a una parete dipende dalla sua forma. Tenete presente che in questo tipo di apparecchio rimane visibile una trappola per lavello. Per questo motivo è una buona idea scegliere un elettrodomestico che si abbini al resto del design del bagno. Un elemento cromato potrebbe essere la soluzione migliore in questo caso.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-It is also possible to hide the installation elements behind a pedestal or a trap cover. It is one of the most popular solutions in this case.
+È anche possibile nascondere gli elementi di installazione dietro un piedistallo o un coperchio per trappole. Si tratta di una delle soluzioni più popolari in questo caso.
 
-Start the installation from placing an automatic sink waste in the drain. Then install the faucet. Remember to insert seals **protecting the sink from leaking**. Attach the sink trap and insert a drain pipe into it (remembering to put a seal) and a cap. You can do it manually, special tools are not necessary in this case.
+Iniziare l'installazione dal posizionamento di un dissipatore automatico di rifiuti nello scarico. Quindi installare il rubinetto. Ricordate di inserire delle guarnizioni che proteggano il lavello dalle perdite. Attaccate il sifone del lavandino e inserite un tubo di scarico (ricordando di mettere una guarnizione) e un tappo. Potete farlo manualmente, in questo caso non sono necessari attrezzi speciali.
 
-### Vanity unit
+### Unità Vanity
 
-This type usually contains a basin shaped like oval or circle. Installation should start from cutting two holes in the cupboard - for a faucet and for a drain. Then place the bowl in the right opening. Attach the bottom of the sink to the cupboard, using transparent silicone. Spread the substance on the edges and press the basin against the cupboard. Wipe the excess silicone using a soft, damp cloth. The last step involves the trap installation and plugging the appliances to the water system. Use flexible hoses or copper pipes for this purpose.
+Questo tipo contiene di solito un bacino a forma di ovale o di cerchio. L'installazione dovrebbe iniziare dal taglio di due fori nell'armadio - per un rubinetto e per uno scarico. Quindi posizionare la ciotola nell'apertura a destra. Fissare il fondo del lavandino all'armadio, utilizzando silicone trasparente. Stendere la sostanza sui bordi e premere il lavandino contro l'armadio. Strofinare il silicone in eccesso con un panno morbido e umido. L'ultimo passo consiste nell'installazione del sifone e nel collegare gli apparecchi all'impianto idrico. A tale scopo utilizzare tubi flessibili o tubi di rame.
 
 {:.distinction.distinction-info.distinction-negative}
 
-Remember to turn off the main water supply before starting the installation.
+Ricordarsi di spegnere la rete idrica principale prima di iniziare l'installazione.
 
 ![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
 
-## Installing a bath
+## Installazione di una vasca da bagno
 
-Where to install a bath? The best and most commonly chosen spots to place it are **bathroom walls**. Pay attention to the ground - the floor should be even so that the bath is stable. If you decided to install a bath in your bathroom, you should start from the legs - attach them to the bath and regulate their height.
+Dove installare un bagno? I punti migliori e più comunemente scelti per collocarla sono le pareti del bagno. Attenzione al pavimento - il pavimento deve essere uniforme in modo che la vasca da bagno sia stabile. Se avete deciso di installare una vasca da bagno nel vostro bagno, dovreste iniziare dalle gambe - attaccatele alla vasca e regolatene l'altezza.
 
-If you are sure that the bath is correctly fitted, tighten the legs so that they are firm. The next step is to attach the trap and drain pipe in the suitable spot.**Remember to put seals on both elements, so that the newly created system doesn’t leak.** The final thing that needs to be done is to attach the bath hose to the special drain hole.
+Se siete sicuri che la vasca da bagno sia montata correttamente, stringete le gambe in modo che siano ben salde. Il passo successivo è quello di fissare il sifone e il tubo di scarico nel punto adatto. Ricordate di mettere delle guarnizioni su entrambi gli elementi, in modo che il sistema appena creato non perda. L'ultima cosa da fare è attaccare il tubo della vasca da bagno all'apposito foro di scarico.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-After installing the whole system, put silicone on the ledges and secure the bath.
+Dopo aver installato l'intero sistema, mettere il silicone sulle sporgenze e fissare il bagno.
 
-## How to install a toilet?
+## Come installare una toilette?
 
-A toilet installation requires inserting a flushing mechanism into the largest opening. Remember to put a seal on it. The two remaining holes are intended for bolts and caps. The flush should be positioned in the tank and all pieces secured with polypropylene nuts. The whole appliance must be stable. **Make sure that the flush doesn’t budge.**
+L'installazione di una toilette richiede l'inserimento di un meccanismo di scarico nell'apertura più grande. Ricordarsi di mettere un sigillo. I due fori rimanenti sono destinati a bulloni e tappi. Lo sciacquone deve essere posizionato nel serbatoio e tutti i pezzi devono essere fissati con dadi in polipropilene. L'intero apparecchio deve essere stabile. Assicurarsi che lo sciacquone non si muova.
 
-The next step is to insert a float ball. It should be placed to the left or to the right of the flush. Place the cover on top and insert the flush valve in the hole inside.
+Il passo successivo è quello di inserire una sfera galleggiante. Essa deve essere posizionata a sinistra o a destra dello sciacquone. Posizionare il coperchio in alto e inserire la valvola di scarico nel foro all'interno.
 
-Insert a rubber offset pan connector into the drainpipe located in the **bathroom floor**. It needs to be connected with the vertical outlet of the toilet bowl. Mark spots for bolts. Place the bowl on the floor, aligning it with the bolt spots. Screw the bolts and insert wall plugs. Align the toilet bowl once again and screw it firmly, using a socket wrench.
+Inserire un connettore di gomma offset pan nel tubo di scarico situato nel pavimento del bagno. Deve essere collegato con l'uscita verticale del vaso della toilette. Segnare i punti per i bulloni. Posizionare il vaso sul pavimento, allineandolo con i punti di bullonatura. Avvitare i bulloni e inserire i tasselli. Allineare di nuovo il vaso della toilette e avvitarlo saldamente con una chiave a tubo.
 
 {:.distinction.distinction-info.distinction-positive}
 
-Make sure that the toilet is fixed in place and that it doesn’t budge.
+Assicuratevi che il gabinetto sia fissato al suo posto e che non si muova.
 
-Put caps on the bolts. The flush should be attached to the valve using toilet accessories - in this case a flexible hose. For a better result, cover the connection with silicone.
+Mettere i tappi sui bulloni. Lo sciacquone deve essere fissato alla valvola utilizzando accessori per la toilette - in questo caso un tubo flessibile. Per un risultato migliore, coprire il collegamento con del silicone.
 
-Bathroom accessories installation is only seemingly difficult. Thanks to appropriate manuals one can do it on one’s own.
+L'installazione degli accessori per il bagno è solo apparentemente difficile. Grazie ad appositi manuali si può fare da soli.
