@@ -1,11 +1,10 @@
 ---
 layout: post
-seo_title: What is drip irrigation system and where to install it?
-seo_description: "Wondering how to take care of your garden? \U0001F333 Drip irrigation
-  is a modern plant watering system. \U0001F449 Check if you can use it and how to
-  install it."
-date: 2020-07-26 22:00:00 +0000
-update_date: 2020-07-26 22:00:00 +0000
+seo_title: Cos'è l'impianto di irrigazione a goccia e dove installarlo?
+seo_description: "Come prendersi cura del proprio giardino? \U0001F333 L'irrigazione
+  a goccia è un sistema di irrigazione moderno. \U0001F449 Verificate come installarlo."
+date: 2020-07-26T22:00:00.000+00:00
+update_date: 2020-07-26T22:00:00.000+00:00
 title: How does drip irrigation system work? Where can it be used?
 small-intro: How to make your garden look stunning? Drip irrigation system might be
   aa tremendous help.
