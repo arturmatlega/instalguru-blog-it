@@ -36,7 +36,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Specialista vendite e marketing di Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: cz
+  link: https://instalguru.cz/blog/co-je-kapaci-zavlazovaci-system-a-kde-ho-instalovat.html
+- lang: es
+  link: https://instalguru.es/blog/que-es-el-sistema-de-riego-por-goteo-y-donde-instalarlo.html
+- lang: it
+  link: https://instalguru.it/blog/cose-limpianto-di-irrigazione-a-goccia-e-dove-installarlo.html
+- lang: de
+  link: https://instalguru.de/blog/was-ist-ein-tropfbewasserungssystem-wie-wird-es-installiert.html
+- lang: pl
+  link: https://instalguru.pl/blog/na-czym-polega-nawadnianie-kropelkowe-gdzie-je-zastosowac.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-fonctionne-un-systeme-dirrigation-au-goutte-a-goutte-ou-peut-il-etre-utilise.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-does-drip-irrigatioon-system-work-where-can-it-be-used.html
 
 ---
 ## Cos'è un impianto di irrigazione a goccia?
