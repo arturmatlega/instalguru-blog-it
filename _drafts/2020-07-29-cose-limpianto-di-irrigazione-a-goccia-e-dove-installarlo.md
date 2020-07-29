@@ -3,129 +3,131 @@ layout: post
 seo_title: Cos'è l'impianto di irrigazione a goccia e dove installarlo?
 seo_description: "Come prendersi cura del proprio giardino? \U0001F333 L'irrigazione
   a goccia è un sistema di irrigazione moderno. \U0001F449 Verificate come installarlo."
-date: 2020-07-26T22:00:00.000+00:00
-update_date: 2020-07-26T22:00:00.000+00:00
-title: How does drip irrigation system work? Where can it be used?
-small-intro: How to make your garden look stunning? Drip irrigation system might be
-  aa tremendous help.
-intro: How to make your garden look stunning? It's a problem of many gardeners. The
-  secret of beautiful plants lies in taking a proper care of them. One should start
-  from the basics, like everyday watering. It can be done the standard way, namely,
-  using a watering can, however nowadays it's difficult to find enough time for such
-  mundane tasks. Why not use modern technology? Watering systems such as drip irrigation
-  are the best way to go. What exactly is this method and where can you use drip system?
+date: 2020-07-28 22:00:00 +0000
+update_date: 2020-07-28 22:00:00 +0000
+title: Come funziona l'impianto di irrigazione a goccia? Dove può essere utilizzato?
+small-intro: Come rendere il vostro giardino più bello? L'impianto di irrigazione
+  a goccia potrebbe essere di grande aiuto.
+intro: Come rendere il vostro giardino più bello? È un problema di molti giardinieri.
+  Il segreto delle piante belle sta nel prendersene cura. Si dovrebbe partire dalle
+  basi, come l'irrigazione quotidiana. Si può fare nel modo standard, cioè usando
+  un annaffiatoio, ma al giorno d'oggi è difficile trovare abbastanza tempo per compiti
+  così banali. Perché non usare la tecnologia moderna? I sistemi di irrigazione come
+  l'irrigazione a goccia sono la soluzione migliore. Qual è esattamente questo metodo
+  e dove si può usare un sistema a goccia?
 photo: "/uploads/na-czym-polega-nawadnianie-kropelkowe.png"
-photo_desc: Drip irrigation system – an innovative watering method
+photo_desc: Sistema di irrigazione a goccia - un metodo di irrigazione innovativo
 faq:
-- question: What is drip irrigation?
-  answer: Drip irrigation is one of the modern methods of plants watering. It's much
-    more efficient than traditional watering and it can save a lot of time, money
-    and resources.
-- question: How a drip irrigation system works?
-  answer: A drip irrigation system consists of a drip line – a hose or tape and a
-    water source. The water flows through the line and drips out of small holes. It's
-    a solution that provides the plants a perfect amount of water.
-- question: How to make a cheap drip irrigation system?
-  answer: All you need to make a cheap drip irrigation system is a drip line and a
-    source of water. Put the drip hose or tape right by the plants so that the water
-    can flow directly to their roots. Then connect the line with water source and
-    adjust the pressure.
+- question: Cos'è l'irrigazione a goccia?
+  answer: L'irrigazione a goccia è uno dei metodi moderni di irrigazione delle piante.
+    È molto più efficiente dell'irrigazione tradizionale e può far risparmiare molto
+    tempo, denaro e risorse.
+- question: Come funziona un impianto di irrigazione a goccia?
+  answer: Un sistema di irrigazione a goccia è costituito da una linea di gocciolamento
+    - un tubo o nastro adesivo e una fonte d'acqua. L'acqua scorre attraverso la linea
+    e gocciola da piccoli fori. È una soluzione che fornisce alle piante una quantità
+    d'acqua perfetta.
+- question: Come realizzare un impianto di irrigazione a goccia economico?
+  answer: Tutto ciò che serve per realizzare un impianto di irrigazione a goccia economico
+    è una linea di gocciolamento e una fonte d'acqua. Mettete il tubo a goccia o il
+    nastro adesivo vicino alle piante in modo che l'acqua possa fluire direttamente
+    alle loro radici. Poi collegare il tubo con la fonte d'acqua e regolare la pressione.
 author_name: Maksymilian Ignacyk
-author_desc: Sales and Marketing Specialist at Instalguru
+author_desc: Specialista vendite e marketing di Instalguru
 author_photo: "/uploads/maks.jpg"
-toc: false
+toc: true
 hreflangs: []
 
 ---
-## What is a drip irrigation system?
+## Cos'è un impianto di irrigazione a goccia?
 
-Drip irrigation is one of the most **advanced method** of plant watering. It involves automatic water distribution, which saves a lot of time and energy. Compared to standard methods – a watering can or a garden hose, a drip irrigation system is much more efficient.
+L'irrigazione a goccia è uno **dei metodi più avanzati** di irrigazione delle piante. Comporta la distribuzione automatica dell'acqua, che fa risparmiare molto tempo ed energia. Rispetto ai metodi standard - un annaffiatoio o un tubo da giardino, un sistema di irrigazione a goccia è molto più efficiente.
 
-**In times when droughts are becoming increasingly regular, keeping the right moisture level is the most important part of plant care.** The standard methods of watering, however, are not only ineffective but also very wasteful. Even the most experienced gardener is unable to water a plant with 100% precision, providing enough moisture without any waste. It would simply take too much time. A watering system with a drip line is a perfect solution to this problem. It uses a set of tubes to transport the exact amount of water needed.
+**In tempi in cui la siccità sta diventando sempre più regolare, mantenere il giusto livello di umidità è la parte più importante della cura delle piante.** I metodi standard di irrigazione, tuttavia, non sono solo inefficaci, ma anche molto dispendiosi. Anche il giardiniere più esperto non è in grado di innaffiare una pianta con precisione al 100%, fornendo un'umidità sufficiente senza sprechi. Ci vorrebbe semplicemente troppo tempo. Un sistema di irrigazione con una linea a goccia è una soluzione perfetta a questo problema. Utilizza un set di tubi per trasportare l'esatta quantità d'acqua necessaria.
 
-## How does a drip line work?
+## Come funziona una flebo?
 
-A drip irrigation system is a very simple installation. The **core component here is a drip line** – or, in some cases, a **drip tape**. Either of those is connected with a water source. The water flows through a system of pipes arranged on the ground. It drips out of tiny holes and moisturizes the plants – hence the name of the method. **Thanks to this solution, the roots system always has access to water – across the whole area covered by the system.** The moisture level can be easily adjusted by turning the tap.
+Un impianto di irrigazione a goccia è un'installazione molto semplice. Il **componente principale** è una linea a goccia - o, in alcuni casi, un **nastro gocciolante**. Entrambi sono collegati ad una fonte d'acqua. L'acqua scorre attraverso un sistema di tubi disposti a terra. Essa sgocciola da piccoli fori e idrata le piante - da qui il nome del metodo. **Grazie a questa soluzione, il sistema di radici ha sempre accesso all'acqua - in tutta l'area coperta dal sistema**. Il livello di umidità può essere facilmente regolato ruotando il rubinetto.
 
-## What are the advantages of drip irrigation?
+## Quali sono i vantaggi dell'irrigazione a goccia?
 
-A drip line is a unique solution and it has many advantages. It can save a lot of time, money and resources. Why should one consider a drip irrigation system in the garden?
+Una linea a goccia è una soluzione unica e presenta molti vantaggi. Può far risparmiare molto tempo, denaro e risorse. Perché si dovrebbe prendere in considerazione un impianto di irrigazione a goccia in giardino?
 
 {:.list.list-positive}
 
-* **Drip irrigation means saving water.** With the traditional sprinkling method, water is distributed to relatively random spots. The plants are moisturized, however some of the water doesn't get where it's supposed to. This leads, as it has been already mentioned, to waste. Drip watering system provides water precisely where the plant's root system is.
-* **It's a system that requires minimal attention.** After a drip line is installed, all one needs to do is turn on the water and adjust the pressure level. There is also another option – make the process completely automatic. To do this, a special controlling device is required. It can automatically turn on the water at a particular part of the day, for a given amount of time. The most advanced controllers can even react to changes in weather.
-* **The water distributed to plants is of the highest quality.** A drip irrigation system should be equipped with an appropriate filter. It protects the installation, and the user doesn't have to worry about the plants being damaged by contaminated water.
-* **A micro-irrigation system makes gardening much easier.** It means not only easier watering, but also comfortable plants feeding. A drip line is perfect for distributing a fertiliser. To do this, one only needs to equip it with a special fertiliser injector.
-* **A drip irrigation system means lesser risk of plant diseases.** The water is distributed directly into soil, so that it has no contact with overground parts of the plants. It prevents a spread of fungi and mould, which occurs quite often when plants are sprinkled with water from above. A drip line also eliminates the problem of sunburnt leaves.
-* **Such system might contribute to a better vegetable, fruit and herb harvest.** A drip watering system supports a better plant care and independence from the weather conditions. There is no need to worry that a drought will destroy the crops.
+* **L'irrigazione a goccia significa risparmiare acqua.** Con il metodo tradizionale dell'irrigazione a pioggia, l'acqua viene distribuita in punti relativamente casuali. Le piante sono idratate, tuttavia parte dell'acqua non arriva dove dovrebbe. Questo porta, come già detto, a sprecare. Il sistema di irrigazione a goccia fornisce acqua esattamente dove si trova l'apparato radicale della pianta.
+* **È un sistema che richiede un'attenzione minima.** Dopo l'installazione di una linea di gocciolamento, tutto quello che si deve fare è accendere l'acqua e regolare il livello di pressione. C'è anche un'altra opzione - rendere il processo completamente automatico. Per fare questo, è necessario uno speciale dispositivo di controllo. Esso può accendere automaticamente l'acqua in una particolare parte della giornata, per un determinato periodo di tempo. I controllori più avanzati possono anche reagire ai cambiamenti del tempo.
+* **L'acqua distribuita alle piante è di altissima qualità.** Un impianto di irrigazione a goccia dovrebbe essere dotato di un filtro appropriato. Esso protegge l'impianto e l'utente non deve preoccuparsi che le piante siano danneggiate dall'acqua contaminata.
+* **Un sistema di micro-irrigazione rende il giardinaggio molto più facile.** Ciò significa non solo una più facile innaffiatura, ma anche una comoda alimentazione delle piante. Una linea a goccia è perfetta per la distribuzione di un fertilizzante. Per fare questo, basta dotarla di un iniettore speciale di fertilizzante.
+* **Un sistema di irrigazione a goccia significa un minor rischio di malattie delle piante.** L'acqua viene distribuita direttamente nel terreno, in modo da non avere alcun contatto con le parti fuori terra delle piante. Previene la diffusione di funghi e muffe, che si verifica molto spesso quando le piante vengono irrorate con acqua dall'alto. Una linea di gocciolamento elimina anche il problema delle foglie bruciate dal sole.
+* **Un sistema di questo tipo potrebbe contribuire a una migliore raccolta di verdura, frutta ed erbe aromatiche.** Un sistema di irrigazione a goccia favorisce una migliore cura delle piante e l'indipendenza dalle condizioni atmosferiche. Non c'è bisogno di preoccuparsi che la siccità distrugga i raccolti.
 
-![What are the advantages of drip irrigation?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "What are the advantages of drip irrigation?")
+![Quali sono i vantaggi dell'irrigazione a goccia?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "Quali sono i vantaggi dell'irrigazione a goccia?")
 
-## Where can one use a drip irrigation system?
+## Dove si può utilizzare un impianto di irrigazione a goccia?
 
-Because drip lines can cover quite large areas, it's a **recommended system for croplands**. It's perfect for watering plants like strawberries, blueberries and fruit trees. The installation gives you full control over the amount of water transported to a plant. Thanks to this there is no threat of overwatering, which could cause decay of the plants. It's an important aspect that impacts the quality of harvest.
+Poiché le linee a goccia possono coprire aree piuttosto ampie, è un sistema **raccomandato per i terreni coltivati.** È perfetto per innaffiare piante come fragole, mirtilli e alberi da frutta. L'installazione vi dà il pieno controllo sulla quantità d'acqua trasportata ad una pianta. Grazie a questo non c'è il rischio di innaffiare troppo, che potrebbe causare il decadimento delle piante. È un aspetto importante che influisce sulla qualità del raccolto.
 
-Drip irrigation is also an ideal system for private gardens. **A drip line can easily water flowerbeds, rock gardens and hedges.** It's also a good solution for potted plants. Interestingly, drip systems are becoming quite popular among balconies and patios.
+L'irrigazione a goccia è anche un sistema ideale per i giardini privati. **Una linea a goccia può irrigare facilmente aiuole, giardini rocciosi e siepi.** È anche una buona soluzione per piante in vaso. È interessante notare che i sistemi a goccia stanno diventando molto popolari tra i balconi e le terrazze.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-A drip irrigation system is unrecommended for lawns. In this case it is rather advised to use a standard garden hose or sprinklers.
+Un sistema di irrigazione a goccia non è raccomandato per i prati. In questo caso è piuttosto consigliato l'uso di un normale tubo da giardino o di un irrigatore.
 
-## Are there any disadvantages of drip irrigation?
+## Ci sono degli svantaggi dell'irrigazione a goccia?
 
-Despite the undeniable benefits of a drip irrigation system, one should also know its disadvantages. It's a system that cannot be really moved around, therefore it should be used mainly for perennial plants. A drip line, like every water installation, is susceptible to dirt. It might cause clogging. **Each element of the system should be maintained regularly.** Another problem is the difficulty to adjust the intensity of watering for certain plants. It can be solved by using a splitter to create several independent drip lines.
+Nonostante gli innegabili vantaggi di un sistema di irrigazione a goccia, si dovrebbero conoscere anche i suoi svantaggi. È un sistema che non può essere realmente spostato, quindi dovrebbe essere usato principalmente per le piante perenni. Una linea a goccia, come ogni impianto di irrigazione, è suscettibile allo sporco. Potrebbe causare l'intasamento. **Ogni elemento del sistema dovrebbe essere mantenuto regolarmente.** Un altro problema è la difficoltà di regolare l'intensità dell'irrigazione per alcune piante. Può essere risolto utilizzando uno splitter per creare diverse linee di gocciolamento indipendenti.
 
-![Are there any disadvantages of drip irrigation?](/uploads/linia-kroplujaca-nawadnianie.jpg "Are there any disadvantages of drip irrigation?")
+![Ci sono degli svantaggi dell'irrigazione a goccia?](/uploads/linia-kroplujaca-nawadnianie.jpg "Ci sono degli svantaggi dell'irrigazione a goccia?")
 
-## Drip watering system – what elements are needed to create an installation?
+## Sistema di irrigazione a goccia - quali elementi sono necessari per creare un'installazione?
 
-Drip irrigation is not a complicated system, and it's not difficult to install. Before doing that, one should equip themselves with all crucial components:
+L'irrigazione a goccia non è un sistema complicato e non è difficile da installare. Prima di farlo, ci si dovrebbe dotare di tutti i componenti fondamentali:
 
 {:.list.list-positive}
 
-* **Drip line** – a tube or a special tape used for watering. It's an element that can be placed directly on the ground, or it can be covered with soil.
-* **Emitters** – they are attached to the drip line and placed right by the plant.
-* **Water filter** – an essential part of a micro-irrigation system. It removes any water contamination and prevents the system failures.
-* **Additional components** – depending on the particular type of a drip irrigation system, one can use stakes for holding the drip lines and emitters as well as band clips, connectors and splitters.
-* **Irrigation controller** – although it's an optional element, it's a highly recommended investment. It allows for full control and automation of the process.
+* **Tubo gocciolante** - un tubo o un nastro speciale utilizzato per l'irrigazione. È un elemento che può essere posizionato direttamente sul terreno, oppure può essere coperto di terra.
+* **Emettitori** - sono attaccati alla linea di gocciolamento e posizionati proprio accanto all'impianto.
+* **Filtro dell'acqua** - una parte essenziale di un sistema di microirrigazione. Rimuove qualsiasi contaminazione dell'acqua e previene i guasti del sistema.
+* **Componenti aggiuntivi** - a seconda del particolare tipo di impianto di irrigazione a goccia, si possono utilizzare picchetti per tenere le linee di gocciolamento e i gocciolatori, nonché clip a nastro, connettori e divisori.
+* **Controllore per l'irrigazione** - anche se è un elemento opzionale, è un investimento altamente raccomandato. Consente il controllo completo e l'automazione del processo.
 
-### A drip line – which is better: tubes or tapes?
+### Una linea a goccia - cosa è meglio: tubi o nastri?
 
-Construction of a drip irrigation system involves making the decision on what to use for water distribution. There are several options available on the market. **The most popular ones are a drip hose and a drip tape.** Which is the better one? It mostly depends on what plants you are going to water and on your possibilities.
-
-{:.distinction.distinction-info.distinction-positive}
-
-A drip tape is typically used for small vegetable and fruit crops, flower beds and potted plants. A drip irrigation that uses a system of tubes is perfect for watering hedges, smaller trees and orchards. For the last one, it is advised to combine the drip irrigation with additional water distribution points – sprinklers.
-
-## Drip irrigation system installation – how to do it yourself?
-
-There are many companies offering the installation of drip lines. It's useful if a drip irrigation system is going to cover a widespread area, such as a large cropland. **However, if you want to install a small, uncomplicated micro-irrigation system in your garden, consider doing it yourself.** It's not very difficult.
-
-Depending on the line you choose, place a hose or a tape on the ground. Usually, it is held by a set of special stakes. **Some systems can be buried underground**. Arrange the lines so that they lay right by the plants. The next step involves installing the emitters (if they are included in the system). Lastly, connect the drip line with a water source. If needed, you can also split the main line using several tubes.
-
-The simplest drip irrigation systems are controlled by simply turning the tap on or off. **Manufacturers also offer special irrigation controllers.** Using them, one can plan watering for a particular day and hour. Thanks to this solution, a drip irrigation can run by itself, not requiring any special attention.
-
-## Drip irrigation system – estimated costs
-
-Are you wondering how expensive a drip irrigation system is? As most installations of this type, the price depends on individual factors. One should estimate the area that is going to be covered by the system. This aspect dictates the number of drip lines that should be installed. **The price obviously depends also on the manufacturer, therefore it is advised to compare the quality and value of available brands.**
+La costruzione di un impianto di irrigazione a goccia comporta la decisione su cosa utilizzare per la distribuzione dell'acqua. Ci sono diverse opzioni disponibili sul mercato. **Le più popolari sono un tubo a goccia e un nastro gocciolante.** Qual è la migliore? Dipende soprattutto da quali piante andrete ad innaffiare e dalle vostre possibilità.
 
 {:.distinction.distinction-info.distinction-positive}
 
-The less complicated the installation is, the less it costs. For this reason one should review all solutions that could be used. Small designs can surely give up electronic controllers, unless convenience is the priority. One can also decrease the costs by choosing to install the system by themselves.
+Un nastro gocciolante è tipicamente utilizzato per piccole colture di ortaggi e frutta, aiuole e piante in vaso. Un'irrigazione a goccia che utilizza un sistema di tubi è perfetta per innaffiare siepi, piccoli alberi e frutteti. Per quest'ultimo, si consiglia di combinare l'irrigazione a goccia con altri punti di distribuzione dell'acqua - irrigatori.
+
+## Installazione di un impianto di irrigazione a goccia - come fare da soli?
+
+Ci sono molte aziende che offrono l'installazione di linee a goccia. È utile se un impianto di irrigazione a goccia deve coprire un'area molto estesa, come ad esempio un grande terreno coltivato. **Tuttavia, se vuole installare un piccolo e semplice impianto di microirrigazione nel suo giardino, prenda in considerazione la possibilità di farlo lei stesso.** Non è molto difficile.
+
+A seconda della linea scelta, posizionare un tubo flessibile o un nastro adesivo sul terreno. Di solito è tenuto da una serie di pali speciali. **Alcuni sistemi possono essere interrati**. Disporre le linee in modo che si trovino proprio accanto alle piante. Il passo successivo consiste nell'installare gli emettitori (se sono inclusi nel sistema). Infine, collegare la linea di gocciolamento con una fonte d'acqua. Se necessario, si può anche dividere la linea principale utilizzando diversi tubi.
+
+I più semplici sistemi di irrigazione a goccia sono controllati semplicemente accendendo o spegnendo il rubinetto. **I produttori offrono anche controller speciali per l'irrigazione.** Usandoli, si può pianificare l'irrigazione per un giorno e un'ora particolari. Grazie a questa soluzione, un impianto di irrigazione a goccia può funzionare da solo, senza richiedere particolari attenzioni.
+
+## Sistema di irrigazione a goccia - costi stimati
+
+Vi state chiedendo quanto sia costoso un impianto di irrigazione a goccia? Come la maggior parte delle installazioni di questo tipo, il prezzo dipende da singoli fattori. Si dovrebbe stimare l'area che sarà coperta dall'impianto. Questo aspetto detta il numero di linee di gocciolamento da installare. **Il prezzo dipende ovviamente anche dal produttore, quindi si consiglia di confrontare la qualità ed il valore delle marche disponibili.**
+
+{:.distinction.distinction-info.distinction-positive}
+
+Meno complicata è l'installazione, meno costa. Per questo motivo si dovrebbero rivedere tutte le soluzioni che potrebbero essere utilizzate. I piccoli progetti possono sicuramente rinunciare ai controllori elettronici, a meno che la convenienza non sia la priorità. Si possono anche ridurre i costi scegliendo di installare il sistema da soli.
 
 ![Drip irrigation system – estimated costs](/uploads/podlewanie-kropelkowe.jpg "Drip irrigation system – estimated costs")
 
-## What else should one remember when installing drip irrigation?
+## Cos'altro si dovrebbe ricordare quando si installa l'irrigazione a goccia?
 
-Because all gardens are different, one should keep every detail in mind when choosing a drip irrigation system: from the shape of terrain to drip line colour. This way one can **create a system that will match all needs and serve for years.**
+Poiché tutti i giardini sono diversi, si dovrebbe tenere presente ogni dettaglio quando si sceglie un impianto di irrigazione a goccia: dalla forma del terreno al colore della linea di gocciolamento. In questo modo si può **creare un sistema che soddisfi tutte le esigenze e che serva per anni.**
 
 {:.list.list-positive}
 
-* Is your garden situated on a hill or an uneven terrain? It doesn't mean that drip irrigation is not for you. Just use a **pressure regulator** – a device that will allow the water to flow upwards.
-* Remember **the emitters arrangement** depends mostly on the type of soil your plants grow in. The more loose the ground is, the more emitters you need. If the soil is quite dense, place them more sparsely to prevent water retention.
-* What hose colour to choose? **The most popular drip lines are available in neutral tones: green, black or brown.** This way one can easily mask the tube, increasing the aesthetics of the garden. You could also choose stronger colours and expose the hose for decorative purposes.
-* What do to with the drip lines after the season? **The equipment should be put away for winter** to avoid damage from the weather conditions.
-* You have expanded the crops area and now the drip irrigation system covers it only partially? **You can always extend the drip lines**. To do this, use special connectors.
+* Il vostro giardino è situato su una collina o su un terreno irregolare? Non significa che l'irrigazione a goccia non faccia per voi. Basta usare un **regolatore di pressione** - un dispositivo che permetta all'acqua di scorrere verso l'alto.
+* Ricordate che la **disposizione degli emettitori** dipende soprattutto dal tipo di terreno in cui crescono le vostre piante. Più il terreno è sciolto, più emettitori sono necessari. Se il terreno è abbastanza denso, metteteli più sparsi per evitare la ritenzione idrica.
+* Quale colore di tubo flessibile scegliere? **Le linee di gocciolamento più popolari sono disponibili in tonalità neutre: verde, nero o marrone.** In questo modo si può facilmente mascherare il tubo, aumentando l'estetica del giardino. Si possono anche scegliere colori più forti ed esporre il tubo a scopo decorativo.
+* Cosa fare con le linee a goccia dopo la stagione? **L'attrezzatura dovrebbe essere messa via per l'inverno** per evitare danni dovuti alle condizioni atmosferiche.
+* Avete ampliato la superficie coltivata e ora l'impianto di irrigazione a goccia la copre solo parzialmente? **Potete sempre estendere le linee di gocciolamento.** Per fare questo, utilizzare connettori speciali.
 
-**A drip irrigation system is a perfect solution for every garden.** Thanks to it you can easily and effortlessly take care of your plants. A drip line means not only time and money saved, but also a beautiful and healthy garden. It's a universal system that can be used both for professional farming as well as for private gardens, balconies and patios.
+**Un sistema di irrigazione a goccia è una soluzione perfetta per ogni giardino.** Grazie ad esso potrete prendervi cura delle vostre piante in modo semplice e senza sforzo. Una linea a goccia non significa solo tempo e denaro risparmiato, ma anche un giardino bello e sano. È un sistema universale che può essere utilizzato sia per l'agricoltura professionale che per giardini privati, balconi e patii.
