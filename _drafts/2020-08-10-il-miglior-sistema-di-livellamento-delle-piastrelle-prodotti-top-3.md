@@ -1,6 +1,6 @@
 ---
 layout: post
-seo_title: Il miglior sistema di livellamento delle piastrelle - Prodotti TOP 3
+seo_title: Il Miglior Sistema di Livellamento delle Piastrelle - Prodotti TOP 3
 seo_description: "Come si posano le piastrelle? Non perdete tempo. \U0001F449 Scegliete
   il sistema di livellamento delle piastrelle. Guarda i migliori prodotti della \U0001F3C6
   TOP 3."
@@ -55,93 +55,93 @@ hreflangs:
   link: ''
 
 ---
-## What is a tile leveling system?
+## Cos'è un sistema di livellamento delle piastrelle?
 
-A tile leveling system is a **set of elements thanks to whose it is much easier to fit and grout the tiles.** It contains **clips and wedges** made from plastic material. They can be used to level the tiles on the floor or the wall. They should be placed between adjacent tiles.
+Un sistema di livellamento delle piastrelle è un **insieme di elementi grazie ai quali è molto più facile montare e stuccare le piastrelle**. Contiene **clip e cunei** in materiale plastico. Possono essere utilizzati per livellare le piastrelle sul pavimento o sulla parete. Devono essere posizionati tra piastrelle adiacenti.
 
-**Using a modern tile leveling system is a perfect solution both for professionals and for unexperienced users.** Thanks to this method the whole process is much easier and more importantly, quicker. It's estimated that a **tile leveling system can save up to 50% of time** compared to laying tiles using traditional spacers.
+**L'utilizzo di un moderno sistema di livellamento delle piastrelle è una soluzione perfetta sia per i professionisti che per gli utenti inesperti.** Grazie a questo metodo l'intero processo è molto più semplice e, soprattutto, più veloce. Si stima che un sistema di livellamento delle piastrelle **possa far risparmiare fino al 50% del tempo** rispetto alla posa delle piastrelle con i distanziatori tradizionali.
 
-![What is a tile leveling system?](/uploads/system-poziomowania-plytek-szczypce.jpg "What is a tile leveling system?")
+![Cos'è un sistema di livellamento delle piastrelle?](/uploads/system-poziomowania-plytek-szczypce.jpg "Cos'è un sistema di livellamento delle piastrelle?")
 
-## How does a tile leveling system work?
+## Come funziona un sistema di livellamento delle piastrelle?
 
-A standard tile leveling system contains **specially shaped clips and wedges that have characteristic bumps on the surface.** It's important that one uses both of those elements to achieve the expected results.
+Un sistema di livellamento standard per piastrelle contiene clip e **cunei di forma speciale che presentano caratteristici urti sulla superficie**. È importante utilizzare entrambi questi elementi per ottenere i risultati attesi.
 
-The equipment should be used when setting the tiles on the surface. Before doing that, one needs putting a clip between two adjacent tiles. Then, a wedge should be stuck in the clip. It presses **the tile to the floor or the wall**, which results in leveling the surface.
+L'attrezzatura deve essere usata quando si posizionano le piastrelle sulla superficie. Prima di farlo, è necessario mettere una clip tra due piastrelle adiacenti. Poi, un cuneo dovrebbe essere incastrato nella clip. Esso **preme la piastrella sul pavimento** o sulla parete, il che comporta il livellamento della superficie.
 
-The bumps or carvings on the wedges are very important. They prevent the element from moving and stabilize the tiles. **It's definitely much more efficient solution than placing cross spacers which don't hold the tiles at all.** What's more, a tile leveling system is far easier to use. There is no need to use any additional equipment like a level - which might make the process much longer and more complicated.
+Gli urti o le incisioni sui cunei sono molto importanti. Essi impediscono all'elemento di muoversi e stabilizzano le piastrelle. **È sicuramente una soluzione molto più efficiente rispetto al posizionamento di distanziatori trasversali che non tengono affatto le piastrelle**. Inoltre, un sistema di livellamento delle piastrelle è molto più facile da usare. Non c'è bisogno di usare alcuna attrezzatura aggiuntiva come un livellatore - il che potrebbe rendere il processo molto più lungo e complicato.
 
-## Where can you use a tile leveling system?
+## Dove si può utilizzare un sistema di livellamento delle piastrelle?
 
-Although many believe that a tile leveling system can be used only for floors, in reality **it is  a highly universal solution**. It means you can use it for tiling walls, or even stairs as well.
+Anche se molti ritengono che un sistema di livellamento delle piastrelle possa essere utilizzato solo per i pavimenti, in realtà si tratta di **una soluzione altamente universale**. Vuol dire che si può usare per piastrellare le pareti, o anche per le scale.
 
-Note that it doesn't matter what kind of tiles you use. They can be made of:
+Notate che non importa che tipo di piastrelle usate. Possono essere realizzate:
 
 {:.list.list-positive}
 
-* ceramic,
+* ceramica,
 * grés,
-* granite,
-* stone.
+* granito,
+* pietra.
 
-![Where can you use a tile leveling system?](/uploads/system-poziomowania-plytek-top3.jpg "Where can you use a tile leveling system?")
+![Dove si può utilizzare un sistema di livellamento delle piastrelle?](/uploads/system-poziomowania-plytek-top3.jpg "Dove si può utilizzare un sistema di livellamento delle piastrelle?")
 
-## Is a tile leveling system worth it? Advantages of the solution
+## Vale la pena di un sistema di livellamento delle piastrelle? Vantaggi della soluzione
 
-**A tile leveling system is a universal solution** - you can use it for various types of surfaces.  It can be used both inside, as well as on the areas located outside the building.
+**Un sistema di livellamento delle piastrelle è una soluzione universale** - è possibile utilizzarlo per vari tipi di superfici.  Può essere utilizzato sia all'interno che nelle aree esterne dell'edificio.
 
-Using this type of equipment, **you can lay tiles of any type** - regardless of the size and thickness. In any case, you can get a perfectly even surface.
+Utilizzando questo tipo di attrezzatura, è **possibile posare piastrelle di qualsiasi tipo** - indipendentemente dalle dimensioni e dallo spessore. In ogni caso, è possibile ottenere una superficie perfettamente uniforme.
 
-Leveled tiles are only one of the advantages. Additionally, you also get a possibility to get perfectly even grouting across the whole surface. Evenly set tiles means exactly the same width between each of them. Thanks to this, the grouting looks exceptionally elegant.
+Le piastrelle livellate sono solo uno dei vantaggi. Inoltre, si ha anche la possibilità di ottenere una stuccatura perfettamente uniforme su tutta la superficie. Per piastrelle livellate in modo uniforme si intende esattamente la stessa larghezza tra ciascuna di esse. Grazie a questo, la stuccatura ha un aspetto eccezionalmente elegante.
 
-## TOP 3 - the most popular tile leveling systems
+## TOP 3 - i sistemi di livellamento piastrelle più popolari
 
-Most users associate a tile leveling system with a set of clips and wedges. It is, of course, correct. However, one can find various sets that slightly differ in terms of their usage - which results from the elements' different construction. There are also systems that have a completely different structure.
+La maggior parte degli utenti associa un sistema di livellamento delle piastrelle con un set di clip e cunei. Naturalmente è corretto. Tuttavia, si possono trovare diversi set che differiscono leggermente in termini di utilizzo - il che deriva dalla diversa costruzione degli elementi. Esistono anche sistemi che hanno una struttura completamente diversa.
 
-**We present TOP 3 products which are most popular among specialists and rated as the best.**
+**Vi presentiamo i prodotti TOP 3 che sono i più popolari tra gli specialisti e classificati come i migliori.**
 
-### A tile leveling system with anchor-shaped clips
+### Un sistema di livellamento delle piastrelle con clip a forma di ancoraggio
 
-It's the most popular tile leveling system - both among experts and do-it-yourselfers who want to lay the tiles themselves. The **clips have a special design - they resemble an anchor or an inverted "T."**
+È il sistema di livellamento delle piastrelle più popolare - sia tra gli esperti che tra i fai-da-te che vogliono posare le piastrelle da soli. Le clip hanno un **design speciale - assomigliano a un'ancora o a una "T" rovesciata.**
 
-The slightly raised endings on the both sides of a clip are placed under the tiles. Then, a wedge is put on the clip. In this type of set, the wedge is open at one side. It surrounds the clip's stem. **After putting a pressure, it gets blocked by the bumps on its surface.**
+Le estremità leggermente rialzate su entrambi i lati di una clip sono posizionate sotto le piastrelle. Poi si mette un cuneo sulla clip. In questo tipo di set, il cuneo è aperto su un lato. Esso circonda il gambo della clip. **Dopo aver esercitato una pressione, viene bloccato dagli urti sulla sua superficie.**
 
-It's common such a set also contains special pliers. Thanks to them, **setting the system and its elements is much quicker** and it doesn't require putting any force to it.
+E' comune che un set del genere contenga anche pinze speciali. Grazie ad esse, **l'impostazione del sistema e dei suoi elementi è molto più rapida** e non richiede l'uso di alcuna forza.
 
-![Tile leveling system with anchor-shaped clips](/uploads/system_poziomowania_ranking.jpg "Tile leveling system with anchor-shaped clips")
+![Un sistema di livellamento delle piastrelle con clip a forma di ancoraggio](/uploads/system_poziomowania_ranking.jpg "Un sistema di livellamento delle piastrelle con clip a forma di ancoraggio")
 
-### A tile leveling system with standard clips and wedges
+### Un sistema di livellamento delle piastrelle con clip e cunei standard
 
-One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. It's different than the previous system - the wedge should be slid in the middle of the clip. Thanks to the characteristic bumps one can put a maximum pressure on the wedge and as a result level the tiles perfectly.
+Una delle opzioni più comunemente utilizzate è un sistema di livellamento delle piastrelle che utilizza **clip e cunei** classici. In questo caso, una clip assomiglia a una finestra con una base in basso. La finestra è semplicemente lo spazio per un cuneo. È diverso dal sistema precedente - il cuneo deve essere fatto scorrere al centro della clip. Grazie ai caratteristici urti si può esercitare una pressione massima sul cuneo e di conseguenza livellare perfettamente le piastrelle.
 
-![A tile leveling system with standard clips and wedges](/uploads/system_poziomowania_ranking_2.jpg "A tile leveling system with standard clips and wedges")
+![Un sistema di livellamento delle piastrelle con clip e cunei standard](/uploads/system_poziomowania_ranking_2.jpg "Un sistema di livellamento delle piastrelle con clip e cunei standard")
 
-### A reusable tile leveling system
+### Un sistema di livellamento delle piastrelle riutilizzabile
 
-Manufacturers also offer a reusable tile leveling system, which uses twisted elements. They are **quite different the classic ones**. The differences lie both is the construction and the usage.
+I produttori offrono anche un sistema di livellamento delle piastrelle riutilizzabile, che utilizza elementi ritorti. **Sono molto diversi da quelli classici.** Le differenze stanno sia nella costruzione che nell'utilizzo.
 
-This type of a tile leveling system uses two elements as well. The main part is a clip with a large thread and a metal element shaped like a "T". The other element is a cap, which secures a tile.
-
-{:.distinction.distinction-info.distinction-negative}
-
-It's not an entirely flawless solution. In this case you have to use additional tile cross spacers, which takes more time and might be difficult for unexperienced users. Furthermore, after leveling the tiles, the clips have to be removed after a few hours. It might ruin the tiles level.
-
-![A reusable tile leveling system](/uploads/system_poziomowania_ranking_3.jpg "A reusable tile leveling system")
-
-## A tile leveling system - single-use or reusable?
-
-A tile leveling system which uses clips and wedges might be partially reused. The clips are single-use elements. You can, however, **reuse the wedges**. It's a common solution among experts, who can save a lot by buying only the missing clips.
+Anche questo tipo di sistema di livellamento delle piastrelle utilizza due elementi. La parte principale è una clip con un grande filo e un elemento metallico a forma di "T". L'altro elemento è un tappo, che fissa una piastrella.
 
 {:.distinction.distinction-info.distinction-negative}
 
-It's important to control the condition of the wedges. After several uses they might get worn - it can be judged by the state of the bumps that hold the wedge in a clip. If you noticed such an occurrence - you might decide to buy new wedges.
+Non è una soluzione del tutto impeccabile. In questo caso è necessario utilizzare dei distanziatori trasversali per piastrelle supplementari, il che richiede più tempo e potrebbe essere difficile per gli utenti inesperti. Inoltre, dopo aver livellato le piastrelle, le clip devono essere rimosse dopo qualche ora. Potrebbe rovinare il livello delle piastrelle.
 
-**A great advantage of a reusable tile leveling system is definitely the fact that it can be used many times, which can save some money.** Nevertheless, many users claim that using it is far less convenient. The necessity to use cross spacers is a great disadvantage. It not only makes the work longer for experts, but for unexperienced users it also might be quite problematic.
+![Non è una soluzione del tutto impeccabile. In questo caso è necessario utilizzare dei distanziatori trasversali per piastrelle supplementari, il che richiede più tempo e potrebbe essere difficile per gli utenti inesperti. Inoltre, dopo aver livellato le piastrelle, le clip devono essere rimosse dopo qualche ora. Potrebbe rovinare il livello delle piastrelle.](/uploads/system_poziomowania_ranking_3.jpg "Non è una soluzione del tutto impeccabile. In questo caso è necessario utilizzare dei distanziatori trasversali per piastrelle supplementari, il che richiede più tempo e potrebbe essere difficile per gli utenti inesperti. Inoltre, dopo aver livellato le piastrelle, le clip devono essere rimosse dopo qualche ora. Potrebbe rovinare il livello delle piastrelle.")
 
-## How to choose a tile leveling system?
+## Un sistema di livellamento delle piastrelle - monouso o riutilizzabile?
 
-Quality is definitely the most important aspect when choosing a tile leveling system. **Material of the elements is quite significant.** A durable, damage-resistant material used for production guarantees the stability of the tiles, hence it's a crucial matter.
+Un sistema di livellamento delle piastrelle che utilizza clip e cunei può essere parzialmente riutilizzato. Le clip sono elementi monouso. È possibile, tuttavia, **riutilizzare i cunei.** È una soluzione comune tra gli esperti, che possono risparmiare molto acquistando solo le clip mancanti.
 
-There is also another aspect of great significance for systems with clips and wedges - whether the **manufacturer offers a possibility to buy each of those elements later, separately**. It's crucial especially for professionals who use the same wedges many times.
+{:.distinction.distinction-info.distinction-negative}
 
-The price of a set is, of course also very important. Calculate how many elements you can buy for a given price and check whether the manufacturer offers sets with additional equipment like pliers for pressing wedges to tiles. It's a good way to catch great offers that are worth investing.
+È importante controllare le condizioni dei cunei. Dopo diversi utilizzi possono essere indossati - può essere giudicato dallo stato delle protuberanze che tengono il cuneo in una clip. Se avete notato un tale evento - potreste decidere di acquistare nuovi cunei.
+
+**Un grande vantaggio di un sistema di livellamento delle piastrelle riutilizzabile è sicuramente il fatto che può essere usato molte volte, il che può far risparmiare un po' di soldi.** Tuttavia, molti utenti sostengono che il suo utilizzo è molto meno conveniente. La necessità di utilizzare i distanziatori trasversali è un grande svantaggio. Non solo rende il lavoro più lungo per gli esperti, ma anche per gli utenti inesperti potrebbe essere piuttosto problematico.
+
+## Come scegliere un sistema di livellamento delle piastrelle?
+
+La qualità è sicuramente l'aspetto più importante nella scelta di un sistema di livellamento delle piastrelle. **Il materiale degli elementi è piuttosto significativo.** Un materiale durevole e resistente ai danni utilizzato per la produzione garantisce la stabilità delle piastrelle, quindi è una questione cruciale.
+
+C'è anche un altro aspetto di grande importanza per i sistemi con clip e cunei - se il produttore offre **la possibilità di acquistare ciascuno di questi elementi in un secondo momento, separatamente.** È fondamentale soprattutto per i professionisti che utilizzano più volte gli stessi cunei.
+
+Anche il prezzo di un set è, naturalmente, molto importante. Calcolate quanti elementi si possono acquistare per un determinato prezzo e verificate se il produttore offre set con attrezzature aggiuntive come pinze per la pressatura di cunei per piastrelle. È un buon modo per cogliere le grandi offerte che vale la pena di investire.
