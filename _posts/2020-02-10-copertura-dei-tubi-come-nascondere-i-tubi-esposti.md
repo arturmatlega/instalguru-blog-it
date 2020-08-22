@@ -3,6 +3,9 @@ layout: post
 seo_title: Coperchio per tubi, boxe per tubi? Come nascondere i tubi esposti?
 seo_description: Se i vostri tubi sono stati lasciati esposti, potreste volerli nascondere.
   Vi state chiedendo qual è la migliore copertura per le tubature?
+main_keywords:
+  - coperchio del tubo
+  - boxe per tubi
 date: 2020-02-10T11:00:00.000+00:00
 update_date: 2020-02-10T11:00:00.000+00:00
 title: Copertura dei tubi - come nascondere i tubi esposti?

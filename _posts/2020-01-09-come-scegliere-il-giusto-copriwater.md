@@ -3,6 +3,15 @@ layout: post
 seo_title: Scelta del copriwater. Le questioni più importanti.
 seo_description: La scelta del sedile del water giusto potrebbe non essere così semplice
   come sembra. Ci sono vari parametri a cui bisogna prestare attenzione.
+main_keywords:
+  - sedile del gabinetto
+  - sedile WC per bidet
+  - alzata del sedile del gabinetto
+  - sedile del gabinetto rialzato
+  - copriwater
+  - dimensioni del sedile del gabinetto
+  - miglior sedile del gabinetto
+  - sedile del gabinetto a chiusura lenta
 date: 2020-01-09T11:00:00.000+00:00
 update_date: 2020-01-09T11:00:00.000+00:00
 title: Come scegliere il giusto copriwater?

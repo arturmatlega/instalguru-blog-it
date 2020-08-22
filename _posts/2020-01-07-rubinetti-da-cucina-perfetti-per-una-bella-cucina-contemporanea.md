@@ -3,6 +3,15 @@ layout: post
 seo_title: Rubinetti da cucina perfetti per una bella cucina contemporanea
 seo_description: Stai progettando una ristrutturazione della cucina? Guarda i prodotti
   popolari e trova il miglior rubinetto per la cucina contemporanea.
+main_keywords:
+  - rubinetti da cucina
+  - rubinetto della cucina
+  - lavello da cucina
+  - idee per la cucina
+  - rubinetto per lavello
+  - accessori per la cucina
+  - rubinetto del lavello della cucina
+  - lampade da cucina
 date: 2020-01-07T11:00:00.000+00:00
 update_date: 2020-01-07T11:00:00.000+00:00
 title: Rubinetti da cucina perfetti per una bella cucina contemporanea

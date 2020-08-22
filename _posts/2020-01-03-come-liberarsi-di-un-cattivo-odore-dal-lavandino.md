@@ -3,6 +3,13 @@ layout: post
 seo_title: Come rimuovere gli odori dal bagno o dal lavandino della cucina?
 seo_description: Se vi state chiedendo quale sia l'odore che viene dal lavello della
   vostra cucina, non preoccupatevi. Fortunatamente ci sono metodi per eliminare l'odore.
+main_keywords:
+  - lavello da cucina
+  - lavandino del bagno
+  - lavello di servizio
+  - odore
+  - l'odore
+  - lavabo
 date: 2020-01-03T11:00:00.000+00:00
 update_date: 2020-01-03T11:00:00.000+00:00
 title: Come liberarsi di un cattivo odore dal lavandino?

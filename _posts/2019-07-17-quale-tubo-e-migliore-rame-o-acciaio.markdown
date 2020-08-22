@@ -4,6 +4,10 @@ seo_title: Installazione della linea del gas. Quale tubo è migliore - rame o ac
 seo_description: "Stai pensando di installare i raccordi del gas a casa tua? ✔️ Assicuratevi
   di scegliere i tubi giusti. Quale tipo di tubo è meglio utilizzare nelle vostre
   tubature - rame \U0001F19A acciaio? "
+main_keywords:
+  - tubazioni
+  - installazione della linea del gas
+  - materiali per tubazioni
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
 title: Quale tubo del gas è migliore - rame o acciaio?

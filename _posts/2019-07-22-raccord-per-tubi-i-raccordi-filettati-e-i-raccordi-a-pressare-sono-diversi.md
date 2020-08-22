@@ -3,6 +3,13 @@ layout: post
 seo_title: 'Raccordi per tubi: i raccordi filettati e i raccordi a pressare sono diversi?'
 seo_description: "State progettando una ristrutturazione della vostra casa?\U0001F3E0
   \U0001F449 Scoprite la differenza tra raccordi filettati e raccordi a pressare"
+main_keywords:
+  - raccordi pex
+  - Raccordi per tubi
+  - raccordi per tubi in pvc
+  - raccordi idraulici
+  - raccordi in rame
+  - raccordi per tubi pex
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
 title: 'Raccordi per tubi: i raccordi filettati e i raccordi a pressare sono diversi?'

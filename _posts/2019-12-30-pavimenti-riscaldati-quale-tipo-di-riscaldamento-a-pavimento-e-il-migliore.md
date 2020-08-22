@@ -4,6 +4,15 @@ seo_title: Pavimenti riscaldati - quale tipo di riscaldamento a pavimento è il 
 seo_description: Il riscaldamento a pavimento potrebbe essere un sistema piuttosto
   vantaggioso. Non sorprende che i pavimenti riscaldati stiano diventando sempre più
   popolari.
+main_keywords:
+  - pavimenti riscaldati
+  - nel riscaldamento a pavimento
+  - riscaldamento a pavimento
+  - riscaldamento a pavimento
+  - riscaldamento elettrico a pavimento
+  - pavimento riscaldato
+  - sistemi di riscaldamento a pavimento radiante
+  - sistemi di riscaldamento a pavimento
 date: 2019-12-30T11:00:00.000+00:00
 update_date: 2019-12-30T11:00:00.000+00:00
 title: Pavimenti riscaldati - quale tipo di riscaldamento a pavimento è il migliore?

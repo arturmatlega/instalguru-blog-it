@@ -3,6 +3,12 @@ layout: post
 seo_title: Accessori per il bagno. Come installare i mobili da bagno?
 seo_description: Bagno, doccia, lavabo e toilette sono gli elementi più importanti
   di ogni bagno. Come installare correttamente gli accessori per il bagno?
+main_keywords:
+  - accessori per il bagno
+  - sanitario
+  - mobili da bagno
+  - impianti sanitari
+  - sanitari
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
 title: Installazione degli accessori per il bagno

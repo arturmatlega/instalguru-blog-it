@@ -3,6 +3,16 @@ layout: post
 seo_title: Cos'è l'impianto di irrigazione a goccia e dove installarlo?
 seo_description: "Come prendersi cura del proprio giardino? \U0001F333 L'irrigazione
   a goccia è un sistema di irrigazione moderno. \U0001F449 Verificate come installarlo."
+main_keywords:
+  - irrigazione a goccia
+  - impianto di irrigazione a goccia
+  - sistema di irrigazione a goccia 
+  - sistema di irrigazione a goccia per serra
+  - sistema di microirrigazione
+  - sistemi di irrigazione del giardino
+  - facile irrigazione del giardino
+  - alimentatore a goccia per piante
+  - sistema di irrigazione a vaso
 date: 2020-07-28 22:00:00 +0000
 update_date: 2020-07-28 22:00:00 +0000
 title: Come funziona l'impianto di irrigazione a goccia? Dove può essere utilizzato?
