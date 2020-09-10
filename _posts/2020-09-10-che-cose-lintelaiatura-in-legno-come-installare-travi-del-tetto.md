@@ -24,6 +24,16 @@ author_desc: Specialista vendite e assistenza clienti di Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: false
 hreflangs:
+- lang: fr
+  link: ''
+- lang: it
+  link: ''
+- lang: de
+  link: ''
+- lang: es
+  link: ''
+- lang: cs
+  link: ''
 - lang: en
   link: https://instalguru.co.uk/blog/what-is-timber-framing-and-how-to-install-roof-trusses.html
 - link: https://instalguru.pl/blog/czym-jest-wiezba-dachowa-i-jak-ja-montowac.html
