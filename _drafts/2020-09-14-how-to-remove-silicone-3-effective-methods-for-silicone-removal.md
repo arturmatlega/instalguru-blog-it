@@ -1,5 +1,11 @@
 ---
-main_keywords: []
+main_keywords:
+- rimuovere il silicone
+- eliminare il silicone
+- togliere il silicone
+- Come rimuovere il silicone
+- come togliere il silicone
+- rimuovere silicone
 layout: post
 seo_title: Come Togliere il Silicone? 3 Metodi per Rimozione del Silicone
 seo_description: "Siete alla ricerca di un efficace smacchiatore al silicone? \U0001F468‍\U0001F527
@@ -7,41 +13,45 @@ seo_description: "Siete alla ricerca di un efficace smacchiatore al silicone? \U
   migliori."
 date: 2020-09-13 22:00:00 +0000
 update_date: 2020-09-13 22:00:00 +0000
-title: How to Remove Silicone? 3 Effective Methods for Silicone Removal
-small-intro: Have you just installed a shower cabin and now there are silicone stains
-  on the tiles? Or perhaps you were securing a mirror or windows and some silicone
-  remains on the glass?
-intro: Have you just installed a shower cabin and now there are silicone stains on
-  the tiles? Or perhaps you were securing a mirror or windows and some silicone remains
-  on the glass? Such "decorations" are not very aesthetically pleasing. Sometimes,
-  silicone sealant also needs to be removed for a fresh layer. After a few years the
-  material becomes loose, some cavities, dirt and mould appear. It's a sign that the
-  time for removal has come. How to remove silicone? We have prepared 3 most effective
-  methods which will work in each of the mentioned situations.
+title: Come Togliere il Silicone? 3 Metodi per Rimozione del Silicone
+small-intro: Avete appena installato una cabina doccia e ora ci sono macchie di silicone
+  sulle piastrelle? O forse stavate fissando uno specchio o delle finestre e sul vetro
+  è rimasto del silicone?
+intro: Avete appena installato una cabina doccia e ora ci sono macchie di silicone
+  sulle piastrelle? O forse stavate fissando uno specchio o delle finestre e sul vetro
+  è rimasto del silicone? Queste "decorazioni" non sono molto piacevoli dal punto
+  di vista estetico. A volte è necessario rimuovere anche il sigillante siliconico
+  per ottenere uno strato fresco. Dopo qualche anno il materiale si allenta, compaiono
+  delle cavità, dello sporco e della muffa. È un segno che è giunto il momento di
+  rimuoverlo. Come togliere il silicone? Abbiamo preparato 3 metodi più efficaci che
+  funzioneranno in ciascuna delle situazioni menzionate.
 photo: "/uploads/silikon.jpg"
-photo_desc: Silicone removal tool
+photo_desc: Strumento per la rimozione del silicone
 faq:
-- question: How to remove silicone from bath?
-  answer: There are several methods for removing silicone sealant from a tiled bath.
-    Using a chemical silicone remover is the easiest one, however it might be too
-    aggressive because of the harsh solvents it contains. Instead, you might try to
-    remove the silicone mechanically, using a knife or a razor.
-- question: How to remove sealant from tiles?
-  answer: Removing silicone sealant from tiles is not difficult - just choose one
-    of the methods. Use a chemical silicone remover, oil or hot air. Be careful when
-    using a store-bought sealant remover - a strong chemical could discolor the surface.
-    Never use a knife or other sharp tool.
-- question: How to remove sealant from shower?
-  answer: Removing silicone sealant from shower is easy - all you need is a small
-    knife. Cut through the seal to loosen it. You can use either a special silicone
-    remover which will soften the sealant, or try to remove it mechanically. Do not
-    use chemicals not labeled as sealant remover - there's a risk of reaction with
-    the fresh silicone.
-- question: How to remove black mould from silicone sealant?
-  answer: A sealant covered with mould should be removed as soon as possible - it
-    poses a serious threat to health. Use a silicone remover or other method to get
-    rid of the caulk - remember to wear gloves! Before applying a fresh layer of silicone,
-    clean the surface with an anti-fungal agent.
+- question: Come togliere il silicone dal bagno?
+  answer: Esistono diversi metodi per rimuovere il siliconico da un bagno piastrellato.
+    L'uso di un solvente chimico per la rimozione del silicone è il più semplice,
+    ma potrebbe essere troppo aggressivo a causa dei solventi aggressivi che contiene.
+    Invece, si potrebbe tentare di togliere il silicone meccanicamente, usando un
+    coltello o un rasoio.
+- question: Come rimuovere silicone dalle piastrelle?
+  answer: Rimuovere il silicone dalle piastrelle non è un compito difficile - basta
+    scegliere uno dei metodi. Utilizzare un prodotto chimico per la rimozione del
+    silicone, olio o aria calda. Fate attenzione quando usate un prodotto per la rimozione
+    del sigillante acquistato in negozio - un prodotto chimico forte potrebbe scolorire
+    la superficie. Non usate mai un coltello o un altro strumento affilato.
+- question: Come rimuovere il silicone dalla doccia?
+  answer: Rimozione del sigillante siliconico dalla doccia è facile - tutto ciò che
+    serve è un piccolo coltello. Tagliare il sigillo per allentarlo. È possibile utilizzare
+    uno speciale solvente al silicone che ammorbidisce il sigillante, oppure provare
+    a rimuoverlo meccanicamente. Non usate prodotti chimici non etichettati come sigillante
+    - c'è il rischio di reazione con il silicone fresco.
+- question: Come rimuovere la muffa nera dal sigillante siliconico?
+  answer: Un sigillante coperto di muffa deve essere rimosso il più presto possibile
+    - rappresenta una grave minaccia per la salute. Utilizzare un togli silicone o
+    un altro metodo per eliminare il calafataggio - ricordarsi di indossare i guanti!
+    Prima di applicare uno strato di silicone fresco, pulire la superficie con un
+    agente antifungino.
 author_name: Mateusz Knapik
 author_desc: Specialista vendite e assistenza clienti di Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
