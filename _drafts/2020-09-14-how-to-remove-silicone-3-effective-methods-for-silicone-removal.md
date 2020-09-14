@@ -73,37 +73,35 @@ hreflangs:
   link: https://instalguru.pl/blog/jak-usunac-silikon-3-skuteczne-sposoby-na-usuwanie-silikonu.html
 
 ---
-## Choosing a silicone remover: the most important issues
+## Come togliere il silicone: le questioni più importanti
 
-The method of silicone removal **depends on the type of the surface covered by the sealant.** How to remove silicone from tiles or wood? Choosing the best way to remove silicone is an important issue - you don't want to accidentally destroy the surface.
+Il metodo di rimuovere il silicone **dipende dal tipo di superficie coperta dal sigillante**. Come rimuovere il silicone dalle piastrelle o dal legno? La scelta del modo migliore per rimuovere il silicone è una questione importante - non si vuole distruggere accidentalmente la superficie.
 
-You need to make sure that the surface is clean, especially if you're removing silicone sealant in a tiled bathroom. Take all the objects standing on the tub or the shower base and wash the **tiles and sealings carefully.** Use either a special cream cleaner or an ordinary detergent such as dish soap. Make sure to remove soap stains - this way removing silicone sealant will be easier and more effective.
+È necessario assicurarsi che la superficie sia pulita, soprattutto se si sta rimuovendo il sigillante siliconico in un bagno piastrellato. Prendere tutti gli oggetti in piedi sulla vasca o il piatto doccia e **lavare le piastrelle e le guarnizioni con cura**. Utilizzare una crema detergente speciale o un detersivo ordinario come il sapone per i piatti. Assicuratevi di rimuovere le macchie di sapone - in questo modo la rimozione del sigillante siliconico sarà più facile ed efficace.
 
-![Choosing a silicone remover: the most important issues](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Choosing a silicone remover: the most important issues")
+![Come togliere il silicone: le questioni più importanti](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Come togliere il silicone: le questioni più importanti")
 
-## A chemical silicone remover - is it an effective method?
+## Rimuovere silicone con prodotti chimici - è un metodo efficace?
 
-**A chemical silicone remover which can be bought in typical hardware shops**, is one of the most popular methods. Such products contain strong solvents that quickly dissolve silicone sealants and allow for its easy removal.
+Uno dei metodi più popolari è un **solvente chimico per la rimozione del silicone che può essere acquistato nei tipici negozi di ferramenta**. Tali prodotti contengono solventi forti che dissolvono rapidamente i sigillanti siliconici e ne consentono la facile rimozione.
 
-### How to use a chemical silicone remover?
+### Come togliere il silicone con un prodotto chimico?
 
 {:.list.list-positive}
 
-* Protect your hands with **rubber gloves**. It's very important, as a typical chemical sealant remover is caustic.
-* If the surface around the sealant is delicate, secure it. You might use, for instance, a **painter's tape**.
-* Start removing silicone sealant mechanically. You can use either a special silicone removal tool or a small knife. Be careful - do not scratch the surface.
-* **Spread the silicone cleaner onto the remains of the sealant.** Usually, a small brush is included in the silicone remover kit, to make the process easier. Wait for the recommended amount of time.
-* Scoop the softened silicone using a small scraper or the silicone removal tool. Afterwards, wash the surface with water and detergent.
+* Proteggere le mani con **guanti di gomma**. È molto importante, poiché un tipico sigillante chimico è caustico.
+* Se la superficie intorno al sigillante è delicata, fissarla. Si potrebbe usare, per esempio, il **nastro adesivo** di un pittore.
+* Iniziare a rimuovere meccanicamente il sigillante siliconico. È possibile utilizzare un utensile speciale per la rimozione del silicone o un piccolo coltello. Attenzione a non graffiare la superficie.
+* **Stendere il detergente siliconico sui resti del sigillante.** Di solito, nel kit di rimozione del silicone è incluso un piccolo pennello per facilitare il processo. Attendere il tempo consigliato.
+* Raccogliere il silicone ammorbidito con un piccolo raschietto o con l'utensile per la rimozione del silicone. Successivamente lavare la superficie con acqua e detersivo.
 
-A surface prepared like this is ready to put a fresh layer of sealant on. There are many products available on the market, but be careful. **Some surfaces are easy to damage even when using very mild chemicals.**
+Una superficie preparata in questo modo è pronta per applicare un nuovo strato di sigillante. Ci sono molti prodotti disponibili sul mercato, ma fate attenzione. **Alcune superfici sono facili da danneggiare anche quando si usano prodotti chimici molto blandi.**
 
 {:.distinction.distinction-question.distinction-negative}
 
-A too aggressive silicone remover might tarnish the surface. In case of such situations, there is nothing much you can do. For this reason, make sure to read the label of each product you are about to use, to make sure that it is suitable for your surface.
+Un smacchiatore al silicone troppo aggressivo potrebbe offuscare la superficie. In queste situazioni, non c'è molto da fare. Per questo motivo, assicuratevi di leggere l'etichetta di ogni prodotto che state per usare, per assicurarvi che sia adatto alla vostra superficie.
 
-The **unpleasant smell** is definitely a large disadvantage of using a chemical sealant remover. Products like this typically contain acetone. After removing the silicone sealant with this method, make sure to ventilate the room. In case you or someone living with you are particularly sensitive to such acrid smells, consider removing the silicone sealant with a more eco-friendly method.
-
-![How to use a chemical silicone remover?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "How to use a chemical silicone remover?")
+**L'odore sgradevole** è sicuramente un grosso svantaggio dell'uso di un sigillante chimico. Prodotti come questo contengono tipicamente acetone. Dopo aver rimosso il sigillante siliconico con questo metodo, assicurarsi di ventilare la stanza. Nel caso in cui voi o qualcuno che vive con voi sia particolarmente sensibile a tali odori acre, considerate la possibilità di rimuovere il sigillante siliconico con un metodo più ecologico.
 
 ## An eco-friendly silicone remover. How to remove silicone sealant without chemicals?
 
