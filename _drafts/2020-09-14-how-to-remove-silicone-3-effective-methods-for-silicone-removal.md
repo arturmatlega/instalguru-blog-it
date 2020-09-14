@@ -103,35 +103,37 @@ Un smacchiatore al silicone troppo aggressivo potrebbe offuscare la superficie. 
 
 **L'odore sgradevole** è sicuramente un grosso svantaggio dell'uso di un sigillante chimico. Prodotti come questo contengono tipicamente acetone. Dopo aver rimosso il sigillante siliconico con questo metodo, assicurarsi di ventilare la stanza. Nel caso in cui voi o qualcuno che vive con voi sia particolarmente sensibile a tali odori acre, considerate la possibilità di rimuovere il sigillante siliconico con un metodo più ecologico.
 
-## An eco-friendly silicone remover. How to remove silicone sealant without chemicals?
+![Come togliere il silicone con un prodotto chimico?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "Come togliere il silicone con un prodotto chimico?")
 
-Are you anxious that a **strong chemical sealant remover** might be too strong? Or perhaps you just want to try a less expensive method? We have a fantastic solution for you. It is possible to remove a silicone sealant in a gentle way - which does not mean it is less effective.
+## Un silicone ecologico per la rimozione del silicone. Come togliere il silicone senza l'uso di prodotti chimici?
 
-All you need is:
+Siete preoccupati che un **forte chimico possa essere troppo forte**? O forse volete solo provare un metodo meno costoso? Abbiamo una soluzione fantastica per voi. È possibile rimuovere un silicone in modo delicato - il che non significa che sia meno efficace.
 
-{:.list.list-positive}
-
-* **A small knife or a razor** - you can use a box cutter or a special silicone removal tool.
-* **Any type of grease** - anything will do: baby oil, greasy lotion, vegetable oil.
-
-After cleaning the surface, make a cut on one side of the sealant. Pull the blade along its length - do it slowly, making sure not to damage the surface! Do not cut through the sealant. **You only need to loosen the silicone.** Repeat that for each corner with the sealant. Then just grab an ending and gently pull. The sealant should come off in almost one piece.
-
-### How to remove silicone sealant that broke off and stayed on the surface?
-
-**Spread the grease on any residues of the sealant.** Wait for some time until the silicone absorbs the oil, and then scrape it off with a dry sponge or a piece of cloth. Because this method makes the surface very oily, make sure to degrease it before putting a fresh layer of sealant. To do this, use a detergent.
-
-![How to remove silicone sealant that broke off and stayed on the surface?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "How to remove silicone sealant that broke off and stayed on the surface?")
-
-## How to remove silicone from clothes, wood, hands? Use temperature
-
-Unfortunately, methods like store-bought silicone remover or knife and oil are not always suitable. In case of stained clothes, skin and wood, **they might be harmful**.
-
-So, how to remove silicone in this situation? **Temperature** might be a good help. In case of wood and clothes, silicone should be removed after it solidifies.
+Tutto ciò che serve è:
 
 {:.list.list-positive}
 
-* **How to remove silicone from clothing?** Under no circumstances attempt to wipe off fresh silicone - it will only get absorbed by the fibres, making the stain impossible to remove. Instead, **carefully remove the product using a knife or a spatula**. After the silicone stiffens, put some ice over it - small stains will be easy to crumble up. Do do this, you can use an **ink eraser,** but keep in mind that a few fibers might get scraped off along with the silicone. Lastly, wash the clothing to remove any residues.
-* **Removing silicone from wood** might be a problematic issue. Grease and other chemicals cannot be used in this case, as they might stain the surface and damage the wood. The only method for silicone removal from wood is **putting ice** on it, similar as with clothes. Then try to crumble it up. You can use a knife but be careful not to scratch the surface.
-* Removing silicone from skin is quite easy when it's still wet - just wipe it off with a cloth or a paper towel. It might be more difficult after it stiffens. **How to remove silicone which has hardened on skin?** A hairdryer might be a useful tool in this case. Direct the warm air onto the stain and wait until it softens. Then wipe the silicone off and wash the skin with soap.
+* **Un piccolo coltello o un rasoio** - si può usare una taglierina per scatole o uno speciale utensile per la rimozione del silicone.
+* **Qualsiasi tipo di grasso** - qualsiasi cosa va bene: olio per bambini, lozione grassa, olio vegetale.
 
-**Removing silicone is not as difficult as it might seem.** Just pick the right method to the surface from which you remove silicone. Pay special attention not to damage the surface around the sealant. If you catch yourself wondering how to remove silicone in the future, just use one of the methods presented above.
+Dopo aver pulito la superficie, praticare un taglio su un lato del sigillante. Tirare la lama per tutta la sua lunghezza - farlo lentamente, facendo attenzione a non danneggiare la superficie! Non tagliare il sigillante. **È sufficiente allentare il silicone.** Ripetere l'operazione per ogni angolo con il sigillante. Poi basta afferrare un finale e tirare delicatamente. Il sigillante dovrebbe staccarsi in quasi un unico pezzo.
+
+### Come togliere il silicone che si è rotto e che è rimasto in superficie?
+
+**Spalmare il grasso su eventuali residui di sigillante**. Attendere che il silicone assorba l'olio e poi raschiarlo via con una spugna asciutta o un pezzo di stoffa. Poiché questo metodo rende la superficie molto oleosa, assicurarsi di sgrassarla prima di applicare uno strato fresco di sigillante. Per fare questo, utilizzare un detergente.
+
+![Come togliere il silicone che si è rotto e che è rimasto in superficie?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "Come togliere il silicone che si è rotto e che è rimasto in superficie?")
+
+## Come togliere il silicone dai vestiti, dal legno, dalle mani? Utilizzare la temperatura
+
+Purtroppo, metodi come lo smacchiatore al silicone acquistato in negozio o il coltello e l'olio non sono sempre adatti. In caso di macchie sui vestiti, sulla pelle e sul legno, **potrebbero essere dannose**.
+
+Quindi, come rimuovere il silicone in questa situazione? **La temperatura** potrebbe essere un buon aiuto. In caso di legno e vestiti, il silicone dovrebbe essere rimosso dopo che si è solidificato.
+
+{:.list.list-positive}
+
+* **Come togliere il silicone dai vestiti**? Non tentare in nessun caso di rimuovere il silicone fresco - verrà assorbito solo dalle fibre, rendendo impossibile rimuovere la macchia. **Al contrario, rimuovetelo con cautela con un coltello o una spatola**. Dopo che il silicone si irrigidisce, metteteci sopra del ghiaccio - le piccole macchie si sbricioleranno facilmente. Fate questo, potete usare una **gomma per cancellare l'inchiostro**, ma tenete presente che alcune fibre potrebbero essere raschiate via insieme al silicone. Infine, lavate i vestiti per rimuovere eventuali residui.
+* **La rimozione del silicone dal legno** potrebbe essere un problema. In questo caso non è possibile utilizzare grassi e altre sostanze chimiche, in quanto potrebbero macchiare la superficie e danneggiare il legno. L'unico metodo per rimuovere silicone dal legno è **metterci del ghiaccio**, come per i vestiti. Poi provate a sbriciolarlo. Potete usare un coltello, ma fate attenzione a non graffiare la superficie.
+* Rimuovere silicone dalla pelle è abbastanza facile quando è ancora bagnato - basta pulirlo con un panno o un tovagliolo di carta. Potrebbe essere più difficile dopo che si irrigidisce. **Come togliere il silicone che si è indurito sulla pelle**? Un asciugacapelli potrebbe essere uno strumento utile in questo caso. Dirigete l'aria calda sulla macchia e aspettate che si ammorbidisca. Poi asciugate il silicone e lavate la pelle con il sapone.
+
+**Rimuovere silicone non è così difficile come potrebbe sembrare.** Basta scegliere il metodo giusto per la superficie da cui rimuovere il silicone. Prestare particolare attenzione a non danneggiare la superficie intorno al sigillante. Se vi capita di chiedervi come rimuovere il silicone in futuro, utilizzate uno dei metodi presentati sopra.
