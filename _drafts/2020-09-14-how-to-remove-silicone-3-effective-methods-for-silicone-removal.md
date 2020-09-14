@@ -34,13 +34,13 @@ faq:
     ma potrebbe essere troppo aggressivo a causa dei solventi aggressivi che contiene.
     Invece, si potrebbe tentare di togliere il silicone meccanicamente, usando un
     coltello o un rasoio.
-- question: Come rimuovere silicone dalle piastrelle?
+- question: Come togliere il silicone dalle piastrelle?
   answer: Rimuovere il silicone dalle piastrelle non è un compito difficile - basta
     scegliere uno dei metodi. Utilizzare un prodotto chimico per la rimozione del
     silicone, olio o aria calda. Fate attenzione quando usate un prodotto per la rimozione
     del sigillante acquistato in negozio - un prodotto chimico forte potrebbe scolorire
     la superficie. Non usate mai un coltello o un altro strumento affilato.
-- question: Come rimuovere il silicone dalla doccia?
+- question: Come togliere il silicone dalla doccia?
   answer: Rimozione del sigillante siliconico dalla doccia è facile - tutto ciò che
     serve è un piccolo coltello. Tagliare il sigillo per allentarlo. È possibile utilizzare
     uno speciale solvente al silicone che ammorbidisce il sigillante, oppure provare
