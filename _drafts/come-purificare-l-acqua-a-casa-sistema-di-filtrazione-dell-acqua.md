@@ -35,7 +35,11 @@ author_name: Maksymilian Ignacyk
 author_desc: Specialista vendite e marketing di Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: false
-hreflangs: []
+hreflangs:
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-purify-water-at-home-home-water-filtration-system.html
+- lang: pl
+  link: https://instalguru.pl/blog/jak-poprawic-smak-wody-domowa-stacja-uzdatniania-wody.html
 
 ---
 ## Come vengono determinati il gusto e la qualità dell'acqua?
