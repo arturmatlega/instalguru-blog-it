@@ -22,7 +22,7 @@ intro: L'acqua è un elemento senza il quale un essere umano non sarebbe in grad
   in attrezzature speciali come un depuratore d'acqua o un sistema di filtraggio dell'acqua
   domestica.
 photo: "/uploads/domowa-stacja-uzdatniania-wody-glowne.jpg"
-photo_desc: ''
+photo_desc: Impianto di trattamento delle acque domestiche - filtrazione.
 faq:
 - question: Qual è il miglior depuratore per una casa unifamiliare?
   answer: Soluzioni semplici come un filtro meccanico, al carbonio o in ferro sotto
