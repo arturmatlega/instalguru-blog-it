@@ -54,7 +54,7 @@ Gli specialisti classificano gli interruttori di luce in base a diversi criteri.
 
 A giudicare dall'estetica, si possono anche distinguere gli interruttori della luce in base al tipo di pulsanti. I produttori offrono interruttori tradizionali con un pulsante meccanico. Gli interruttori a sfioramento stanno guadagnando popolarità. Hanno un pannello liscio con un sensore che reagisce al tocco.
 
-![](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg)
+![Interruttore della luce a due vie - quali sono le sue caratteristiche?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Interruttore della luce a due vie - quali sono le sue caratteristiche?")
 
 ### Interruttore della luce a due e tre vie
 
@@ -89,7 +89,7 @@ Per collegare il più semplice interruttore della luce a senso unico, è necessa
 
 In nessun caso mescolare i fili - per esempio la fase con la linea neutra. Costituirebbe una minaccia durante la sostituzione di una lampadina - anche quando la luce è spenta!
 
-Interruttore a due vie - schema
+## Interruttore a due vie - schema
 
 Il collegamento di un circuito di commutazione a due vie è un po' più complicato, in quanto utilizza due interruttori. Quindi - **come si collega un interruttore a due vie?**
 
@@ -97,7 +97,7 @@ Un diagramma di commutazione a due vie è più elaborato. In questo caso, il fil
 
 **Vedere lo schema degli interruttori a due vie qui sotto:**
 
-![](/uploads/jak_podlaczyc_wlacznik_schemat2_it.jpg)
+![Interruttore a due vie - schema](/uploads/jak_podlaczyc_wlacznik_schemat2_it.jpg "Interruttore a due vie - schema")
 
 ### Come si collega un interruttore della luce a tre vie?
 
@@ -105,6 +105,6 @@ Come già detto, è **possibile cablare più di due soli interruttori della luce
 
 **Vedi il diagramma dei tre interruttori di luce a tre vie presentato qui sotto:**
 
-![](/uploads/jak_podlaczyc_wlacznik_schemat3_it.jpg)
+![Come si collega un interruttore della luce a tre vie?](/uploads/jak_podlaczyc_wlacznik_schemat3_it.jpg "Come si collega un interruttore della luce a tre vie?")
 
 **Il collegamento di un interruttore a due o tre vie non è così difficile come potrebbe sembrare.** Se avete lo schema dell'interruttore giusto, potete farlo facilmente da soli.
