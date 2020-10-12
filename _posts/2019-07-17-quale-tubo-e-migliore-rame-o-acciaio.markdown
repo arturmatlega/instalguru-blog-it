@@ -1,24 +1,26 @@
 ---
 layout: post
-seo_title: Installazione della linea del gas. Quale tubo è migliore - rame o acciaio?
-seo_description: "Stai pensando di installare i raccordi del gas a casa tua? ✔️ Assicuratevi
-  di scegliere i tubi giusti. Quale tipo di tubo è meglio utilizzare nelle vostre
-  tubature - rame \U0001F19A acciaio? "
+seo_title: Installazione del Gas. Quali Tubi Sono Migliori - Rame o Acciaio?
+seo_description: "Stai pensando di installare i raccordi del gas a casa? ✔️ Assicuratevi
+  di scegliere i tubi giusti. Quale tipo di tubo è meglio utilizzare - rame \U0001F19A
+  acciaio?"
 main_keywords:
-  - tubazioni
-  - installazione della linea del gas
-  - materiali per tubazioni
+- tubazioni
+- installazione della linea del gas
+- materiali per tubazioni
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: Quale tubo del gas è migliore - rame o acciaio?
-small-intro: L'installazione della linea del gas è un elemento essenziale probabilmente
-  per ogni nuovo edificio.
-intro: L'installazione della linea del gas è un elemento essenziale probabilmente
-  per ogni nuovo edificio. Permette di collegare l'intero edificio al sistema di riscaldamento.
-  L'installazione del gas può consistere in tubi d'acciaio, anche se si usano anche
-  tubi di rame. Prima di scegliere una particolare soluzione, si dovrebbero imparare
-  i vantaggi e gli svantaggi di entrambi. Grazie a tali conoscenze la decisione è
-  più facile da prendere.
+title: Installazione del Gas. Quali Tubi Sono Migliori - Rame o Acciaio?
+small-intro: L'installazione della linea del gas è stata un elemento essenziale per
+  quasi tutti i nuovi edifici negli ultimi anni.
+intro: L'installazione della linea del gas è stata un elemento essenziale per quasi
+  tutti i nuovi edifici negli ultimi anni. È abbastanza benficiale. Permette di collegare
+  l'intero edificio con il sistema di riscaldamento. Non tutte le installazioni delle
+  linee del gas sono uguali, il che dipende dai materiali utilizzati per la loro costruzione.
+  In genere si utilizzano tubi di acciaio o di rame. Essi devono anche essere integrati
+  con altri componenti come valvole e filtri. Prima di decidere di scegliere una particolare
+  soluzione, imparate le caratteristiche di ciascuno di essi. In questo modo potrete
+  facilmente determinare l'opzione migliore per voi.
 photo: "/uploads/195e87ad8a354ffb801e5efc82cd9ffe.jpg"
 photo_desc: L'installazione del gas può consistere in tubi d'acciaio, anche se si
   utilizzano anche tubi di rame.
@@ -58,32 +60,42 @@ hreflangs:
   link: https://instalguru.cz/blog/ktere-plynove-potrubi-je-lepsi-med-nebo-ocel.html
 
 ---
-## Tubo di rame - perché viene utilizzato nell'installazione di linee di gas?
+## Tubi di rame per il gas? Quali sono i vantaggi di una tale installazione del gas?
 
-I tubi in rame sono tipicamente raccomandati per l'installazione della linea del gas. Perché? La ragione principale è il fatto che il rame è un metallo malleabile che può allungarsi senza danni. È una questione molto importante per gli impianti che lavorano ad alte temperature. Richiede la preparazione di spazio sufficiente per un'installazione, in quanto può aumentare le sue dimensioni. Un tubo di rame è decisamente più piccolo dei tubi di altri materiali - le sue pareti sono più sottili, poiché per la loro produzione viene utilizzato meno materiale.
+I tubi in rame sono tipicamente raccomandati per l'installazione di linee di gas da molti specialisti. **Perché?** La ragione principale è il fatto che il rame è un metallo malleabile che può allungarsi senza danni. È una questione molto importante per i sistemi che lavorano ad alte temperature - come i raccordi del gas.
+
+Ciò che vale la pena di notare è il fatto che i tubi di rame per il gas richiedono la preparazione di spazio sufficiente per l'installazione, in quanto possono aumentare le loro dimensioni. **I tubi di rame per un'installazione** di gas sono decisamente più piccoli dei tubi di altri materiali. Le loro pareti sono più sottili, poiché per la loro produzione viene utilizzato meno materiale rispetto, ad esempio, ai tubi in acciaio.
 
 {:.distinction.distinction-info.distinction-positive}
 
-Gli impianti a gas di rame sono a tenuta stagna e resistenti a vari fattori, come l'illuminazione UV. Il più grande vantaggio di un tubo di rame è l'elevata resistenza alla corrosione.Copper pipes - how to connect the elements?
+Gli impianti a gas di rame rendono l'impianto domestico a tenuta stagna e resistente a vari fattori, come l'illuminazione UV. Il più grande vantaggio di un tubo di rame è la sua elevata resistenza alla corrosione.
 
-I tubi di rame utilizzati per l'installazione di linee di gas domestico sono abbastanza robusti. Le loro pareti sono tipicamente superiori a 1 mm. Grazie ad essa i tubi possono essere collegati in modo molto efficace, mediante saldatura dura. Non dovreste tentare di saldare un tubo del gas da soli - lasciatelo a un professionista. Un altro metodo è quello del raccordo a compressione. L'assemblaggio di tali tubi è molto semplice e non dovrebbe essere un problema per uno specialista. Questo fatto contribuisce notevolmente a ridurre i costi di montaggio dell'installazione.
+### Come si collegano i tubi di rame?
+
+Un impianto del gas con tubi di rame crea molte possibilità per il loro collegamento. I tubi di rame sono duri e tipicamente spessi 1 mm. Per questo motivo, i tubi possono essere collegati in modo molto efficace, mediante saldatura dura. Prima di creare il collegamento, si consiglia di utilizzare una speciale spazzola di rame, in modo che sia più resistente. Gli esperti suggeriscono anche di utilizzare una pasta speciale per saldare i tubi e i raccordi in rame.
+
+Un altro metodo prevede l'utilizzo di raccordi a pressare. In questo caso particolare, un normale raccordo PEX andrà bene. Tuttavia, se si vuole cambiare la direzione dell'impianto del gas e adattarlo alla costruzione dell'edificio, utilizzare raccordi a T in PEX o gomiti a pressione. Il processo di installazione di tali elementi è attualmente uno dei più semplici, quindi ogni specialista dovrebbe essere in grado di farlo. Questo fatto abbassa decisamente i costi di installazione del gas.
 
 ![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
 
-## Quali sono i vantaggi dei tubi in acciaio?
+## Tubi d'acciaio - l'installazione del gas è più soggetta a fattori dannosi?
 
-I tubi in acciaio utilizzati per l'installazione delle linee del gas hanno diametri maggiori rispetto alle controparti in rame. Le pareti di un tubo d'acciaio sono più spesse, quindi sono più rigide e non hanno bisogno di essere fissate ad una parete con elementi aggiuntivi. Purtroppo questo tipo di installazione è molto pesante.
-
-Come le tubazioni in rame, i tubi in acciaio per l'installazione delle linee del gas subiscono un'espansione termica. Questa caratteristica li rende adatti a lavorare ad alte temperature. I tubi in acciaio possono essere assemblati da uno specialista mediante saldatura o utilizzando raccordi filettati.
+I tubi in acciaio utilizzati per l'installazione delle linee del gas hanno diametri maggiori rispetto alle controparti in rame. Le pareti di un tubo d'acciaio sono più spesse, quindi sono più rigide e non hanno bisogno di essere fissate ad una parete con elementi aggiuntivi. Purtroppo questo tipo di installazione è molto pesante. **Un'installazione di linea del gas domestico come questa è anche significativamente più pesante**. Come le linee in rame, i tubi ripidi sono termicamente espandibili. Grazie a questa caratteristica, sono perfetti per le alte temperature.
 
 {:.distinction.distinction-info.distinction-negative}
 
-Rispetto ai tubi di rame, il processo di collegamento dei tubi in acciaio richiede molto più tempo. Sono anche meno resistenti alla corrosione e più inclini ad accumulare incrostazioni all'interno (se utilizzati per un'installazione ad acqua).
+_I tubi in acciaio possono essere assemblati mediante saldatura o utilizzando raccordi filettati. Rispetto ai tubi in rame, il processo di collegamento dei tubi in acciaio richiede molto più tempo. Inoltre, sono meno resistenti alla corrosione e hanno più probabilità di accumulare incrostazioni all'interno (se utilizzati per un'installazione ad acqua). Ecco perché i tubi d'acciaio sono scelti meno frequentemente dei tubi di rame._
 
-### Durata di vita dei tubi
+## Quale installazione di linea del gas è migliore - con tubi di rame o di acciaio?
 
-Sia i tubi in rame che quelli in acciaio possono durare molto a lungo, da 20 a 50 anni, e in alcuni casi anche di più. Questi materiali sono spesso sostituiti con tubi in PVC (cloruro di polivinile), tuttavia la loro durata è discutibile. Non sono, tuttavia, utilizzati per gli impianti a gas.
+Entrambe le soluzioni hanno i loro punti di forza e di debolezza. L'installazione in rame non solo è funzionale, ma ha anche un bell'aspetto. Tubi di questo tipo potrebbero servire come decorazione. Tuttavia, non sono adatti per sistemi ad incasso. I tubi d'acciaio, invece, sono forti come il rame e possono essere posizionati all'interno di un muro. Non possono però essere installati in luoghi ad alta umidità.
 
-## Installazione della linea del gas - tubi di rame o di acciaio?
+L'installazione della linea del gas deve quindi essere adattata alle condizioni di un particolare edificio.
 
-Entrambe le soluzioni hanno i loro punti di forza e di debolezza. L'installazione in rame non solo è funzionale, ma ha anche un bell'aspetto. Tubi di questo tipo potrebbero servire come decorazione. Tuttavia, non sono adatti per sistemi ad incasso. I tubi d'acciaio, invece, sono forti come il rame e possono essere posizionati all'interno di un muro. Non possono però essere installati in luoghi ad alta umidità a causa della loro corrosività.
+## Installazione del gas a casa - un'attrezzatura aggiuntiva che vale la pena di investire
+
+Se si sceglie una particolare tubazione del gas, ricordarsi di raccogliere il resto dell'attrezzatura che supporterà il corretto funzionamento dell'intero sistema. I **tubi del gas** sono l'essenziale, ovviamente, ma non possono essere utilizzati senza parti aggiuntive.
+
+Uno degli elementi più importanti che vengono solitamente menzionati sono le valvole a sfera. Si tratta di un componente molto importante - soprattutto quando il flusso di gas deve essere interrotto rapidamente. Un malfunzionamento può accadere in qualsiasi momento, il che è un esempio perfetto. Se si utilizza una valvola a sfera per il gas, sarà sempre possibile interrompere il flusso di gas in casa. È una grande comodità - non c'è bisogno di chiamare uno specialista per fare una cosa così banale.
+
+Un'installazione del gas che funzioni correttamente dipende anche da accessori come il filtro del gas. Grazie a questo elemento, è possibile eliminare efficacemente ogni contaminazione. Questo prodotto piccolo, ma altamente funzionale, può prevenire malfunzionamenti con conseguenze potenzialmente gravi e costi di riparazione elevati.
