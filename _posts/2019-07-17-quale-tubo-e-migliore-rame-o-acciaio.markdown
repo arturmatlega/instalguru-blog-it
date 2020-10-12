@@ -10,7 +10,8 @@ main_keywords:
 - materiali per tubazioni
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: Installazione del Gas. Quali Tubi Sono Migliori - Rame o Acciaio?
+title: Quali sono i tubi migliori - tubi di rame o di acciaio? Elementi essenziali
+  per l'installazione del gas
 small-intro: L'installazione della linea del gas è stata un elemento essenziale per
   quasi tutti i nuovi edifici negli ultimi anni.
 intro: L'installazione della linea del gas è stata un elemento essenziale per quasi
