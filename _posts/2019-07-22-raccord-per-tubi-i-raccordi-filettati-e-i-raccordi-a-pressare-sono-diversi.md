@@ -1,35 +1,28 @@
 ---
 layout: post
-seo_title: 'Raccordi per tubi: i raccordi filettati e i raccordi a pressare sono diversi?'
-seo_description: "State progettando una ristrutturazione della vostra casa?\U0001F3E0
-  \U0001F449 Scoprite la differenza tra raccordi filettati e raccordi a pressare"
+seo_title: Riscaldamento Centralizzato - Quali Raccordi Per Tubi Scegliere?
+seo_description: "Stai costruendo una casa? \U0001F3E0 Vi state chiedendo come scegliere
+  i raccordi per tubi PEX? \U0001F449 Per saperne di più sui raccordi per tubi."
 main_keywords:
-  - raccordi pex
-  - Raccordi per tubi
-  - raccordi per tubi in pvc
-  - raccordi idraulici
-  - raccordi in rame
-  - raccordi per tubi pex
+- raccordi pex
+- Raccordi per tubi
+- raccordi per tubi in pvc
+- raccordi idraulici
+- raccordi in rame
+- raccordi per tubi pex
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2019-07-22T22:00:00.000+00:00
-title: 'Raccordi per tubi: i raccordi filettati e i raccordi a pressare sono diversi?'
-small-intro: L'installazione dell'acqua e del riscaldamento centrale utilizza vari
-  tipi di raccordi per tubi
-intro: L'installazione dell'acqua e del riscaldamento centrale utilizza vari tipi
-  di raccordi per tubi. Due degli elementi più popolari sono i raccordi filettati
-  e gli elementi a pressare. Qual è la differenza tra questi due elementi e quali
-  sono i loro maggiori vantaggi? I raccordi per tubi sono tra gli elementi più importanti
-  di qualsiasi impianto idrico. I raccordi in PVC e i raccordi PEX stanno diventando
-  sempre più popolari, essendo scelti più spesso dei raccordi in rame. Possono essere
-  utilizzati sia per il riscaldamento (95° C max) che per l'installazione dell'acqua.
-  Uno dei maggiori vantaggi di una soluzione di questo tipo è la possibilità di trasferire
-  l'acqua potabile senza il rischio di inquinarla. Indipendentemente dal tipo, entrambi
-  i prodotti possono essere utilizzati per collegare un tubo PEX con altri elementi
-  nell'installazione dell'acqua. Diversi tipi, come i tee e i gomiti, sono utili per
-  costruire installazioni più grandi e complicate.
+update_date: 2020-10-13 22:00:00 +0000
+title: Central heating - what pipe fittings guarantee best heating?
+small-intro: Ogni sistema di riscaldamento centrale si basa su vari collegamenti di
+  diversi elementi.
+intro: Ogni sistema di riscaldamento centrale si basa su vari collegamenti di diversi
+  elementi. Dipende principalmente dalla loro costruzione basata su materiali diversificati.
+  I raccordi PEX - filettati e a pressare sono stati uno dei più popolari nel corso
+  degli anni. Ma, a seconda delle esigenze - il riscaldamento centrale di un edificio
+  può utilizzare tubi in rame, nichel o ghisa. Imparate le caratteristiche di ogni
+  tipo di impianto di riscaldamento e verificate come sono costruiti.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: Due degli elementi più popolari sono i raccordi filettati e gli elementi
-  a pressare.
+photo_desc: Due degli elementi PEX più popolari sono filettati e raccordi a pressare.
 faq:
 - question: Raccordi PEX - come installarli?
   answer: Il metodo di installazione dei raccordi per tubi PEX dipende dalla loro
@@ -69,47 +62,71 @@ hreflangs:
   link: https://instalguru.cz/blog/potrubni-tvarovky-lisi-se-prislusenstvi-se-zavitem-a-stiskem.html
 
 ---
-## Raccordi per tubi - costruzione e installazione
+## Sistema di riscaldamento basato su sistemi PEX
 
-Che si tratti di raccordi in PVC, raccordi PEX, raccordi in rame o di qualsiasi altro tipo, la loro costruzione non è molto complicata. Gli elementi differiscono solo leggermente. La distinzione principale è nel metodo di installazione. Vedere una descrizione completa dei raccordi filettati e a pressare qui sotto.
+Il sistema di riscaldamento centrale, molto popolare nel corso degli anni, si basa per lo più su sistemi PEX. A causa del materiale utilizzato per la loro produzione, così come le caratteristiche, tubi come PEX-AL-PEX e raccordi PEX possono essere utilizzati sia per il riscaldamento centrale che per i sistemi di acqua. **Il limite in questo caso è la temperatura, che può raggiungere al massimo i 95°C (203 F).**
 
-### Raccordi filettati
+Come ulteriore vantaggio di questa soluzione, è possibile trasmettere acqua potabile senza il rischio di contaminazione - indipendentemente dal fatto che si scelgano raccordi a pressare o stampi. Quando si collegano i tubi PEX con altri elementi di installazione dell'acqua, è possibile utilizzare vari tipi di raccordi. Essi sono tipicamente gomiti PEX e raccordi a T in PEX. Usandoli, si possono creare sistemi più grandi e più complicati, adatti alla struttura di un edificio. Grazie a questo, il progetto del sistema di riscaldamento è facile da realizzare, e può essere realizzato rapidamente.
+
+La differenza nei sistemi di riscaldamento con raccordi PEX sta nell'utilizzo di vari tipi di modanature. **Quali sono le caratteristiche di questi elementi?**
+
+### Sistemi di riscaldamento con raccordi filettati
 
 ![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
 
-Un raccordo filettato è composto dai seguenti elementi:
+Ogni sistema di riscaldamento utilizza **tubi PEX/AL/PEX** come base. Essi sono tuttavia collegati tra loro con vari raccordi. Un raccordo filettato è costituito dai seguenti elementi:
 
-{:.list.list-positive}
+1. Un dado filettato.
+2. Anello di serraggio.
+3. Tubo (con o-ring di tenuta).
+4. Distanziatore dielettrico.
+5. Corpo del raccordo.
 
-* Un dado filettato.
-* Anello di serraggio.
-* Tubo (con o-ring di tenuta).
-* Distanziatore dielettrico.
-* Corpo di montaggio.
+I raccordi filettati per tubi hanno un dado filettato che deve essere attorcigliato al distanziatore del dielettrico. Poi il dado e l'anello di serraggio vengono messi sul tubo. Il tubo deve essere posizionato all'interno del tubo e pressarlo con forza per eliminare gli spazi tra i due elementi (il tubo deve essere tagliato con un angolo di 90 gradi). Se il **tubo è all'interno del tubo**, il dado deve essere avvitato con le mani il più saldamente possibile e poi fissato con una chiave inglese (3/4 di giro). Fate attenzione a non fissare troppo il dado, in quanto potrebbe danneggiare sia il raccordo che il tubo.
 
-I raccordi filettati per tubi hanno un dado filettato che deve essere attorcigliato al distanziatore del dielettrico. Poi il dado e l'anello di serraggio vengono messi sul tubo. Il tubo deve essere posizionato all'interno del tubo e pressarlo con forza per eliminare gli spazi tra i due elementi (il tubo deve essere tagliato con un angolo di 90 gradi). Se il tubo è all'interno del tubo, il dado deve essere avvitato con le mani il più saldamente possibile e poi fissato con una chiave inglese. Fate attenzione a non fissare troppo il dado, in quanto potrebbe danneggiare sia il raccordo che il tubo.
+{:.distinction.distinction-info.distinction-positive}
 
-### Raccordi a pressare
+Fare attenzione a non avvitare il dado a fondo, in quanto si rischia di danneggiare sia il raccordo che il tubo.
+
+### Un sistema di riscaldamento con raccordi a pressare
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
-Ci sono diversi elementi nei raccordi a pressare:
+I raccordi a pressare sono comunemente usati anche nei sistemi di riscaldamento. Ci sono diversi elementi nei raccordi a pressare:
 
-{:.list.list-positive}
+1. Manicotto di serraggio.
+2. Tubo (con o-ring di tenuta).
+3. Distanziatore dielettrico.
+4. Corpo di montaggio.
 
-* Manicotto di serraggio.
-* Tubo (con o-ring di tenuta).
-* Distanziatore dielettrico.
-* Corpo di montaggio.y.
+L'installazione di questo tipo di raccordi comporta il posizionamento del manicotto di serraggio direttamente sul tubo (senza smontaggio). Per assicurarsi che il tubo sia stato posizionato a una profondità sufficiente, si utilizzano speciali spazi vuoti nel tubo. Per fissare il raccordo si utilizza uno **speciale attrezzo meccanico a pressare**, che è la differenza principale tra i due tipi. L'attrezzo viene messo sul tubo e acceso. Dopo alcuni secondi si sente un rumore caratteristico - ciò significa che il raccordo è stato collegato correttamente con il tubo.
 
-L'installazione di raccordi di questo tipo comporta l'applicazione del manicotto di serraggio direttamente sul tubo (senza smontarlo). Per assicurarsi che il tubo sia stato posizionato a una profondità sufficiente, si utilizzano speciali spazi vuoti situati nel tubo. Per fissare il raccordo si utilizza uno speciale attrezzo meccanico a pressare, che è la differenza principale tra i due tipi. L'attrezzo viene messo sul tubo e acceso. Dopo alcuni secondi si sente un rumore caratteristico - ciò significa che il raccordo è stato collegato correttamente con il tubo.
+## Raccordi per tubi - principali differenze nei sistemi PEX
 
-## Raccordi per tubi - differenze principali
+Ogni sistema di riscaldamento dovrebbe essere altamente durevole. È importante creare collegamenti a tenuta stagna, resistenti a vari fattori. Per questo motivo vengono spesso utilizzati raccordi in ottone: gomiti, nippli e connettori vari.
 
-Come indicato nelle descrizioni precedenti, la differenza principale tra i due sistemi sta nel metodo di installazione. I raccordi filettati sono più facili da installare e non richiedono attrezzi speciali. I raccordi filettati sono anche più economici degli altri (anche se la differenza di prezzo è relativamente piccola). Un ulteriore vantaggio è il fatto che il raccordo può essere facilmente smontato dopo l'installazione.
+### Raccordi per radiatori
 
-Ci sono, tuttavia, alcune limitazioni. Può accadere che dopo lo smontaggio del raccordo, l'anello di serraggio debba essere sostituito. Un altro svantaggio è che dopo l'installazione il raccordo non può essere spostato, in quanto potrebbe causare perdite. È particolarmente problematico con i gomiti, in quanto devono essere posizionati con una certa angolazione.
+I raccordi in ottone, grazie alla loro durata, nonché alla resistenza alle alte temperature, sono utilizzati per i radiatori. In questo caso particolare, i raccordi per tubi sono tipicamente utilizzati. Oltre ad essere durevoli, sono anche facili da mantenere e altamente funzionali.
 
-I raccordi a pressare sono un po' più costosi. L'utilizzo di un attrezzo a pressare meccanico è un metodo di installazione più sicuro (è facile fissare un raccordo filettato troppo stretto). I raccordi a pressare (specialmente i gomiti e i raccordi a T) possono essere spostati dopo l'installazione. Ciò significa che possono essere facilmente adattati all'elemento successivo senza il rischio di danni. Inoltre, possono essere inseriti nel calcestruzzo, in quanto sono più durevoli e stabili.
+{:.distinction.distinction-quotation.distinction-negative}
 
-Entrambi i sistemi hanno i loro punti di forza e di debolezza. La decisione tra di loro dipende dalle esigenze individuali.
+_Grazie a questi elementi, è possibile rimuovere rapidamente il radiatore in caso di malfunzionamento degli impianti di riscaldamento._
+
+### Riscaldamento - impianti ad acqua e gas
+
+I raccordi in ottone costruiscono anche sistemi per il gas e l'acqua. Utilizzano anche vari tipi di raccordi. L'utilizzo di riduttori a e riduttori a nipplo in ottone è molto vantaggioso. Grazie a questi elementi, i diversi diametri dei raccordi non sono più problematici. La costruzione di un edificio può anche forzare alcune modifiche che devono essere applicate al layout dell'impianto di riscaldamento. Cambiare la direzione delle tubazioni non è un problema. È sufficiente utilizzare un raccordo a T in ottone o il suddetto gomito.
+
+## Raccordi nichelati nel riscaldamento centrale
+
+Gli elementi nichelati, ricoperti da uno strato protettivo, sono utilizzati per sistemi in cui l'estetica è importante quanto la durata. Riguarda tutti i punti esposti - per lo più nei bagni e nelle toilette, ma non solo.
+
+Grazie agli elementi, si può essere sicuri che il sistema di riscaldamento centrale o le tubature saranno durevoli e resistenti a vari fattori. Quali sono i tipi di raccordi più popolari? Sono i raccordi nichelati, i riduttori di nichel e i gomiti rivestiti di nichel.
+
+## Riscaldamento centrale basato su sistemi in ghisa
+
+Oltre a tutte le suddette possibilità, un sistema di riscaldamento centralizzato può essere costituito anche da elementi in ghisa galvanizzata. Anche se molti rinunciano a questa soluzione - soprattutto per motivi estetici - non si possono tuttavia dimenticare le caratteristiche più importanti. I raccordi in ghisa sono uno degli elementi più resistenti disponibili sul mercato. A detta degli esperti, possono essere utilizzati in punti ad alto rischio di variazioni di pressione. Per questo motivo, i raccordi in ghisa non vengono utilizzati solo per il riscaldamento centrale, ma anche per gli impianti di acqua, gas, antincendio e ventilazione.
+
+Come in tutti i casi precedenti - i raccordi a tee in ghisa, i nippli riduttori zincati e i raccordi per tubi in ghisa sono prodotti popolari, tra molti altri elementi, che possono essere adattati individualmente al sistema.
+
+Indipendentemente dai pezzi di equipaggiamento utilizzati per i sistemi di riscaldamento, la costruzione corretta è la più importante. Si può fare da soli o chiedere a un professionista. Molto dipende dalle caratteristiche specifiche del sistema, così come dal mezzo utilizzato per il riscaldamento.
