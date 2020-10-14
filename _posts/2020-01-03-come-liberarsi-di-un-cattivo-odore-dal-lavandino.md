@@ -1,25 +1,26 @@
 ---
 layout: post
-seo_title: Come rimuovere gli odori dal bagno o dal lavandino della cucina?
-seo_description: Se vi state chiedendo quale sia l'odore che viene dal lavello della
-  vostra cucina, non preoccupatevi. Fortunatamente ci sono metodi per eliminare l'odore.
+seo_title: Come Si Eliminano i Cattivi Odori Dal Lavandino o Dal Lavabo?
+seo_description: "Un lavandino intasato provoca un odore sgradevole in casa? \U0001F937\U0001F3FB
+  Controllate come sturare le tubature e liberarvi dei cattivi odori. \U0001F449\U0001F3FB
+  È davvero semplice."
 main_keywords:
-  - lavello da cucina
-  - lavandino del bagno
-  - lavello di servizio
-  - odore
-  - l'odore
-  - lavabo
+- lavello da cucina
+- lavandino del bagno
+- lavello di servizio
+- odore
+- l'odore
+- lavabo
 date: 2020-01-03T11:00:00.000+00:00
-update_date: 2020-01-03T11:00:00.000+00:00
-title: Come liberarsi di un cattivo odore dal lavandino?
+update_date: 2020-10-14 10:00:00 +0000
+title: Come liberarsi di un cattivo odore dal lavandino o dal lavabo?
 small-intro: Imparate a rimuovere l'odore sgradevole dal vostro lavandino e a prevenirlo
   in futuro.
 intro: Un bel bagno, nuove piastrelle lucide e arredi moderni. Potrebbe essere perfetto
-  - se non per il cattivo odore che esce dal lavandino. Suona esattamente come il
-  tuo problema? Non preoccupatevi - ci sono rimedi collaudati per un problema come
-  questo. Imparate a rimuovere l'odore sgradevole dal vostro lavandino e a prevenirlo
-  in futuro.
+  - se non per il cattivo odore che esce dal lavandino. È un problema comune che potrebbe
+  apparire sia in una casa che in un appartamento. È un problema anche per te? Se
+  è così, dovreste controllare come sbarazzarvi di un lavandino puzzolente. Non è
+  così difficile come sembra.
 photo: "/uploads/75b1d582b30f41928dd9987fdd456319.png"
 photo_desc: Ci sono molte cause per un lavandino puzzolente.
 faq:
@@ -50,32 +51,60 @@ hreflangs:
 ---
 ## Perché il tuo lavandino puzza?
 
-Ci sono molte cause per un lavandino puzzolente. Una delle ragioni più comuni è un'installazione non corretta o un collegamento di scarico non corretto. Queste sono solo due possibilità. Altre cause sono lo sfruttamento troppo estremo del sistema o il suo uso sporadico. Uno scarico intasato potrebbe essere la causa dell'odore del lavandino. Un'altra è la ventilazione difettosa. A seconda della gravità del problema, dovrebbe essere implementata una soluzione adeguata. I rimedi casalinghi di solito risolvono il problema, ma a volte non sono sufficienti.
+**Ci sono molte cause di un lavandino puzzolente.** Una cattiva installazione, un collegamento di scarico non corretto o un'attrezzatura sbagliata e di bassa qualità sono fattori comuni. In alcuni casi, si può eliminare il cattivo odore dal lavandino acquistando un adeguato scarico con un filtro metallico.
 
-## Fissaggio di uno scarico intasato
+Altre cause di uno scarico per lavello puzzolente sono lo sfruttamento troppo estremo del sistema o il contrario - il suo uso sporadico.
 
-Un lavandino è il punto centrale di ogni bagno. Viene utilizzato più volte al giorno. Se il lavandino non viene pulito regolarmente, potrebbe causare uno scarico intasato. Una situazione simile potrebbe verificarsi nel caso in cui alcuni residui, ad es. di rasatura, finiscano nello scarico. Una situazione del genere richiede l'intervento di uno specialista o forse si può riparare da soli? Contrariamente a quanto si potrebbe pensare, non è un compito difficile. Ci sono molti rimedi casalinghi per sbloccare lo scarico.
+Anche la mancata pulizia del lavello della cucina o del bagno è una causa comune. Porta a un problema: lo scarico del lavello intasato.
 
-Importante Uno dei metodi più semplici consiste nell'utilizzare bicarbonato di sodio, aceto e acqua bollente. Basta versare un bicchiere di bicarbonato di sodio nello scarico e versarvi sopra dell'acqua bollente. Dopo 15 minuti aggiungere un altro bicchiere di soda e un bicchiere di aceto. La miscela inizierà a friggere. Dopo altri 15 minuti versare altra acqua bollente.
+{:.distinction.distinction-info.distinction-positive}
 
-{:.distinction.distinction-info.distinction-negative}
+Un altro motivo per un lavandino puzzolente è un cattivo sistema di ventilazione - ma è una questione completamente diversa. A seconda dello spazio, il problema dell'odore sgradevole riguarda l'ambiente - devono essere applicate soluzioni adeguate.
 
-Se i rimedi casalinghi non funzionano, provate a usare i prodotti chimici disponibili che potete acquistare in ogni supermercato. Dovrebbero rimuovere l'odore sgradevole dal vostro lavandino in modo più efficace. Entrambi i metodi possono essere usati di tanto in tanto come prevenzione, per esempio una volta al mese. In questo modo si riduce sicuramente il rischio di intasare il lavandino e si previene l'odore.
+## Una cucina o uno scarico del bagno intasati - qual è il problema?
+
+Un lavandino è un punto centrale in ogni bagno. Viene usato più volte al giorno - **soprattutto se in casa vive un numero maggiore di persone**. Se il lavandino non viene pulito regolarmente, potrebbe causare uno scarico intasato. È ancora più importante quando ci si rade sopra il lavandino. In questo caso i capelli potrebbero scorrere lungo lo scarico e intasare il lavandino.
+
+**È abbastanza simile per il lavello della cucina.** I residui di cibo sono un effetto collaterale della preparazione dei pasti e del lavaggio dei piatti. Senza una pulizia regolare, un lavandino intasato e il cattivo odore in casa è difficile da evitare. Probabilmente tutti vorrebbero evitarlo.
 
 ## Come liberarsi della puzza del lavandino?
 
-Un metodo abbastanza efficace per eliminare un cattivo odore dal bagno o dal lavandino della cucina è l'uso del sale. Basta mettere 3-4 cucchiai di sale nello scarico e lasciarlo per mezz'ora. Poi sciacquare accuratamente con acqua fredda.
+Potete facilmente eliminare il cattivo odore dal vostro lavandino con il sale. Basta mettere 3-4 cucchiai di sale nello scarico e lasciarlo per mezz'ora. Poi sciacquatelo accuratamente - usate acqua fredda.
+
+È il metodo più popolare, che funziona se ci sono **residui all'interno che causano l'odore sgradevole**. Se siete sicuri che l'impianto idraulico della vostra casa sia stato installato correttamente, il metodo semplice per evitare un lavandino puzzolente è la corretta igiene e il sale menzionato.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-Se siete assolutamente sicuri che l'impianto idraulico della vostra casa sia installato correttamente, l'unico metodo per evitare l'odore è la corretta igiene. È possibile utilizzare i prodotti per la pulizia disponibili.
+Potrebbe accadere che la questione sia stata ignorata per così tanto tempo che i tubi sono stati intasati. In questo caso bisogna sbloccare i tubi.
 
 ![](/uploads/22026fe9c155463eaf62d4cf9553d0e6.png)
 
+### Controllare i rimedi casalinghi per le tubature intasate - il modo migliore per sturare il lavandino
+
+Se il lavandino intasato significa tubi bloccati, si può usare un metodo molto semplice con bicarbonato di sodio, aceto e acqua bollente. Come sturare il lavandino con questo metodo?
+
+{:.distinction.distinction-info.distinction-positive}
+
+E' molto facile. Basta versare un bicchiere di bicarbonato di sodio nello scarico e versarvi sopra dell'acqua bollente. Dopo 15 minuti aggiungere un altro bicchiere di soda e un bicchiere di aceto. La miscela inizierà a friggere. Dopo altri 15 minuti versate altra acqua bollente. Il lavandino intasato non ha alcuna possibilità - il problema è risolto. Il bicarbonato di sodio e l'aceto per i tubi è un metodo comunemente noto e usato frequentemente da molti anni.
+
+Cos'altro si può fare per sbloccare il lavandino? Si potrebbe usare l'oggetto di base che dovrebbe essere in ogni casa - uno sturalavandini. Può essere usato sia per il lavandino della cucina che per quello del bagno. **Come sturare un lavandino?** Basta premere la tazza sullo scarico. Quando lo stantuffo forma una guarnizione intorno allo scarico, basta spostare la maniglia. L'aspirazione muoverà l'intasamento.
+
+### Prodotti chimici per un lavandino intasato
+
+Se i rimedi casalinghi non funzionano e il vostro lavandino rimane intasato - provate a usare prodotti chimici che potete acquistare in ogni supermercato. In questo modo, potete rimuovere l'ostruzione e uccidere i batteri e lo sgradevole e ripugnante odore del vostro lavandino.
+
+### Misure preventive - un lavandino intasato non sarà un problema per voi
+
+Sia i rimedi casalinghi che i prodotti chimici acquistati in negozio possono essere utilizzati non solo in caso di problemi. Si raccomanda anche di utilizzarli come misura preventiva, di tanto in tanto, ad esempio una volta al mese. In questo modo si può ridurre notevolmente il rischio di un lavandino puzzolente o intasato.
+
+**Per i lavelli da cucina** - come ulteriore prevenzione, si può investire in un filtro speciale per metterlo nello scarico. Esso protegge le tubazioni fermando gli elementi più grandi che potrebbero causare un lavandino intasato e costringendovi a sbloccare lo scarico.
+
 ## E se non funziona niente?
 
-E' possibile che, nonostante l'utilizzo di tutti i metodi presentati, il problema dell'affondamento puzzolente persista ancora. Cosa fare in questo caso? Come rimuovere un odore dal lavandino?
+È possibile che, nonostante l'utilizzo di tutti i metodi presentati, il problema di un lavandino puzzolente persista ancora - anche se si è riusciti a sturare il lavandino. **Cosa fare allora? Come rimuovere un odore dal lavandino?** La causa più probabile è un sistema di ventilazione idraulico difettoso. L'acqua viene probabilmente aspirata dagli scarichi, il che provoca l'odore nel lavandino.
 
-La causa più probabile è un sistema di ventilazione idraulico difettoso. L'acqua viene probabilmente aspirata dagli scarichi, il che provoca l'odore nel lavandino. L'unica soluzione è chiamare uno specialista ed eventualmente ricostruire il sistema. Questo eliminerà l'odore dal lavandino in modo permanente.
+{:.distinction.distinction-info.distinction-positive}
 
-Un sistema di ventilazione idraulica ben progettato contribuisce al comfort dell'utilizzo di apparecchi sanitari. Modificare l'installazione in fase di costruzione non è assolutamente un problema. È molto più difficile quando l'edificio è già finito. Potrebbe generare costi aggiuntivi. Naturalmente un edificio con una ventilazione idraulica difettosa può essere abitato, ma l'odore sgradevole potrebbe essere fastidioso.
+L'unica soluzione è chiamare uno specialista ed eventualmente ricostruire il sistema. Questo eliminerà l'odore dal lavandino in modo permanente.
+
+**Un sistema di ventilazione idraulica ben progettato** contribuisce al comfort di utilizzo degli apparecchi sanitari. Modificare l'installazione in fase di costruzione non è un problema. È molto più difficile quando l'edificio è già finito. Potrebbe anche generare costi aggiuntivi. Naturalmente un edificio con una ventilazione idraulica difettosa può essere abitato, ma l'odore sgradevole potrebbe essere fastidioso.
