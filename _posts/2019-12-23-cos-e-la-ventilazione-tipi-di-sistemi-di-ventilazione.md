@@ -26,7 +26,12 @@ intro: Il sistema di ventilazione della casa può essere nascosto alla vista, ma
 photo: "/uploads/wall-768765_960_720.webp"
 photo_desc: Il sistema appropriato permette la circolazione dell'aria in ogni stanza
   di un edificio.
-faq: []
+faq:
+- question: Qual è il miglior sistema di vetilazione domestica?
+  answer: La ventilazione naturale è la soluzione migliore per ogni edificio. A volte
+    è obbligatoria, in quanto è regolata dalla legge. Tenete presente che in ogni
+    caso si dovrebbe adattare il sistema di ventilazione ai singoli aspetti di un
+    edificio.
 author_name: Mateusz Knapik
 author_desc: Specialista vendite e assistenza clienti di Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
