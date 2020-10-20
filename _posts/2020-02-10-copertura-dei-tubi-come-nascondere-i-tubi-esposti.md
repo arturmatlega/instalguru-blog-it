@@ -21,7 +21,12 @@ intro: Cavi che sporgono dal soffitto? Tubi che non si adattano affatto all'inte
 photo: "/uploads/61e19b6b343a4ba0880faea4a0184e68.jpg"
 photo_desc: Come nascondere i tubi a vista per rendere perfetti i vostri interni?
   Ci sono due buone soluzioni.
-faq: []
+faq:
+- question: È sempre necessario un copri tubo?
+  answer: Il rivestimento dei tubi in una stanza influisce sull'estetica degli interni.
+    Se hai deciso di usare lo stile del loft, non sei obbligato a farlo. I copri tubi
+    non sono necessari in questo caso, in quanto i tubi a vista aggiungono un carattere
+    al design.
 author_name: Magdalena Data-Urban
 author_desc: Content Manager di Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
