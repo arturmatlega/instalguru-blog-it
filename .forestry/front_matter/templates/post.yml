@@ -70,6 +70,9 @@ fields:
   - type: text
     name: link
     label: link
+- name: noindex
+  type: boolean
+  label: Blokować indexowanie?
 pages:
 - _posts/2019-07-22-raccord-per-tubi-i-raccordi-filettati-e-i-raccordi-a-pressare-sono-diversi.md
 - _posts/2019-12-23-cos-e-la-ventilazione-tipi-di-sistemi-di-ventilazione.md
