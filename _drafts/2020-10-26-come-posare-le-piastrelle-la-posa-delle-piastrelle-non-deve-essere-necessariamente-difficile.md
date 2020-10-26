@@ -17,7 +17,8 @@ intro: La piastrellatura del pavimento e delle pareti è uno dei metodi più pop
   La posa delle piastrelle, infatti, è una procedura semplice e veloce, e si può fare
   da soli. Basta imparare le informazioni di base su come posare le piastrelle.
 photo: "/uploads/plytki1.jpg"
-photo_desc: ''
+photo_desc: Anche se la posa delle piastrelle non è molto complicata, è necessario
+  prepararsi prima di iniziare i lavori.
 faq:
 - question: Posa delle piastrelle - come iniziare?
   answer: Quando si piastrellano i pavimenti, si dovrebbe iniziare dalla preparazione
