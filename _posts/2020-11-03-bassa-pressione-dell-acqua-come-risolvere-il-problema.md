@@ -29,8 +29,22 @@ faq:
 author_name: Maksymilian Ignacyk
 author_desc: Specialista vendite e marketing di Instalguru
 author_photo: "/uploads/maks.jpg"
-toc: false
-hreflangs: []
+toc: true
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/slabe-cisnienie-wody-w-instalacji-jak-sobie-poradzic-z-tym-problemem.html
+- lang: en
+  link: https://instalguru.co.uk/blog/low-water-pressure-how-to-fix-the-problem.html
+- lang: de
+  link: https://instalguru.de/blog/niedriger-wasserdruck-wie-kann-das-problem-behoben-werden.html
+- lang: it
+  link: https://instalguru.it/blog/bassa-pressione-dell-acqua-come-risolvere-il-problema.html
+- lang: fr
+  link: https://instalguru.fr/blog/basse-pression-de-l-eau-comment-resoudre-le-probleme.html
+- lang: es
+  link: https://instalguru.es/blog/la-baja-presion-del-agua-como-arreglar-el-problema.html
+- lang: cz
+  link: https://instalguru.cz/blog/spatny-tlak-vody-v-instalaci-jak-se-vyporadat-s-timto-problemem.html
 noindex: false
 
 ---
