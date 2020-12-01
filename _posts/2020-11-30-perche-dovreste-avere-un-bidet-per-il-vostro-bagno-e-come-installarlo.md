@@ -35,7 +35,21 @@ author_name: Mateusz Knapik
 author_desc: Specialista vendite e assistenza clienti di Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/dlaczego-warto-postawic-na-bidet-w-lazience-i-jak-go-zamontowac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/why-should-you-have-a-bidet-for-your-bathroom-and-how-to-install-it.html
+- lang: de
+  link: https://instalguru.de/blog/warum-sollten-sie-ein-bidet-fur-ihr-badezimmer-haben-und-wie-man-es-installiert.html
+- lang: it
+  link: https://instalguru.it/blog/perche-dovreste-avere-un-bidet-per-il-vostro-bagno-e-come-installarlo.html
+- lang: fr
+  link: https://instalguru.fr/blog/pourquoi-devriez-vous-avoir-un-bidet-pour-votre-salle-de-bains-et-comment-l-installer.html
+- lang: es
+  link: https://instalguru.es/blog/por-que-deberias-tener-un-bide-para-tu-bano-y-como-instalarlo.html
+- lang: cz
+  link: https://instalguru.cz/blog/proc-dat-bidet-do-koupelny-a-jak-ho-namontovat.html
 noindex: false
 
 ---
