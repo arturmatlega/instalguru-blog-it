@@ -31,7 +31,21 @@ author_name: Magdalena Data-Urban
 author_desc: Content Manager di Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/czym-jest-jastrych-i-gdzie-mozna-go-wykorzystac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/what-is-screed-and-how-to-use-it.html
+- lang: de
+  link: https://instalguru.de/blog/was-ist-estrich-und-wie-verwendet-man-ihn.html
+- lang: it
+  link: https://instalguru.it/blog/cos-e-il-massetto-e-come-si-usa.html
+- lang: fr
+  link: https://instalguru.fr/blog/qu-est-ce-que-la-chape-et-comment-l-utiliser.html
+- lang: es
+  link: https://instalguru.es/blog/que-es-el-contrapiso-y-como-se-usa.html
+- lang: cz
+  link: https://instalguru.cz/blog/co-je-poter-a-kde-ho-lze-pouzit.html
 noindex: false
 
 ---
