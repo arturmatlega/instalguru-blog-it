@@ -93,8 +93,6 @@ La distanza minima tra il toiler e il bidet è di circa 30 cm. Anche lo spazio t
 
 Se il bidet si trova vicino al muro, si consiglia di posizionarlo a circa 30-40 cm di distanza dal muro. È importante mantenere il giusto spazio davanti al bidet. Per la massima comodità, mantenere circa 60 cm di spazio libero davanti all'elemento.
 
-![](/uploads/bidet2.jpg)
-
 ## Come installare un bidet? È difficile?
 
 L'installazione di un bidet ha lo stesso aspetto di qualsiasi altra attrezzatura da bagno - e può essere fatta molto rapidamente.
