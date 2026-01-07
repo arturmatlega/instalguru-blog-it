@@ -71,8 +71,6 @@ Potreste anche incontrare delle limitazioni sul numero consentito di tali strutt
 
 Oltre ai gazebo, le restrizioni e i permessi di costruzione riguardano anche altri tipi di strutture, come i capannoni e i garage indipendenti.
 
-![](/uploads/gazebo2.jpg)
-
 ## Come costruire un gazebo? Partire dalle fondamenta!
 
 Le fondamenta stabili sono una delle questioni più importanti nella costruzione di un gazebo. La struttura deve essere resistente alle condizioni atmosferiche - come i forti venti.
@@ -90,8 +88,6 @@ Come sostengono gli specialisti, i prodotti a base di resina o olio di lino sono
 {:.distinction.distinction-info.distinction-negative}
 
 Sebbene la vernice sia generalmente perfetta per la protezione del legno, si sconsiglia l'uso in un gazebo. Alcune piante potrebbero utilizzare il gazebo come base per la loro ulteriore crescita. Se la superficie è troppo scivolosa - la pianta non è in grado di attaccarsi e la sua crescita è ostacolata.
-
-![](/uploads/gazebo3.jpg)
 
 ## Costruire un gazebo - che tipo di copertura scegliere?
 
