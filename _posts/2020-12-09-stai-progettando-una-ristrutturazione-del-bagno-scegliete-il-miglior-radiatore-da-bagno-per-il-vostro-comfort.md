@@ -70,8 +70,6 @@ Ma come si fa a sapere la posizione corretta del radiatore del bagno? Si consigl
 
 Il design di un radiatore per il bagno è spesso fondamentale per i proprietari di case che intendono rinnovare il proprio bagno. Per questo motivo, i radiatori tradizionali sono sostituiti da quelli da bagno (asciugamani). Oltre alla loro funzione più elementare - emettere il calore nella stanza, servono anche come decorazione. Inoltre, sono molto funzionali grazie al fatto che si possono asciugare i vestiti minori e gli asciugamani da bagno su di essi.
 
-![](/uploads/grzejnik2.jpg)
-
 ## Un radiatore per il bagno in asciugamano è una buona opzione!
 
 I termosifoni per asciugamani sono una delle scelte più popolari tra le persone che vogliono rinnovare il proprio bagno. E 'soprattutto a causa del fatto che ci sono vari modelli di termosifoni per asciugamani disponibili sul mercato. Quello che vale la pena di notare - hanno tutti una costruzione simile.
@@ -113,8 +111,6 @@ Questo problema è legato a diversi aspetti cruciali. La potenza di un radiatore
 Vi state chiedendo come installare un termosifone per il bagno? L'installazione di un radiatore per asciugamani è molto semplice. Se rinnovate il vostro bagno - potete farlo facilmente da soli. Il set acquistato dovrebbe contenere tutti gli elementi necessari per l'installazione. Basta seguire alcune regole.
 
 Poiché un radiatore per il bagno è il modello più popolare, vi presentiamo la guida all'installazione per questo tipo di apparecchiature.
-
-![](/uploads/grzejnik3.jpg)
 
 Spegnere l'acqua è l'aspetto più importante. Quindi, è possibile seguire la seguente procedura per installare il radiatore del bagno:
 
