@@ -74,8 +74,6 @@ Una cucina moderna dovrebbe essere, prima di tutto, funzionale. Questo criterio 
 
 A cosa prestare attenzione quando si sceglie un rubinetto da cucina di questo tipo - come scegliere un buon rubinetto da cucina? Come affermato da molti produttori, il miglior beccuccio da cucina dovrebbe corrispondere perfettamente alle particolari esigenze dell'utente. Un prodotto scelto con cura può rendere la vita più facile e semplificare le attività quotidiane. Il mercato offre rubinetti da cucina con tre tipi di beccucci tra cui scegliere: estraibile, flessibile e girevole.
 
-![](/uploads/b4edda8b4d0c45fba909345f2184e419.jpg)
-
 ### Un rubinetto estraibile
 
 Le recenti tendenze del design delle cucine moderne hanno incorporato scelte interessanti per quanto riguarda la rubinetteria da cucina. Uno di questi - un rubinetto telescopico estraibile posto sotto una finestra. Si tratta di un elettrodomestico da cucina altamente funzionale. Un modello di questo tipo può essere installato sia da una singola ciotola, sia da un lavello a doppia vasca.
