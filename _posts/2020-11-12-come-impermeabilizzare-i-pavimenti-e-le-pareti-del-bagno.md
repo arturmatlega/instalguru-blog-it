@@ -70,8 +70,6 @@ Indipendentemente dall'abilità con cui sono state posate le piastrelle, dopo un
 
 Ci sono due tipi di impermeabilizzazione delle superfici che si possono eseguire in una stanza. Il problema principale è fissare la superficie prima di posare le piastrelle. I prodotti utilizzati in questa fase proteggeranno la struttura dell'edificio dall'intrusione di acqua. L'impermeabilizzazione delle piastrelle è un altro problema. Grazie a sostanze speciali, l'acqua rimarrà sulla piastrella, e può essere facilmente rimossa con il sistema di ventilazione.
 
-![](/uploads/hydroizolacja2.jpg)
-
 ## Impermeabilizzare un bagno - quali sezioni delle stanze?
 
 In genere, ogni bagno ha due zone: bagnata e asciutta. La prima coinvolge fondamentalmente l'intera stanza. Sono i luoghi che possono venire a contatto con l'acqua, che può schizzare ovunque - quando si svolgono attività ordinarie e quotidiane.
@@ -89,8 +87,6 @@ L'impermeabilizzazione del bagno può essere fatta con tre tipi di prodotti - og
 * **Membrana impermeabilizzante liquida** - è a base di resina sintetica, grazie alla quale fornisce una protezione perfetta. Il prodotto è molto facile da usare - basta mescolarlo e coprirlo con una particolare area, utilizzando ad esempio un rullo o una spazzola speciale. Il primo strato può essere posato liberamente, mentre il successivo deve essere perpendicolare ad esso. Il vantaggio principale della membrana è la sua versatilità. Può essere utilizzata sia per le superfici in calcestruzzo, sia per l'intonaco cementizio che per le lastre di gesso. Questo tipo di protezione è altamente raccomandato per chiunque valuti il proprio tempo - la membrana si asciuga rapidamente, così si può iniziare immediatamente a posare le piastrelle nel bagno.
 * **Composti sigillanti** - è una perfetta alternativa alla membrana liquida. È costituito da malta cementizia e resina sintetica. Questo tipo di materiale ha una struttura molto più densa della membrana precedentemente menzionata. È tipicamente usato per fissare le superfici minerali, ma i produttori offrono anche prodotti per il rivestimento di pannelli o pietre. Il composto deve essere applicato in modo incrociato, in due strati. Non può essere utilizzato per interni con riscaldamento radiante a pavimento.
 * **Impermeabilizzanti a base di cemento** - anche questo è un materiale altamente efficace, utilizzato non solo per i bagni, ma anche per balconi, patii e per proteggere le fondamenta. Il materiale è altamente durevole, resistente al gelo e flessibile.
-
-![](/uploads/hydroizolacja3.jpg)
 
 ## Come impermeabilizzare un bagno - una guida passo dopo passo
 
