@@ -68,8 +68,6 @@ Quest'ultima soluzione è particolarmente interessante per chi ha scelto il glam
 
 L'installazione del lavello dovrebbe essere avviata inserendo nello scarico uno scarico automatico per lavello. Quindi installare il rubinetto. **Durante entrambe le fasi, ricordarsi di inserire delle guarnizioni che proteggano il lavello da eventuali perdite.** Attaccare il sifone del lavello e inserire un tubo di scarico nel lato dell'elemento e avvitare il tappo. Potete farlo facilmente da soli, e per di più - può essere fatto manualmente - non sono necessari attrezzi speciali.
 
-![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
-
 ## Come installare un'unità vanity?
 
 Le unità vanity sono uno dei lavandini da bagno più popolari. Sono perfetti negli interni in stile scandinavo moderno. Sono tipicamente rotondi o ellittici. Il mercato offre un'ampia varietà di attrezzature di questo tipo, quindi chiunque può adattare un prodotto ideale alle proprie esigenze individuali.
