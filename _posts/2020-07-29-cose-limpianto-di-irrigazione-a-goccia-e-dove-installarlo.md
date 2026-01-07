@@ -86,8 +86,6 @@ Una linea a goccia è una soluzione unica e presenta molti vantaggi. Può far ri
 * **Un sistema di irrigazione a goccia significa un minor rischio di malattie delle piante.** L'acqua viene distribuita direttamente nel terreno, in modo da non avere alcun contatto con le parti fuori terra delle piante. Previene la diffusione di funghi e muffe, che si verifica molto spesso quando le piante vengono irrorate con acqua dall'alto. Una linea di gocciolamento elimina anche il problema delle foglie bruciate dal sole.
 * **Un sistema di questo tipo potrebbe contribuire a una migliore raccolta di verdura, frutta ed erbe aromatiche.** Un sistema di irrigazione a goccia favorisce una migliore cura delle piante e l'indipendenza dalle condizioni atmosferiche. Non c'è bisogno di preoccuparsi che la siccità distrugga i raccolti.
 
-![Quali sono i vantaggi dell'irrigazione a goccia?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "Quali sono i vantaggi dell'irrigazione a goccia?")
-
 ## Dove si può utilizzare un impianto di irrigazione a goccia?
 
 Poiché le linee a goccia possono coprire aree piuttosto ampie, è un sistema **raccomandato per i terreni coltivati.** È perfetto per innaffiare piante come fragole, mirtilli e alberi da frutta. L'installazione vi dà il pieno controllo sulla quantità d'acqua trasportata ad una pianta. Grazie a questo non c'è il rischio di innaffiare troppo, che potrebbe causare il decadimento delle piante. È un aspetto importante che influisce sulla qualità del raccolto.
@@ -101,8 +99,6 @@ Un sistema di irrigazione a goccia non è raccomandato per i prati. In questo ca
 ## Ci sono degli svantaggi dell'irrigazione a goccia?
 
 Nonostante gli innegabili vantaggi di un sistema di irrigazione a goccia, si dovrebbero conoscere anche i suoi svantaggi. È un sistema che non può essere realmente spostato, quindi dovrebbe essere usato principalmente per le piante perenni. Una linea a goccia, come ogni impianto di irrigazione, è suscettibile allo sporco. Potrebbe causare l'intasamento. **Ogni elemento del sistema dovrebbe essere mantenuto regolarmente.** Un altro problema è la difficoltà di regolare l'intensità dell'irrigazione per alcune piante. Può essere risolto utilizzando uno splitter per creare diverse linee di gocciolamento indipendenti.
-
-![Ci sono degli svantaggi dell'irrigazione a goccia?](/uploads/linia-kroplujaca-nawadnianie.jpg "Ci sono degli svantaggi dell'irrigazione a goccia?")
 
 ## Sistema di irrigazione a goccia - quali elementi sono necessari per creare un'installazione?
 
@@ -139,8 +135,6 @@ Vi state chiedendo quanto sia costoso un impianto di irrigazione a goccia? Come 
 {:.distinction.distinction-info.distinction-positive}
 
 Meno complicata è l'installazione, meno costa. Per questo motivo si dovrebbero rivedere tutte le soluzioni che potrebbero essere utilizzate. I piccoli progetti possono sicuramente rinunciare ai controllori elettronici, a meno che la convenienza non sia la priorità. Si possono anche ridurre i costi scegliendo di installare il sistema da soli.
-
-![Drip irrigation system – estimated costs](/uploads/podlewanie-kropelkowe.jpg "Drip irrigation system – estimated costs")
 
 ## Cos'altro si dovrebbe ricordare quando si installa l'irrigazione a goccia?
 
