@@ -54,8 +54,6 @@ Gli specialisti classificano gli interruttori di luce in base a diversi criteri.
 
 A giudicare dall'estetica, si possono anche distinguere gli interruttori della luce in base al tipo di pulsanti. I produttori offrono interruttori tradizionali con un pulsante meccanico. Gli interruttori a sfioramento stanno guadagnando popolarità. Hanno un pannello liscio con un sensore che reagisce al tocco.
 
-![Interruttore della luce a due vie - quali sono le sue caratteristiche?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Interruttore della luce a due vie - quali sono le sue caratteristiche?")
-
 ### Interruttore della luce a due e tre vie
 
 Gli interruttori a due vie sono un tipo speciale di dispositivi. Permettono di controllare una sorgente luminosa da due diverse posizioni. È una soluzione particolarmente utile sulle scale, in modo da non dover tornare su o giù per spegnere la luce.
@@ -83,10 +81,6 @@ In generale, per collegare un interruttore della luce, sono necessari diversi el
 
 Ogni interruttore - a una o più vie, funziona secondo un principio simile. Per accendere la luce, si deve spostare l'interruttore, cioè - chiudere il circuito elettrico. Analogicamente, spostando indietro l'interruttore si interrompe il circuito e l'elettricità smette di fluire - la luce si spegne.
 
-Per collegare il più semplice interruttore della luce a senso unico, è necessario collegare i fili tra l'interruttore e la lampadina. **Vedere lo schema di un circuito di questo tipo qui sotto:**
-
-![Interruttore della luce - principio generale di funzionamento](/uploads/jak_podlaczyc_wlacznik_schemat1_it.jpg "Interruttore della luce - principio generale di funzionamento")
-
 In nessun caso mescolare i fili - per esempio la fase con la linea neutra. Costituirebbe una minaccia durante la sostituzione di una lampadina - anche quando la luce è spenta!
 
 ## Interruttore a due vie - schema
@@ -95,16 +89,8 @@ Il collegamento di un circuito di commutazione a due vie è un po' più complica
 
 Un diagramma di commutazione a due vie è più elaborato. In questo caso, il filo di fase è collegato con uno degli interruttori a due vie, e la sorgente luminosa - all'altro. Il filo neutro e il conduttore di terra sono condotti alla sorgente luminosa in modo indipendente. I due interruttori dovrebbero essere collegati l'uno con l'altro con fili aggiuntivi.
 
-**Vedere lo schema degli interruttori a due vie qui sotto:**
-
-![Interruttore a due vie - schema](/uploads/jak_podlaczyc_wlacznik_schemat2_it.jpg "Interruttore a due vie - schema")
-
 ### Come si collega un interruttore della luce a tre vie?
 
 Come già detto, è **possibile cablare più di due soli interruttori della luce per la stessa sorgente luminosa**. Per fare questo, è necessario utilizzare un interruttore della luce a tre vie. Lo schema di tale collegamento non è molto diverso dallo schema degli interruttori a due vie - c'è un terzo interruttore tra i due esterni. Il numero di interruttori intermedi è illimitato e può essere regolato a seconda delle necessità. Grazie a questo interruttore sarà possibile spegnere la luce delle scale mentre ci si trova in un'altra stanza.
-
-**Vedi il diagramma dei tre interruttori di luce a tre vie presentato qui sotto:**
-
-![Come si collega un interruttore della luce a tre vie?](/uploads/jak_podlaczyc_wlacznik_schemat3_it.jpg "Come si collega un interruttore della luce a tre vie?")
 
 **Il collegamento di un interruttore a due o tre vie non è così difficile come potrebbe sembrare.** Se avete lo schema dell'interruttore giusto, potete farlo facilmente da soli.
