@@ -84,8 +84,6 @@ La bassa pressione dell'acqua non è sempre il risultato della stessa causa. Un 
 
 Un'altra ragione per la bassa pressione dell'acqua, comune come l'accumulo di calcare, è una perdita nel sistema. **Tubi e raccordi non sigillati utilizzati per la trasmissione dell'acqua possono causare perdite all'esterno del sistema, e solo una parte di essa arriva al punto finale.** Come aumentare la pressione dell'acqua in un caso del genere? Assicurarsi di risigillare o sostituire gli elementi rotti.
 
-![](/uploads/water_pressure.jpg)
-
 ## Pressione dell'acqua perfetta? Prendetevi cura dell'attrezzatura giusta
 
 La bassa pressione dell'acqua nella doccia è probabilmente il risultato di un'attrezzatura inadeguata, come un soffione o una doccia a pioggia. **Gli accessori per la doccia dovrebbero corrispondere alla pressione nel sistema.** L'attrezzatura con requisiti tecnici elevati non funzionerà correttamente.
