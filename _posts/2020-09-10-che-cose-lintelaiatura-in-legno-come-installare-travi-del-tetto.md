@@ -62,8 +62,6 @@ Gli elementi che compaiono nell'intelaiatura in legno dipendono soprattutto dall
 
 Sul mercato sono disponibili molti tipi di intelaiature in legno. **La decisione su quale capriata del tetto scegliere deve essere presa nella fase di progettazione dell'edificio.** Prima di scegliere una soluzione particolare, si dovrebbero considerare fattori come le dimensioni e la forma della casa, il proprio budget e l'aspetto estetico. Le case standard usano tipicamente una semplice capriata, una capriata a trave a collare o una capriata a traliccio.
 
-![Tipi di tetti - quali sono le capriate più popolari?](/uploads/wiezba-dachowa-budowa-domu.jpg "Tipi di tetti - quali sono le capriate più popolari?")
-
 ### Semplice capriata del tetto
 
 Una tale costruzione può essere utilizzata quando le pareti dell'edificio non sono distanti più di 7 metri l'una dall'altra. **L'inclinazione del tetto non dovrebbe essere superiore a 45 gradi**. Una semplice capriata del tetto è uno dei tipi di intelaiatura in legno più comunemente usati. Utilizza normali travi e arcarecci che insieme formano una capriata del tetto che poggia sulle pareti dell'edificio. Le travi sono sostenute solo in due punti - sulle pareti e sul colmo.
@@ -86,8 +84,6 @@ Ci sono molti tipi di tetti disponibili sul mercato. La decisione finale, natura
 
 * La preparazione **tradizionale delle capriate del tetto** richiede la scelta dei materiali separatamente. Le travi del tetto devono essere acquistate in una segheria e il tetto stesso viene costruito in loco. Le travi in legno massiccio raggiungono tipicamente fino a 7 metri. Se il progetto necessita di travi più lunghe, si dovrebbero scegliere elementi in legno incollato insieme a rinforzi in acciaio.
 * L**e capriate del tetto prefabbricate** sono decisamente più versatili in termini di dimensioni. Poiché gli elementi si abbinano perfettamente, questa soluzione richiede molto meno legname rispetto ai progetti tradizionali. Il processo di installazione è decisamente più veloce - è fatto dal team del produttore. In questo caso lo spazio in soffitta è seriamente limitato, il che potrebbe essere uno svantaggio per alcuni.
-
-![Tradizionali capriate del tetto rispetto alle strutture in legno prefabbricate](/uploads/konstrukcje-dachu.jpg "Tradizionali capriate del tetto rispetto alle strutture in legno prefabbricate")
 
 ## Quale legno è il migliore per le capriate dei tetti?
 
