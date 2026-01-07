@@ -90,8 +90,6 @@ Forse siete interessati a un **buon sottofondo per pavimenti che offra il giusto
 
 Questo tipo di materiale è una scelta perfetta se il sottofondo deve essere livellato. Il sottofondo in schiuma XPS è disponibile in vari spessori - a volte anche 6 mm. Si tratta quindi di un isolamento perfetto e funziona idealmente in interni non riscaldati. È anche una buona soluzione se si ha bisogno di un sottofondo per il riscaldamento radiante. Il sottostrato del pavimento in polistirolo estruso è resistente all'umidità, riduce i suoni trasmessi e garantisce la durata del pavimento.
 
-![](/uploads/underlay2.jpg)
-
 ## Il miglior sottofondo per pavimenti - pavimenti radianti riscaldati
 
 I materiali destinati all'uso con il riscaldamento a pavimento devono soddisfare determinati requisiti speciali. Quale sottofondo per pavimenti è il migliore in questo caso? Come suggeriscono gli esperti, vale la pena di considerare i tappetini in polietilene ad alta densità. Tali prodotti sono comunemente chiamati HDPE.
@@ -119,8 +117,6 @@ Anche se nella maggior parte dei casi si tratta di un buon sottofondo per pavime
 ## Qual è il miglior sottofondo per un sottofondo irregolare?
 
 Se la superficie è irregolare, un buon sottofondo è una questione cruciale. La posa di assi su un sottofondo irregolare può causare lo spostamento, la piegatura e il danneggiamento del pavimento. Per evitare questo, assicurarsi di realizzare la superficie anche prima di posare il laminato o il pavimento vinilico.
-
-![](/uploads/underlay3.jpg)
 
 Qual è la migliore copertura del pavimento in questo caso? Se il sottofondo presenta solo piccole differenze, si consiglia il polistirolo estruso (XPS). Esso leviga le irregolarità, in modo che il pavimento sia perfettamente uniforme. Se il sottofondo ha più ammaccature, e le differenze di altezza sono abbastanza visibili, si dovrebbe versare un nuovo pavimento in calcestruzzo. Un normale sottofondo del pavimento, purtroppo, non è sufficiente.
 
