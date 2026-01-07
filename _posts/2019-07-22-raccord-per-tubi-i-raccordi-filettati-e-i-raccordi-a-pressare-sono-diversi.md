@@ -72,8 +72,6 @@ La differenza nei sistemi di riscaldamento con raccordi PEX sta nell'utilizzo di
 
 ### Sistemi di riscaldamento con raccordi filettati
 
-![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
-
 Ogni sistema di riscaldamento utilizza **tubi PEX/AL/PEX** come base. Essi sono tuttavia collegati tra loro con vari raccordi. Un raccordo filettato è costituito dai seguenti elementi:
 
 1. Un dado filettato.
@@ -89,8 +87,6 @@ I raccordi filettati per tubi hanno un dado filettato che deve essere attorcigli
 Fare attenzione a non avvitare il dado a fondo, in quanto si rischia di danneggiare sia il raccordo che il tubo.
 
 ### Un sistema di riscaldamento con raccordi a pressare
-
-![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
 I raccordi a pressare sono comunemente usati anche nei sistemi di riscaldamento. Ci sono diversi elementi nei raccordi a pressare:
 
