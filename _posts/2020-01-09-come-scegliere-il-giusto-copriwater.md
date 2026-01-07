@@ -89,8 +89,6 @@ La scelta della forma giusta di un sedile del gabinetto potrebbe essere un proce
 
 C'è anche un altro gruppo di prodotti, progettati specificamente per i bambini. Si tratta di uno speciale sedile per toilette con un coperchio attaccato che permette al bambino di usare normalmente la toilette.
 
-![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
-
 ## Un sedile del bagno moderno
 
 Nella scelta del sedile del gabinetto si può anche prestare attenzione alle moderne tecnologie che rendono molto più facile l'uso del bagno. Una delle caratteristiche più basilari a questo proposito è il sedile del water con la cosiddetta chiusura morbida, che presenta molti vantaggi.
