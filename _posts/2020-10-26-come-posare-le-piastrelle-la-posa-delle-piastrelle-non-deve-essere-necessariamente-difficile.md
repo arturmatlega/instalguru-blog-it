@@ -78,8 +78,6 @@ L'installazione standard di piastrelle su una parete o un pavimento richiede l'u
 
 Sia la parete che il pavimento sono un elemento ornamentale molto importante in un interno. Grazie ad una corretta posa delle piastrelle, l'ambiente potrebbe apparire elegante ed estetico, pertanto si dovrebbe **prestare particolare attenzione ad aspetti come la forma e il motivo delle piastrelle.** Indipendentemente da questi parametri - la posa delle piastrelle potrebbe avere un aspetto molto diverso. Imparate i metodi più popolari per la posa delle piastrelle. Grazie ad essi, il vostro interno stupirà tutti.
 
-![](/uploads/plytki2.jpg)
-
 ### Come posare una piastrella quadrata?
 
 La piastrella quadrata è uno dei tipi più comuni disponibili sul mercato. Non c'è da stupirsi se poi viene scelta da molti proprietari di case.
@@ -124,8 +122,6 @@ La posa di piastrelle con un moderno sistema di livellamento delle piastrelle è
 
 Un sistema di livellamento delle piastrelle è anche un aiuto perfetto per gli specialisti. Quali sono i vantaggi per un professionista? **La posa delle piastrelle può diventare due volte più veloce del solito. Grazie a questo, si può ottenere il doppio del lavoro svolto e, di conseguenza, guadagnare il doppio dei soldi.**
 
-![](/uploads/plytki3.jpg)
-
 ## Come posare le piastrelle? Una guida rapida passo dopo passo
 
 La preparazione prima **della posa delle piastrelle** deve prevedere la raccolta di tutti gli strumenti necessari e il controllo degli imballaggi con le piastrelle. Se tutto è a posto, si potrebbero posare tutti gli elementi sul pavimento.
@@ -141,8 +137,6 @@ Stuccatura. Dopo che la malta si è asciugata, è necessario eliminare il sistem
 ## Come posare le piastrelle senza malta?
 
 Molti proprietari di case sognano di avere un pavimento perfettamente uniforme, senza spazi vuoti antiestetici. **Un pavimento perfetto e liscio rende la stanza elegante e minimalista e crea l'impressione di uno spazio più ampio**. Ma è possibile posare le piastrelle in modo che gli spazi vuoti tra di loro siano invisibili? A quanto pare, niente è impossibile al giorno d'oggi. La posa delle piastrelle in questo modo, tuttavia, potrebbe comportare un certo rischio. Controllatelo prima di decidere una soluzione particolare.
-
-![](/uploads/plytki4.jpg)
 
 ### Qual è lo scopo della stuccatura?
 
