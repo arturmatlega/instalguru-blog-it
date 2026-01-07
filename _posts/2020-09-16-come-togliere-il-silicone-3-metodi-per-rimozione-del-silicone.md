@@ -79,8 +79,6 @@ Il metodo di rimuovere il silicone **dipende dal tipo di superficie coperta dal 
 
 È necessario assicurarsi che la superficie sia pulita, soprattutto se si sta rimuovendo il sigillante siliconico in un bagno piastrellato. Prendere tutti gli oggetti in piedi sulla vasca o il piatto doccia e **lavare le piastrelle e le guarnizioni con cura**. Utilizzare una crema detergente speciale o un detersivo ordinario come il sapone per i piatti. Assicuratevi di rimuovere le macchie di sapone - in questo modo la rimozione del sigillante siliconico sarà più facile ed efficace.
 
-![Come togliere il silicone: le questioni più importanti](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Come togliere il silicone: le questioni più importanti")
-
 ## Rimuovere silicone con prodotti chimici - è un metodo efficace?
 
 Uno dei metodi più popolari è un **solvente chimico per la rimozione del silicone che può essere acquistato nei tipici negozi di ferramenta**. Tali prodotti contengono solventi forti che dissolvono rapidamente i sigillanti siliconici e ne consentono la facile rimozione.
@@ -103,8 +101,6 @@ Un smacchiatore al silicone troppo aggressivo potrebbe offuscare la superficie. 
 
 **L'odore sgradevole** è sicuramente un grosso svantaggio dell'uso di un sigillante chimico. Prodotti come questo contengono tipicamente acetone. Dopo aver rimosso il sigillante siliconico con questo metodo, assicurarsi di ventilare la stanza. Nel caso in cui voi o qualcuno che vive con voi sia particolarmente sensibile a tali odori acre, considerate la possibilità di rimuovere il sigillante siliconico con un metodo più ecologico.
 
-![Come togliere il silicone con un prodotto chimico?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "Come togliere il silicone con un prodotto chimico?")
-
 ## Un silicone ecologico per la rimozione del silicone. Come togliere il silicone senza l'uso di prodotti chimici?
 
 Siete preoccupati che un **forte chimico possa essere troppo forte**? O forse volete solo provare un metodo meno costoso? Abbiamo una soluzione fantastica per voi. È possibile rimuovere un silicone in modo delicato - il che non significa che sia meno efficace.
@@ -121,8 +117,6 @@ Dopo aver pulito la superficie, praticare un taglio su un lato del sigillante. T
 ### Come togliere il silicone che si è rotto e che è rimasto in superficie?
 
 **Spalmare il grasso su eventuali residui di sigillante**. Attendere che il silicone assorba l'olio e poi raschiarlo via con una spugna asciutta o un pezzo di stoffa. Poiché questo metodo rende la superficie molto oleosa, assicurarsi di sgrassarla prima di applicare uno strato fresco di sigillante. Per fare questo, utilizzare un detergente.
-
-![Come togliere il silicone che si è rotto e che è rimasto in superficie?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "Come togliere il silicone che si è rotto e che è rimasto in superficie?")
 
 ## Come togliere il silicone dai vestiti, dal legno, dalle mani? Utilizzare la temperatura
 
