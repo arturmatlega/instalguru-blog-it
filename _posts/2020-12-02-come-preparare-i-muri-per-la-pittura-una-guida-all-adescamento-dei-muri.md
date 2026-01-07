@@ -67,8 +67,6 @@ Nella maggior parte dei casi, è necessario adescare le pareti prima di dipinger
 
 Ricordate! Se il vecchio strato di vernice è stato raschiato via o se la parete è stata riparata, ad es. intonacando piccole tacche a seguito di danni meccanici, è necessario usare il primer.
 
-![](/uploads/priming2.jpg)
-
 ## Come verificare se è necessario applicare il primer?
 
 È facile verificare se le pareti hanno bisogno di una mano di fondo - ci sono due metodi. Essi si differenziano l'uno dall'altro per il fatto che misurano parametri diversi.
@@ -84,8 +82,6 @@ L'altro metodo verifica la durabilità della parete e dei vecchi strati di prodo
 ## Adescare i muri prima della carta da parati - quando è necessario?
 
 L'adescamento dei muri prima di appendere la carta da parati o dopo la rimozione della carta da parati deve essere sempre effettuato - indipendentemente dal fatto che l'edificio sia nuovo o ristrutturato. Non importa inoltre quali tipi di intonaco sono stati utilizzati nella stanza. L'unica differenza è il tipo di primer che si intende utilizzare.
-
-![](/uploads/priming3.jpg)
 
 ## Wall primer - come scegliere il prodotto giusto?
 
