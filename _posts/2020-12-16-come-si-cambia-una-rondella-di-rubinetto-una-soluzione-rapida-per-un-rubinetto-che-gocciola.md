@@ -68,8 +68,6 @@ Ci sono molte ragioni per un rubinetto che perde. Il problema più comune, sopra
 
 Gli elementi in gomma proteggono l'apparecchio dalle perdite, ma dopo un po' si consumano. Di conseguenza, perdono la loro capacità di tenuta. Sono prodotti di durata limitata, soprattutto se utilizzati intensamente. È possibile risolvere da soli il problema di un rubinetto che perde. La sostituzione della rondella è solo una questione di diversi minuti di lavoro e un costo molto basso. Assicuratevi di acquisire le conoscenze di base, in modo da non incontrare alcun problema.
 
-![](/uploads/washer2.jpg)
-
 ## Come sostituire una vecchia rondella di rubinetto?
 
 Che si tratti di un lavandino da cucina o di una vasca da bagno, la sostituzione della rondella del rubinetto comporta sempre la stessa azione. È necessario utilizzare un piccolo elemento: un anello di tenuta. Prima della sua installazione, determinarne lo spessore e le dimensioni. Questi parametri decidono se il nuovo elemento si adatta e, di conseguenza, se il rubinetto funziona correttamente.
@@ -106,8 +104,6 @@ Se vi state chiedendo come sostituire una rondella del rubinetto - abbiamo una g
 * Svitare e smontare l'intera impugnatura. Si può fare facilmente senza l'uso di altri strumenti.
 * Poi, rimuovere il gambo dal manicotto - per fare questo, è possibile utilizzare una chiave a forchetta o una chiave a tubo. Grazie a questo, si ha pieno accesso alla cartuccia, in modo da poter esaminare la rondella del rubinetto. Se l'elemento è consumato o danneggiato, sostituitelo: togliete la vite, togliete il vecchio anello e sostituitelo con uno nuovo. Qual è il tipo migliore? Potete scegliere una rondella in silicone - bianca o nera.
 
-![](/uploads/washer3.jpg)
-
 ## Come si aggiusta un miscelatore?
 
 Il fissaggio di un miscelatore è molto simile ad una normale riparazione di un rubinetto. La differenza principale è la costruzione - che di fatto influisce sul tempo impiegato per l'attività.
@@ -131,8 +127,6 @@ Quando si sostituisce una rondella di rubinetto, è possibile pulire anche eleme
 Un rubinetto che gocciola potrebbe essere il segno di un malfunzionamento del beccuccio. La riparazione è abbastanza semplice e facile anche in questo caso - potete farlo voi stessi. Basta rimuovere le viti di installazione e rimuovere con cura il beccuccio, facendo attenzione a non danneggiare il lavandino. Poi, rimuovere la vecchia rondella. Inserire i nuovi elementi in posizione. Se siete riusciti a farlo correttamente - rimontare il beccuccio e stringere la vite in modo che il rubinetto non si sposti da un lato all'altro.
 
 Vi state chiedendo quale sia il prodotto migliore in questo caso? Un o-ring in gomma del beccuccio è perfetto. È disponibile in due misure standard: 1/2''', 16 mm, 12 mm o 3/4''', 18 mm, 14 mm.
-
-![](/uploads/washer4.jpg)
 
 ## Qual è il costo della sostituzione di una rondella di rubinetto?
 
