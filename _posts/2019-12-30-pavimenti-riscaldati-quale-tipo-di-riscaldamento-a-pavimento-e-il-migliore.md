@@ -80,8 +80,6 @@ Lo spreco di potenziale termico e la generazione di costi inutili è un altro pr
 
 Il costo del riscaldamento a pavimento comprende sia i **materiali che il servizio di installazione**. Tenete presente che i costi inizialmente calcolati sono solo valori stimati. Le spese totali potrebbero essere influenzate dalle attrezzature necessarie, dalla qualità e, soprattutto, dalla retribuzione della persona che installa gli elementi, che di solito dipende dalla regione.
 
-![](/uploads/a7c8d4bf9636492d89a96f367d907195.jpg)
-
 ## Riscaldamento elettrico a pavimento - quando sceglierlo?
 
 **Il riscaldamento elettrico a pavimento ha molti vantaggi.** È facile da installare in qualsiasi tipo di spazio in qualsiasi edificio. Può essere utilizzato come sistema di riscaldamento primario per la casa o l'appartamento, oltre che come complemento ad un altro metodo.
