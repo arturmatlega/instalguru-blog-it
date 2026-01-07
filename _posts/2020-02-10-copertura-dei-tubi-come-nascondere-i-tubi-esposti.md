@@ -67,8 +67,6 @@ Ricordate che il muro a secco creato avrà un bell'aspetto solo se vi occuperete
 
 Se vi state chiedendo come nascondere le tubature in un piccolo bagno - il cartongesso è adatto anche in questo caso. **Bisogna però tenere presente che gli interni con un tasso di umidità più elevato richiedono speciali pannelli di cartongesso impermeabili.** Sono molto più durevoli e meno vulnerabili ai fattori dannosi.
 
-![](/uploads/948196e9ad254b4f8fd0feeca9d3db0b.jpg)
-
 ## Tubi a scomparsa con colore
 
 Stai cercando un modo veloce per nascondere le tubature? C'è un metodo molto più economico e meno invasivo rispetto al rivestimento delle tubature con il cartongesso - dipingendole con il colore delle pareti. È meglio farlo insieme alla finitura o alla ristrutturazione degli interni. L'unica cosa da ricordare in questo caso è di scegliere esattamente lo stesso colore con cui sono state dipinte le altre parti dell'interno. In questo modo le tubature si integreranno perfettamente nel muro e saranno praticamente invisibili.
@@ -84,8 +82,6 @@ Se si desidera nascondere i tubi posizionati sotto il soffitto o a terra - il mo
 {:.distinction.distinction-info.distinction-negative}
 
 Per coprire gli elementi indesiderati posizionati proprio accanto al pavimento, utilizzare un ampio divano e posizionarlo a parete, per tutta la sua lunghezza. È un metodo molto conveniente - non è necessario fare alcuna ristrutturazione.
-
-![](/uploads/17523f9df91141dbb5e50ea171230750.jpg)
 
 ## Pugilato speciale per tubi
 
