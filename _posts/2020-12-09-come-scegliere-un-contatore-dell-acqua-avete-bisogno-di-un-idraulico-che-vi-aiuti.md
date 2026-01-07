@@ -85,8 +85,6 @@ Un contatore digitale dell'acqua è sicuramente molto più preciso, quindi viene
 
 Se scegliete un contatore dell'acqua, sappiate che gli apparecchi sono classificati in base alla loro destinazione d'uso per l'acqua calda e fredda. Un solo dispositivo non è sufficiente, a meno che non si utilizzi un riscaldatore per riscaldare l'acqua fredda. In questo caso, è necessario solo un contatore dell'acqua per l'acqua fredda.
 
-![](/uploads/wodomierz2.jpg)
-
 ### Un contatore d'acqua specializzato
 
 Se avete bisogno solo di un contatore d'acqua residenziale per la vostra casa o appartamento - non dovrebbe essere un problema trovare quello giusto. Potreste però aver bisogno di un idraulico e delle sue conoscenze se avete bisogno di un contatore dell'acqua specializzato. Sul mercato si possono trovare i seguenti apparecchi:
