@@ -77,8 +77,6 @@ Un impianto del gas con tubi di rame crea molte possibilità per il loro collega
 
 Un altro metodo prevede l'utilizzo di raccordi a pressare. In questo caso particolare, un normale raccordo PEX andrà bene. Tuttavia, se si vuole cambiare la direzione dell'impianto del gas e adattarlo alla costruzione dell'edificio, utilizzare raccordi a T in PEX o gomiti a pressione. Il processo di installazione di tali elementi è attualmente uno dei più semplici, quindi ogni specialista dovrebbe essere in grado di farlo. Questo fatto abbassa decisamente i costi di installazione del gas.
 
-![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
-
 ## Tubi d'acciaio - l'installazione del gas è più soggetta a fattori dannosi?
 
 I tubi in acciaio utilizzati per l'installazione delle linee del gas hanno diametri maggiori rispetto alle controparti in rame. Le pareti di un tubo d'acciaio sono più spesse, quindi sono più rigide e non hanno bisogno di essere fissate ad una parete con elementi aggiuntivi. Purtroppo questo tipo di installazione è molto pesante. **Un'installazione di linea del gas domestico come questa è anche significativamente più pesante**. Come le linee in rame, i tubi ripidi sono termicamente espandibili. Grazie a questa caratteristica, sono perfetti per le alte temperature.
