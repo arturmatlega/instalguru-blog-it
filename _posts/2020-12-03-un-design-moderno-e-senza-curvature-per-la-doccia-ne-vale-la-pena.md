@@ -63,8 +63,6 @@ Lo scarico lineare è un tipo di drenaggio sotto forma di una lunga fessura nel 
 
 Una doccia senza cordoli con questo tipo di scarico crea molte possibilità per l'arredamento d'interni, poiché richiede poco spazio e può essere collocata ovunque l'utente voglia. Inoltre, si può scegliere tra un classico scarico lineare dal design semplice e uno scarico lineare decorato con intagli inusuali.
 
-![](/uploads/curbless2.jpg)
-
 ## Una doccia arricciata è sicura per il bagno?
 
 Una doccia senza arricciature è una soluzione molto pratica; inoltre, è completamente innocua per il bagno, quindi non ci si deve preoccupare della possibilità di allagamenti.
@@ -90,8 +88,6 @@ I box doccia arricciati sono offerti da molti produttori. Ma la mancanza della b
 Si potrebbero ottenere tali pareti in un prezzo molto basso, anche se ci sono anche modelli molto costosi. La fascia di prezzo delle porte delle docce è simile.
 
 Un'altra soluzione è una cabina doccia con una o due sole pareti. Potrebbe essere una soluzione più economica, ma come sempre - tutto dipende dal produttore, dal materiale e dal modello particolare. In genere, un prezzo più alto significa anche un livello più alto di comfort ed estetica della doccia.
-
-![](/uploads/curbless3.jpg)
 
 ## Quali sono i vantaggi di una doccia senza curvatura
 
