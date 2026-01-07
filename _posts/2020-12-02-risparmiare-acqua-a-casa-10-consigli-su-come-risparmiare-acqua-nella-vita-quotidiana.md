@@ -73,8 +73,6 @@ Vi state chiedendo come rendere sicura l'acqua nella vita di tutti i giorni e st
 
 Come risparmiare acqua ogni giorno quando si usa l'acqua corrente? È possibile? Certo - basta non lavare i piatti con acqua corrente. Potete installare un rubinetto per il risparmio idrico con un beccuccio mobile - grazie al quale potrete dirigere il flusso esattamente dove vi serve.
 
-![](/uploads/watersaving2.jpg)
-
 {:.distinction.distinction-quotation.distinction-positive}
 
 Utilizzate una lavastoviglie? Nessun problema - anche in questo caso è possibile risparmiare acqua. Basta accenderla solo dopo che è completamente carica.
@@ -114,8 +112,6 @@ Se vi state chiedendo come risparmiare acqua nella vita quotidiana quando si lav
 ### Doccia invece di fare il bagno - è un metodo efficace per risparmiare acqua
 
 Come risparmiare acqua nella vita quotidiana quando si fa il bagno? Invece di fare il bagno scegliete la doccia. Per riempire una vasca da bagno sono necessari circa 200 litri d'acqua. Quando si fa la doccia, si usano circa 50 litri. Pensate a quanto si può risparmiare se ci sono 3 o 4 persone che vivono in un'unica casa.
-
-![](/uploads/watersaving3.jpg)
 
 ### Come risparmiare acqua nella doccia? Utilizzare gadget moderni
 
