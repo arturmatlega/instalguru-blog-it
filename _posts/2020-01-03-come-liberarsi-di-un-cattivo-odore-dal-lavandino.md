@@ -77,8 +77,6 @@ Potete facilmente eliminare il cattivo odore dal vostro lavandino con il sale. B
 
 Potrebbe accadere che la questione sia stata ignorata per così tanto tempo che i tubi sono stati intasati. In questo caso bisogna sbloccare i tubi.
 
-![](/uploads/22026fe9c155463eaf62d4cf9553d0e6.png)
-
 ### Controllare i rimedi casalinghi per le tubature intasate - il modo migliore per sturare il lavandino
 
 Se il lavandino intasato significa tubi bloccati, si può usare un metodo molto semplice con bicarbonato di sodio, aceto e acqua bollente. Come sturare il lavandino con questo metodo?
