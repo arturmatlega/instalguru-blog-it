@@ -80,8 +80,6 @@ A seconda del tipo di vasca da bagno con battiscopa, per l'installazione sono ne
 
 Inoltre, se siete interessati alle lastre di gesso, avrete bisogno di binari metallici a C e U, doghe di legno, trapano elettrico e forbici. Se state costruendo una struttura per vasche da bagno in blocchi di cemento, avete bisogno di malta sottile o di adesivo per calcestruzzo, membrana liquida, una lima fine e grossolana e strumenti di base per la muratura.
 
-![](/uploads/tub2.jpg)
-
 ### Una vasca da bagno a battiscopa - una guida all'installazione passo dopo passo
 
 Se volete installare una vasca da bagno con il battiscopa da soli - dovreste seguire i consigli degli specialisti. Guardate gli 8 passi qui sotto - vi aiuteranno nel vostro lavoro.
@@ -116,8 +114,6 @@ Il foro deve essere abbastanza grande da poter manovrare facilmente gli utensili
 ## Vasca da bagno a battiscopa - le tendenze più popolari del 2020
 
 Vi state chiedendo come si fa una gonna da vasca da bagno? Siete alla ricerca di idee su come rinnovare il vostro bagno? Ci sono molte soluzioni sul mercato. Fate attenzione alle tendenze più popolari del 2020, in modo che i vostri interni siano sempre aggiornati. Utilizzando una vasca da bagno con battiscopa apparentemente insignificante, potreste ottenere un risultato completamente diverso. Tenete presente che una gonna da vasca fabbricata, detta anche universale, è fuori moda. Potrebbe essere stata veloce e facile da installare, ma l'estetica non è stata la migliore. È stata sostituita con soluzioni molto più belle.
-
-![](/uploads/tub3.jpg)
 
 ### Gonna per vasca da bagno - in perfetta sintonia con gli elementi e gli accessori in ceramica
 
