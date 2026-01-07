@@ -83,8 +83,6 @@ In alcuni casi la ventilazione naturale è obbligatoria - è regolata dalla legg
 
 **La ventilazione naturale è la più vulnerabile in inverno e in estate.** Un tale sistema funziona grazie alle differenze di temperatura all'esterno e all'interno dell'edificio. L'aria all'interno dovrebbe essere più calda che all'esterno. Molto spesso, soprattutto quando le bocchette dell'aria sono mal progettate, l'aria ritorna all'edificio in estate. In inverno, invece, la ventilazione naturale potrebbe essere la causa di una bassa temperatura interna.
 
-![](/uploads/vent-207144_960_720.webp)
-
 ## Sistema di ventilazione a casa - vale la pena di utilizzare apparecchiature avanzate?
 
 Per quanto riguarda la ventilazione meccanica, ci sono diversi tipi di sistema. A seconda del meccanismo, si possono distinguere sistemi come:
@@ -133,8 +131,6 @@ La ventilazione dovrebbe essere testata da uno specialista legittimato. Anche il
 
 Una corretta ventilazione dell'edificio è fondamentale, e non dovrebbe essere trascurata. Poiché di solito passiamo la maggior parte del tempo a casa, si dovrebbe fare in modo che sia il luogo in cui ci si sente al sicuro e a proprio agio.
 
-![](/uploads/wentylacja_w_domu.jpg)
-
 ## Ventilazione del garage - cosa dice la legge?
 
 Le case moderne sono spesso costruite secondo progetti che prevedono anche un garage annesso. **La ventilazione del garage** è una questione molto importante.
@@ -152,8 +148,6 @@ Questo tipo di sistema di ventilazione funziona allo stesso modo a casa e in gar
 L'aria a temperatura più elevata proveniente dal garage ha una densità inferiore rispetto all'aria più fredda all'esterno. Ecco perché fluisce verso l'alto. L'intero processo di convezione è possibile grazie alle prese d'aria, utilizzate sia per la ventilazione della casa che del garage.
 
 Se decidete di utilizzare un tale sistema di ventilazione in garage, considerate la possibilità di ottenere bocchette d'aria rettangolari o quadrate di colore marrone. La ventilazione della casa utilizza solitamente bocchette bianche e rotonde. Queste ultime sono particolarmente universali, in quanto si abbinano a qualsiasi interno - indipendentemente dallo stile in cui sono state progettate.
-
-![](/uploads/wentylacja_w_domu2.jpg)
 
 **Si può anche utilizzare la ventilazione meccanica in garage.** Questa soluzione non solo fornisce molta aria fresca, ma la asciuga anche. La ventilazione meccanica non dipende dalle condizioni atmosferiche, quindi funziona perfettamente in ogni stagione. Una condizione necessaria per un tale sistema di ventilazione è la perfetta tenuta d'aria della stanza. Inoltre, il processo di installazione lo rende un sistema di ventilazione per garage sostanzialmente più costoso. Si dovrebbe anche essere preparati ai costi della sua manutenzione.
 
