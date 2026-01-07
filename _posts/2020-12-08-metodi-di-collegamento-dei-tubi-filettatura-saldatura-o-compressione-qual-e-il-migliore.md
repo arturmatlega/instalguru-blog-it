@@ -77,8 +77,6 @@ I tubi in polipropilene devono essere collegati con una saldatrice a fusione per
 
 Gli elementi del sistema PP-R possono essere collegati anche tramite filettatura. Per fare questo, sono necessari raccordi con una speciale filettatura maschio o femmina in ottone. Inoltre, è necessario un prodotto speciale per rendere il processo più semplice. L'olio per filettatura è altamente raccomandato.
 
-![](/uploads/pipes2.jpg)
-
 ## Come collegare i tubi PEX? Le informazioni più importanti
 
 Per il collegamento di tubazioni di impianti di riscaldamento centralizzato e di acqua calda sanitaria si utilizzano raccordi filettati o a compressione. Entrambi i metodi di collegamento dei tubi PEX forniscono risultati soddisfacenti e sono resistenti a vari fattori.
@@ -86,8 +84,6 @@ Per il collegamento di tubazioni di impianti di riscaldamento centralizzato e di
 Se si usano elementi filettati, basta stringere il dado per collegare il tubo e il raccordo. In questo modo, l'anello di fissaggio viene premuto sul tubo. La forma speciale dell'anello impedisce che si muova quando il dado viene serrato.
 
 Se si utilizzano raccordi compressi, è necessario posizionare una speciale pinza di serraggio direttamente sul tubo. Questo metodo di connessione al tubo richiede anche uno speciale pinza di crimpaggio. L'utensile deve essere messo sulla pinza e il compressore viene acceso. Dopo alcuni secondi si sente una caratteristica fessura - significa che la pinza è stata collegata al tubo.
-
-![](/uploads/pipes3.jpg)
 
 ## Collegamento dei tubi in PE - quali sono i metodi migliori?
 
