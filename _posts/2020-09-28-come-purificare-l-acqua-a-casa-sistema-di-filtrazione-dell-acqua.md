@@ -72,8 +72,6 @@ Molte persone sono preoccupate per la qualità dell'acqua del rubinetto. In real
 
 **Il gusto chimico che è comune per l'acqua di rubinetto è il risultato di processi di disinfezione con cloro**. Si tratta di uno dei problemi più frequentemente segnalati dagli utilizzatori di acqua di rubinetto. Ciò non significa, tuttavia, che l'acqua di un pozzo privato sia perfetta. In questo caso, il sapore del ferro è un problema comune. Tutto dipende dalla posizione e dalla profondità della sorgente.
 
-![Qual è il motivo dei problemi di gusto dell'acqua?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "Qual è il motivo dei problemi di gusto dell'acqua?")
-
 ## L'acqua proveniente dalla propria fonte - è più sana di quella di un fornitore?
 
 Si ritiene che l'acqua del proprio pozzo abbia una qualità migliore di quella di un sistema di approvvigionamento idrico locale. Qual è la realtà? **Collegando la casa alla rete idrica, si può essere sicuri che l'acqua sia sicura, cosa che è già stata spiegata**. I test regolari eliminano la presenza di sostanze pericolose. Nel caso di pozzi privati, si deve controllare la qualità dell'acqua. Spesso viene trascurata a causa della quantità di denaro richiesta per la procedura.
@@ -100,8 +98,6 @@ Ci sono vari tipi di filtri per acqua disponibili sul mercato, con diversi param
 
 I tipi più semplici sono i filtri a **rete, a spago e a schiuma per acqua. Sono anche chiamati filtri meccanici o filtri a sedimentazione**. Grazie ad essi, il sistema di filtrazione dell'acqua elimina le particelle di sabbia e di ruggine, invisibili ad occhio nudo. L'efficienza di tali cartucce dipende dalla loro densità e da quanto grandi particelle possono fermare.
 
-![Soluzioni di filtrazione dell'acqua - quale depuratore è il migliore?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Soluzioni di filtrazione dell'acqua - quale depuratore è il migliore?")
-
 I filtri dell'acqua in ferro sono un'altra opzione popolare, utilizzata soprattutto per i pozzi privati. **Simili alle cartucce meccaniche, sono di solito installati su tubi in uno speciale involucro di dimensioni e costruzione adeguate.** Il ruolo di tali apparecchiature è quello di rimuovere i composti di ferro nocivi. Essi rimuovono anche parzialmente l'azoto o addirittura il solfuro di idrogeno.
 
 Molte famiglie hanno il problema della **cosiddetta acqua dura**. Significa che contiene molto calcio e magnesio. Non è nemmeno un problema, poiché un filtro addolcitore d'acqua appropriato rimuove i sedimenti dal liquido.
@@ -111,8 +107,6 @@ Molte famiglie hanno il problema della **cosiddetta acqua dura**. Significa che 
 Un filtro multimediale è una delle scelte migliori per una casa. Questo tipo di dispositivo è **altamente efficiente**. Grazie a questo, il depuratore d'acqua può rimuovere vari tipi di sostanze. A seconda del mezzo, si possono ottenere diversi risultati.
 
 **Il mezzo non è altro che un materiale speciale di riempimento del serbatoio, che assorbe le sostanze nocive**. A seconda del tipo, è necessario lavarlo o rigenerarlo di tanto in tanto. C'è anche un altro aspetto importante - un depuratore d'acqua come un serbatoio filtro deve essere collegato alla rete elettrica e al sistema fognario.
-
-![Serbatoio di filtraggio multimediale - come funziona un moderno sistema di depurazione dell'acqua?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Serbatoio di filtraggio multimediale - come funziona un moderno sistema di depurazione dell'acqua?")
 
 ## Sistema di filtrazione dell'acqua domestico - vale la pena di installare un filtro ad osmosi inversa?
 
