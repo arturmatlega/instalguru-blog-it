@@ -72,8 +72,6 @@ Grazie a questa soluzione moderna, un edificio con più unità abitative o un ap
 * Può essere collocata ovunque - il dispositivo può essere collocato ovunque l'utente lo ritenga adatto, ad esempio in una lavanderia o in un locale di asciugatura, o in qualsiasi altro locale di servizio. Non è possibile per una caldaia.
 * Nessun serbatoio di combustibile - grazie alla pompa non è necessaria l'installazione di olio, gas o altri serbatoi di combustibile.
 
-![](/uploads/tenement2.jpg)
-
 ## Gli appartamenti e i condomini possono utilizzare il riscaldamento a pavimento?
 
 Il riscaldamento a pavimento viene spesso utilizzato nei moderni edifici a più unità. La decisione, in questo caso, viene presa dai proprietari dei singoli appartamenti. Ci sono due soluzioni tra cui scegliere. Una può utilizzare il riscaldamento a pavimento ad acqua o elettrico. Ogni opzione genera un elevato comfort termico, anche se funziona in modo diverso. I sistemi ad acqua sono decisamente più popolari.
@@ -91,8 +89,6 @@ Quali sono i maggiori vantaggi del riscaldamento a pavimento ad acqua? La cosa p
 ## Caldaie a condensazione per edifici a più unità
 
 Le caldaie a condensazione sono un'alternativa per il riscaldamento degli appartamenti o dei condomini. Dispositivi di questo tipo offrono il massimo comfort termico con un consumo energetico minimo. Le caldaie a condensazione sono ecologiche e possono ridurre i costi di utilizzo del sistema di riscaldamento.
-
-![](/uploads/tenement3.jpg)
 
 ### Come funziona una caldaia a condensazione?
 
