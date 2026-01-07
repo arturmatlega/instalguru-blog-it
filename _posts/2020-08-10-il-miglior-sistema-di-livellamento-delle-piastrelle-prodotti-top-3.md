@@ -78,8 +78,6 @@ Un sistema di livellamento delle piastrelle è un **insieme di elementi grazie a
 
 **L'utilizzo di un moderno sistema di livellamento delle piastrelle è una soluzione perfetta sia per i professionisti che per gli utenti inesperti.** Grazie a questo metodo l'intero processo è molto più semplice e, soprattutto, più veloce. Si stima che un sistema di livellamento delle piastrelle **possa far risparmiare fino al 50% del tempo** rispetto alla posa delle piastrelle con i distanziatori tradizionali.
 
-![Cos'è un sistema di livellamento delle piastrelle?](/uploads/system-poziomowania-plytek-szczypce.jpg "Cos'è un sistema di livellamento delle piastrelle?")
-
 ## Come funziona un sistema di livellamento delle piastrelle?
 
 Un sistema di livellamento standard per piastrelle contiene clip e **cunei di forma speciale che presentano caratteristici urti sulla superficie**. È importante utilizzare entrambi questi elementi per ottenere i risultati attesi.
@@ -100,8 +98,6 @@ Notate che non importa che tipo di piastrelle usate. Possono essere realizzate:
 * grés,
 * granito,
 * pietra.
-
-![Dove si può utilizzare un sistema di livellamento delle piastrelle?](/uploads/system-poziomowania-plytek-top3.jpg "Dove si può utilizzare un sistema di livellamento delle piastrelle?")
 
 ## Vale la pena di un sistema di livellamento delle piastrelle? Vantaggi della soluzione
 
@@ -125,13 +121,9 @@ Le estremità leggermente rialzate su entrambi i lati di una clip sono posiziona
 
 E' comune che un set del genere contenga anche pinze speciali. Grazie ad esse, **l'impostazione del sistema e dei suoi elementi è molto più rapida** e non richiede l'uso di alcuna forza.
 
-![Un sistema di livellamento delle piastrelle con clip a forma di ancoraggio](/uploads/system_poziomowania_ranking.jpg "Un sistema di livellamento delle piastrelle con clip a forma di ancoraggio")
-
 ### Un sistema di livellamento delle piastrelle con clip e cunei standard
 
 Una delle opzioni più comunemente utilizzate è un sistema di livellamento delle piastrelle che utilizza **clip e cunei** classici. In questo caso, una clip assomiglia a una finestra con una base in basso. La finestra è semplicemente lo spazio per un cuneo. È diverso dal sistema precedente - il cuneo deve essere fatto scorrere al centro della clip. Grazie ai caratteristici urti si può esercitare una pressione massima sul cuneo e di conseguenza livellare perfettamente le piastrelle.
-
-![Un sistema di livellamento delle piastrelle con clip e cunei standard](/uploads/system_poziomowania_ranking_2.jpg "Un sistema di livellamento delle piastrelle con clip e cunei standard")
 
 ### Un sistema di livellamento delle piastrelle riutilizzabile
 
@@ -142,8 +134,6 @@ Anche questo tipo di sistema di livellamento delle piastrelle utilizza due eleme
 {:.distinction.distinction-info.distinction-negative}
 
 Non è una soluzione del tutto impeccabile. In questo caso è necessario utilizzare dei distanziatori trasversali per piastrelle supplementari, il che richiede più tempo e potrebbe essere difficile per gli utenti inesperti. Inoltre, dopo aver livellato le piastrelle, le clip devono essere rimosse dopo qualche ora. Potrebbe rovinare il livello delle piastrelle.
-
-![Non è una soluzione del tutto impeccabile. In questo caso è necessario utilizzare dei distanziatori trasversali per piastrelle supplementari, il che richiede più tempo e potrebbe essere difficile per gli utenti inesperti. Inoltre, dopo aver livellato le piastrelle, le clip devono essere rimosse dopo qualche ora. Potrebbe rovinare il livello delle piastrelle.](/uploads/system_poziomowania_ranking_3.jpg "Non è una soluzione del tutto impeccabile. In questo caso è necessario utilizzare dei distanziatori trasversali per piastrelle supplementari, il che richiede più tempo e potrebbe essere difficile per gli utenti inesperti. Inoltre, dopo aver livellato le piastrelle, le clip devono essere rimosse dopo qualche ora. Potrebbe rovinare il livello delle piastrelle.")
 
 ## Un sistema di livellamento delle piastrelle - monouso o riutilizzabile?
 
